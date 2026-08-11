@@ -53,15 +53,28 @@ jobs:
             echo "::warning::새 카카오 리프레시 토큰이 발급되었습니다. 시크릿을 직접 갱신하세요."
           fi
 
+      # 수집한 결과만 따로 빼둔 뒤 최신 창고 위에 얹어 저장합니다.
+      # 중간에 파일을 고쳤거나 예전 시점에서 실행돼도 충돌 없이 저장됩니다.
       - name: 결과 저장
         run: |
           rm -f new_items.json new_refresh_token.txt
+          cp docs/data/notices.json /tmp/notices.json
+
           git config user.name "g2b-watch"
           git config user.email "actions@github.com"
+          git fetch origin main
+          git reset --hard origin/main
+
+          mkdir -p docs/data
+          cp /tmp/notices.json docs/data/notices.json
           git add docs/data/notices.json
-          git diff --staged --quiet || git commit -m "공고 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
-          git pull --rebase --autostash origin main
-          git push
+
+          if git diff --staged --quiet; then
+            echo "바뀐 공고가 없어 저장을 건너뜁니다."
+          else
+            git commit -m "공고 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            git push origin HEAD:main
+          fi
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
