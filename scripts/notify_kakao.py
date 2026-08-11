@@ -24,16 +24,17 @@ TOKEN_URL = "https://kauth.kakao.com/oauth/token"
 SEND_URL = "https://kapi.kakao.com/v2/api/talk/memo/default/send"
 
 
-def refresh_access_token(rest_key, refresh_token):
-    r = requests.post(
-        TOKEN_URL,
-        data={
-            "grant_type": "refresh_token",
-            "client_id": rest_key,
-            "refresh_token": refresh_token,
-        },
-        timeout=20,
-    )
+def refresh_access_token(rest_key, refresh_token, client_secret=""):
+    payload = {
+        "grant_type": "refresh_token",
+        "client_id": rest_key,
+        "refresh_token": refresh_token,
+    }
+    # 카카오 앱에서 클라이언트 시크릿을 켠 경우에만 함께 보냅니다.
+    if client_secret:
+        payload["client_secret"] = client_secret
+
+    r = requests.post(TOKEN_URL, data=payload, timeout=20)
     r.raise_for_status()
     payload = r.json()
 
@@ -82,6 +83,7 @@ def build_text(items, site_url):
 def main():
     rest_key = os.environ.get("KAKAO_REST_API_KEY", "").strip()
     refresh_token = os.environ.get("KAKAO_REFRESH_TOKEN", "").strip()
+    client_secret = os.environ.get("KAKAO_CLIENT_SECRET", "").strip()
     site_url = os.environ.get("SITE_URL", "https://www.g2b.go.kr/").strip()
 
     path = ROOT / "new_items.json"
@@ -94,7 +96,7 @@ def main():
         print("카카오 키가 없어 알림을 건너뜁니다.")
         return
 
-    token = refresh_access_token(rest_key, refresh_token)
+    token = refresh_access_token(rest_key, refresh_token, client_secret)
     template = {
         "object_type": "text",
         "text": build_text(items, site_url),
