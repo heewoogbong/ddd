@@ -32,6 +32,35 @@ PRESPEC_URL = "https://apis.data.go.kr/1230000/ao/HrcspSsstndrdInfoService/getPu
 # --------------------------------------------------------------------------
 # API 호출
 # --------------------------------------------------------------------------
+def fetch_once(url, service_key, q, timeout=60):
+    """인증키를 붙여 한 번 요청합니다."""
+    if "%" in service_key:
+        return requests.get(url + "?serviceKey=" + service_key, params=q, timeout=timeout)
+    q = dict(q, serviceKey=service_key)
+    return requests.get(url, params=q, timeout=timeout)
+
+
+def fetch_with_retry(url, service_key, q, tries=5):
+    """나라장터 서버가 응답을 자주 끊어서, 실패하면 잠시 쉬었다가 다시 시도합니다."""
+    waits = [5, 15, 30, 60]
+    last = None
+    for attempt in range(tries):
+        try:
+            resp = fetch_once(url, service_key, q)
+            if resp.status_code == 200:
+                return resp
+            last = RuntimeError(f"HTTP {resp.status_code}: {resp.text[:200]}")
+        except requests.exceptions.RequestException as e:
+            last = e
+
+        if attempt < tries - 1:
+            wait = waits[min(attempt, len(waits) - 1)]
+            print(f"  응답이 없어 {wait}초 뒤 다시 시도합니다 ({attempt + 1}/{tries - 1})")
+            time.sleep(wait)
+
+    raise RuntimeError(f"{tries}번 시도했지만 실패했습니다: {last}")
+
+
 def call_api(url, service_key, params, max_pages=20):
     """페이지를 끝까지 돌면서 items 리스트를 모아 반환합니다."""
     items = []
@@ -39,16 +68,7 @@ def call_api(url, service_key, params, max_pages=20):
         q = dict(params)
         q.update({"pageNo": page, "numOfRows": 100, "type": "json"})
 
-        # 인증키에 %가 들어 있으면 이미 URL 인코딩된 키로 보고 직접 붙입니다.
-        if "%" in service_key:
-            full = url + "?serviceKey=" + service_key
-            resp = requests.get(full, params=q, timeout=30)
-        else:
-            q["serviceKey"] = service_key
-            resp = requests.get(url, params=q, timeout=30)
-
-        if resp.status_code != 200:
-            raise RuntimeError(f"HTTP {resp.status_code}: {resp.text[:300]}")
+        resp = fetch_with_retry(url, service_key, q)
 
         try:
             body = resp.json()["response"]["body"]
@@ -69,7 +89,7 @@ def call_api(url, service_key, params, max_pages=20):
         total = int(body.get("totalCount") or 0)
         if len(items) >= total:
             break
-        time.sleep(0.3)
+        time.sleep(0.5)
 
     return items
 
