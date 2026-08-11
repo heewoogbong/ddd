@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow, noarchive" />
+<title>영상 공고 감시대</title>
+<link rel="stylesheet" as="style" crossorigin
+  href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+<style>
+  :root {
+    --bg: #0a0c11;
+    --panel: #12161f;
+    --panel-hi: #171c28;
+    --line: #242c3c;
+    --line-soft: #1b2130;
+    --text: #e8ecf4;
+    --muted: #78849c;
+    --dim: #4d5768;
+    --accent: #5c7cff;
+    --hot: #ff6a55;
+    --fresh: #3fd69a;
+    --amber: #f0a93b;
+    --sans: "Pretendard Variable", Pretendard, -apple-system, system-ui, sans-serif;
+    --mono: ui-monospace, "SFMono-Regular", Menlo, monospace;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { -webkit-text-size-adjust: 100%; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.55;
+    letter-spacing: -0.011em;
+    padding-bottom: 80px;
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  .wrap { max-width: 940px; margin: 0 auto; padding: 0 20px; }
+
+  /* ---------- 헤더 ---------- */
+  .masthead { padding: 42px 0 24px; border-bottom: 1px solid var(--line); }
+
+  .eyebrow {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.16em;
+    text-transform: uppercase; color: var(--dim); margin: 0 0 10px;
+  }
+
+  .masthead h1 {
+    margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -0.035em;
+  }
+
+  .stamp {
+    margin-top: 8px; font-family: var(--mono); font-size: 12px; color: var(--muted);
+  }
+
+  .tally { display: flex; flex-wrap: wrap; gap: 26px; margin-top: 22px; }
+
+  .tally div { display: flex; align-items: baseline; gap: 7px; }
+
+  .tally b {
+    font-size: 25px; font-weight: 800; letter-spacing: -0.04em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .tally span { font-size: 12px; color: var(--muted); }
+
+  .t-new b { color: var(--fresh); }
+  .t-hot b { color: var(--hot); }
+
+  /* ---------- 필터 ---------- */
+  .controls {
+    position: sticky; top: 0; z-index: 20;
+    background: rgba(10, 12, 17, 0.9);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--line-soft);
+    padding: 14px 0;
+  }
+
+  .controls .wrap { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+
+  #q {
+    flex: 1 1 200px; min-width: 0;
+    background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
+    color: var(--text); font-family: var(--sans); font-size: 14px;
+    padding: 9px 13px;
+  }
+
+  #q::placeholder { color: var(--dim); }
+  #q:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+
+  .seg { display: flex; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+
+  .seg button {
+    background: none; border: 0; color: var(--muted); cursor: pointer;
+    font-family: var(--sans); font-size: 13px; font-weight: 600;
+    padding: 9px 13px; white-space: nowrap;
+  }
+
+  .seg button[aria-pressed="true"] { background: var(--panel-hi); color: var(--text); }
+  .seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+
+  /* ---------- 밴드 ---------- */
+  .band {
+    display: flex; align-items: center; gap: 12px;
+    margin: 34px 0 14px;
+    font-size: 12px; font-weight: 700; letter-spacing: 0.06em; color: var(--muted);
+  }
+
+  .band::after { content: ""; flex: 1; height: 1px; background: var(--line-soft); }
+  .band em { font-style: normal; color: var(--dim); font-weight: 500; font-variant-numeric: tabular-nums; }
+  .band.urgent { color: var(--hot); }
+
+  /* ---------- 카드 ---------- */
+  .card {
+    display: grid; grid-template-columns: 74px 1fr;
+    background: var(--panel); border: 1px solid var(--line-soft); border-radius: 11px;
+    margin-bottom: 9px; overflow: hidden;
+    transition: border-color .16s ease, transform .16s ease;
+  }
+
+  .card:hover { border-color: var(--line); transform: translateY(-1px); }
+  .card:focus-within { border-color: var(--accent); }
+  .card.read { opacity: 0.46; }
+
+  /* D-day 슬러그 — 이 화면의 중심 */
+  .slug {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 2px; padding: 16px 6px;
+    border-right: 1px solid var(--line-soft);
+    background: linear-gradient(180deg, var(--panel-hi), var(--panel));
+  }
+
+  .slug .d {
+    font-size: 21px; font-weight: 800; letter-spacing: -0.05em;
+    font-variant-numeric: tabular-nums; color: var(--muted);
+  }
+
+  .slug .u { font-size: 10px; color: var(--dim); letter-spacing: 0.04em; }
+
+  .card[data-heat="hot"] .slug .d { color: var(--hot); }
+  .card[data-heat="warm"] .slug .d { color: var(--amber); }
+  .card[data-heat="ok"] .slug .d { color: var(--text); }
+
+  .body { padding: 15px 17px 14px; min-width: 0; }
+
+  .tagrow { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-bottom: 7px; }
+
+  .tag {
+    font-size: 10px; font-weight: 700; letter-spacing: 0.05em;
+    padding: 2px 7px; border-radius: 4px;
+    border: 1px solid var(--line); color: var(--muted);
+  }
+
+  .tag.bid { border-color: rgba(92, 124, 255, .4); color: #93a8ff; }
+  .tag.pre { border-color: rgba(240, 169, 59, .4); color: var(--amber); }
+  .tag.new { border-color: rgba(63, 214, 154, .45); color: var(--fresh); }
+  .tag.star { border-color: rgba(240, 169, 59, .45); color: var(--amber); }
+
+  .title {
+    display: block; font-size: 15.5px; font-weight: 700; letter-spacing: -0.02em;
+    line-height: 1.4; margin-bottom: 7px; word-break: keep-all;
+  }
+
+  .title:hover { color: #a8bcff; }
+  .title:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
+
+  .meta { font-size: 12.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 9px; }
+  .meta .amt { color: var(--text); font-variant-numeric: tabular-nums; }
+  .meta .no { font-family: var(--mono); font-size: 11.5px; color: var(--dim); }
+
+  .acts { display: flex; gap: 6px; margin-top: 11px; }
+
+  .acts button {
+    background: none; border: 1px solid var(--line); border-radius: 6px;
+    color: var(--muted); cursor: pointer;
+    font-family: var(--sans); font-size: 11.5px; font-weight: 600;
+    padding: 4px 9px;
+  }
+
+  .acts button:hover { color: var(--text); border-color: var(--muted); }
+  .acts button[aria-pressed="true"] { color: var(--fresh); border-color: rgba(63, 214, 154, .45); }
+  .acts button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* ---------- 빈 화면 ---------- */
+  .empty { padding: 70px 0; text-align: center; color: var(--muted); }
+  .empty p { margin: 0 0 6px; font-size: 15px; font-weight: 600; color: var(--text); }
+  .empty small { font-size: 13px; }
+
+  @media (max-width: 560px) {
+    .masthead { padding: 30px 0 20px; }
+    .masthead h1 { font-size: 24px; }
+    .card { grid-template-columns: 60px 1fr; }
+    .slug .d { font-size: 18px; }
+    .body { padding: 13px 14px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <p class="eyebrow">나라장터 · 용역 + 사전규격</p>
+    <h1>영상 공고 감시대</h1>
+    <p class="stamp" id="stamp">불러오는 중…</p>
+    <div class="tally">
+      <div class="t-new"><b id="cNew">0</b><span>안 읽음</span></div>
+      <div class="t-hot"><b id="cHot">0</b><span>3일 내 마감</span></div>
+      <div><b id="cLive">0</b><span>진행 중</span></div>
+      <div><b id="cKeep">0</b><span>관심</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <input id="q" type="search" placeholder="공고명·기관 검색" autocomplete="off" />
+    <div class="seg" id="fKind">
+      <button data-v="all" aria-pressed="true">전체</button>
+      <button data-v="bid" aria-pressed="false">입찰</button>
+      <button data-v="prespec" aria-pressed="false">사전규격</button>
+    </div>
+    <div class="seg" id="fView">
+      <button data-v="live" aria-pressed="true">진행 중</button>
+      <button data-v="unread" aria-pressed="false">안 읽음</button>
+      <button data-v="keep" aria-pressed="false">관심</button>
+      <button data-v="all" aria-pressed="false">전부</button>
+    </div>
+  </div>
+</div>
+
+<main class="wrap" id="list"></main>
+
+<script>
+const KEY = "g2b-video-watch";
+const state = { kind: "all", view: "live", q: "" };
+let notices = [];
+let marks = load();
+
+function load() {
+  try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; }
+}
+function save() {
+  localStorage.setItem(KEY, JSON.stringify(marks));
+}
+function mark(id) {
+  return marks[id] || (marks[id] = {});
+}
+
+/* 남은 일수. 마감시각이 없으면 null */
+function daysLeft(iso) {
+  if (!iso) return null;
+  const t = new Date(iso).getTime();
+  if (isNaN(t)) return null;
+  return Math.floor((t - Date.now()) / 86400000);
+}
+
+function heat(d) {
+  if (d === null) return "none";
+  if (d < 0) return "dead";
+  if (d <= 2) return "hot";
+  if (d <= 6) return "warm";
+  return "ok";
+}
+
+function money(w) {
+  if (!w) return "";
+  if (w >= 1e8) return (w / 1e8).toFixed(1).replace(/\.0$/, "") + "억원";
+  return Math.round(w / 1e4).toLocaleString() + "만원";
+}
+
+function fmtDate(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  return `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")}`;
+}
+
+const BANDS = [
+  { id: "hot",  label: "오늘·내일 마감", test: d => d !== null && d >= 0 && d <= 1, urgent: true },
+  { id: "soon", label: "이번 주 안에",    test: d => d !== null && d >= 2 && d <= 6 },
+  { id: "room", label: "여유 있음",       test: d => d !== null && d >= 7 },
+  { id: "none", label: "마감일 미표기",   test: d => d === null },
+  { id: "over", label: "마감됨",          test: d => d !== null && d < 0 },
+];
+
+function visible() {
+  const q = state.q.trim().toLowerCase();
+  return notices.filter(n => {
+    const d = daysLeft(n.close_at);
+    if (state.kind !== "all" && n.kind !== state.kind) return false;
+    if (state.view === "live" && d !== null && d < 0) return false;
+    if (state.view === "unread" && mark(n.id).read) return false;
+    if (state.view === "keep" && !mark(n.id).keep) return false;
+    if (q && !(n.title + n.org).toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
+function card(n) {
+  const d = daysLeft(n.close_at);
+  const h = heat(d);
+  const m = mark(n.id);
+  const isNew = !m.read;
+  const link = n.url || "https://www.g2b.go.kr/";
+
+  const dText = d === null ? "—" : d < 0 ? "마감" : d === 0 ? "D-0" : "D-" + d;
+  const el = document.createElement("article");
+  el.className = "card" + (m.read ? " read" : "");
+  el.dataset.heat = h;
+
+  el.innerHTML = `
+    <div class="slug">
+      <span class="d">${dText}</span>
+      <span class="u">${fmtDate(n.close_at) || "미정"}</span>
+    </div>
+    <div class="body">
+      <div class="tagrow">
+        <span class="tag ${n.kind === "prespec" ? "pre" : "bid"}">${n.kind === "prespec" ? "사전규격" : "입찰공고"}</span>
+        ${isNew ? '<span class="tag new">안 읽음</span>' : ""}
+        ${n.starred ? '<span class="tag star">★ 관심기관</span>' : ""}
+        ${(n.hits || []).slice(0, 3).map(k => `<span class="tag">${k}</span>`).join("")}
+      </div>
+      <a class="title" href="${link}" target="_blank" rel="noopener">${n.title}</a>
+      <div class="meta">
+        <span>${n.org || "기관 미상"}</span>
+        ${n.budget ? `<span class="amt">${money(n.budget)}</span>` : ""}
+        ${n.method ? `<span>${n.method}</span>` : ""}
+        <span class="no">${n.no}</span>
+      </div>
+      <div class="acts">
+        <button data-act="read">${m.read ? "안 읽음으로" : "읽음 표시"}</button>
+        <button data-act="keep" aria-pressed="${!!m.keep}">${m.keep ? "관심 해제" : "관심 등록"}</button>
+      </div>
+    </div>`;
+
+  el.querySelector('[data-act="read"]').onclick = () => { m.read = !m.read; save(); render(); };
+  el.querySelector('[data-act="keep"]').onclick = () => { m.keep = !m.keep; save(); render(); };
+  return el;
+}
+
+function render() {
+  const list = document.getElementById("list");
+  list.textContent = "";
+  const rows = visible();
+
+  if (!rows.length) {
+    list.innerHTML = `<div class="empty"><p>조건에 맞는 공고가 없습니다.</p>
+      <small>검색어를 지우거나 필터를 '전부'로 바꿔보세요.</small></div>`;
+  } else {
+    BANDS.forEach(b => {
+      const group = rows.filter(n => b.test(daysLeft(n.close_at)));
+      if (!group.length) return;
+      const h = document.createElement("div");
+      h.className = "band" + (b.urgent ? " urgent" : "");
+      h.innerHTML = `${b.label} <em>${group.length}</em>`;
+      list.appendChild(h);
+      group.forEach(n => list.appendChild(card(n)));
+    });
+  }
+
+  const live = notices.filter(n => { const d = daysLeft(n.close_at); return d === null || d >= 0; });
+  document.getElementById("cNew").textContent = live.filter(n => !mark(n.id).read).length;
+  document.getElementById("cHot").textContent = live.filter(n => { const d = daysLeft(n.close_at); return d !== null && d <= 2; }).length;
+  document.getElementById("cLive").textContent = live.length;
+  document.getElementById("cKeep").textContent = notices.filter(n => mark(n.id).keep).length;
+}
+
+function wireSeg(id, field) {
+  const box = document.getElementById(id);
+  box.addEventListener("click", e => {
+    const btn = e.target.closest("button");
+    if (!btn) return;
+    [...box.children].forEach(b => b.setAttribute("aria-pressed", String(b === btn)));
+    state[field] = btn.dataset.v;
+    render();
+  });
+}
+wireSeg("fKind", "kind");
+wireSeg("fView", "view");
+
+document.getElementById("q").addEventListener("input", e => {
+  state.q = e.target.value;
+  render();
+});
+
+fetch("data/notices.json?v=" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    notices = d.notices || [];
+    document.getElementById("stamp").textContent =
+      "마지막 수집 " + fmtDate(d.updated_at) + " · 누적 " + notices.length + "건";
+    render();
+  })
+  .catch(() => {
+    document.getElementById("stamp").textContent = "데이터를 불러오지 못했습니다";
+    document.getElementById("list").innerHTML =
+      `<div class="empty"><p>아직 수집된 공고가 없습니다.</p>
+       <small>Actions 탭에서 '영상 공고 수집'을 한 번 실행해 주세요.</small></div>`;
+  });
+</script>
+</body>
+</html>
