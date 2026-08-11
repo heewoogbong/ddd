@@ -26,7 +26,6 @@
   }
 
   * { box-sizing: border-box; }
-
   html { -webkit-text-size-adjust: 100%; }
 
   body {
@@ -42,151 +41,150 @@
 
   a { color: inherit; text-decoration: none; }
 
-  .wrap { max-width: 940px; margin: 0 auto; padding: 0 20px; }
+  .wrap { max-width: 1480px; margin: 0 auto; padding: 0 24px; }
 
   /* ---------- 헤더 ---------- */
-  .masthead { padding: 42px 0 24px; border-bottom: 1px solid var(--line); }
+  .masthead { padding: 40px 0 22px; border-bottom: 1px solid var(--line); }
 
   .eyebrow {
     font-size: 11px; font-weight: 600; letter-spacing: 0.16em;
     text-transform: uppercase; color: var(--dim); margin: 0 0 10px;
   }
 
-  .masthead h1 {
-    margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -0.035em;
-  }
+  .masthead h1 { margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -0.035em; }
 
-  .stamp {
-    margin-top: 8px; font-family: var(--mono); font-size: 12px; color: var(--muted);
-  }
+  .stamp { margin-top: 8px; font-family: var(--mono); font-size: 12px; color: var(--muted); }
 
-  .tally { display: flex; flex-wrap: wrap; gap: 26px; margin-top: 22px; }
-
+  .tally { display: flex; flex-wrap: wrap; gap: 26px; margin-top: 20px; }
   .tally div { display: flex; align-items: baseline; gap: 7px; }
-
-  .tally b {
-    font-size: 25px; font-weight: 800; letter-spacing: -0.04em;
-    font-variant-numeric: tabular-nums;
-  }
-
+  .tally b { font-size: 25px; font-weight: 800; letter-spacing: -0.04em; font-variant-numeric: tabular-nums; }
   .tally span { font-size: 12px; color: var(--muted); }
-
   .t-new b { color: var(--fresh); }
   .t-hot b { color: var(--hot); }
 
   /* ---------- 필터 ---------- */
   .controls {
     position: sticky; top: 0; z-index: 20;
-    background: rgba(10, 12, 17, 0.9);
+    background: rgba(10, 12, 17, 0.92);
     backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--line-soft);
-    padding: 14px 0;
+    padding: 13px 0;
   }
 
   .controls .wrap { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 
   #q {
-    flex: 1 1 200px; min-width: 0;
+    flex: 1 1 220px; min-width: 0;
     background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
-    color: var(--text); font-family: var(--sans); font-size: 14px;
-    padding: 9px 13px;
+    color: var(--text); font-family: var(--sans); font-size: 14px; padding: 9px 13px;
   }
-
   #q::placeholder { color: var(--dim); }
   #q:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
 
   .seg { display: flex; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
-
   .seg button {
     background: none; border: 0; color: var(--muted); cursor: pointer;
     font-family: var(--sans); font-size: 13px; font-weight: 600;
     padding: 9px 13px; white-space: nowrap;
   }
-
   .seg button[aria-pressed="true"] { background: var(--panel-hi); color: var(--text); }
   .seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
 
   /* ---------- 밴드 ---------- */
   .band {
     display: flex; align-items: center; gap: 12px;
-    margin: 34px 0 14px;
+    margin: 30px 0 13px;
     font-size: 12px; font-weight: 700; letter-spacing: 0.06em; color: var(--muted);
   }
-
   .band::after { content: ""; flex: 1; height: 1px; background: var(--line-soft); }
   .band em { font-style: normal; color: var(--dim); font-weight: 500; font-variant-numeric: tabular-nums; }
   .band.urgent { color: var(--hot); }
 
-  /* ---------- 카드 ---------- */
+  /* ---------- 카드 격자 ---------- */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 10px;
+  }
+
   .card {
-    display: grid; grid-template-columns: 74px 1fr;
-    background: var(--panel); border: 1px solid var(--line-soft); border-radius: 11px;
-    margin-bottom: 9px; overflow: hidden;
+    display: flex; flex-direction: column;
+    background: var(--panel); border: 1px solid var(--line-soft); border-radius: 12px;
+    padding: 14px 15px 12px;
     transition: border-color .16s ease, transform .16s ease;
   }
+  .card:hover { border-color: var(--line); transform: translateY(-2px); }
+  .card.read { opacity: 0.45; }
 
-  .card:hover { border-color: var(--line); transform: translateY(-1px); }
-  .card:focus-within { border-color: var(--accent); }
-  .card.read { opacity: 0.46; }
-
-  /* D-day 슬러그 — 이 화면의 중심 */
-  .slug {
-    display: flex; flex-direction: column; align-items: center; justify-content: center;
-    gap: 2px; padding: 16px 6px;
-    border-right: 1px solid var(--line-soft);
-    background: linear-gradient(180deg, var(--panel-hi), var(--panel));
-  }
-
-  .slug .d {
-    font-size: 21px; font-weight: 800; letter-spacing: -0.05em;
-    font-variant-numeric: tabular-nums; color: var(--muted);
-  }
-
-  .slug .u { font-size: 10px; color: var(--dim); letter-spacing: 0.04em; }
-
-  .card[data-heat="hot"] .slug .d { color: var(--hot); }
-  .card[data-heat="warm"] .slug .d { color: var(--amber); }
-  .card[data-heat="ok"] .slug .d { color: var(--text); }
-
-  .body { padding: 15px 17px 14px; min-width: 0; }
-
-  .tagrow { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-bottom: 7px; }
+  .top { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 9px; }
+  .tags { display: flex; flex-wrap: wrap; gap: 5px; flex: 1; min-width: 0; }
 
   .tag {
-    font-size: 10px; font-weight: 700; letter-spacing: 0.05em;
-    padding: 2px 7px; border-radius: 4px;
-    border: 1px solid var(--line); color: var(--muted);
+    font-size: 10px; font-weight: 700; letter-spacing: 0.04em;
+    padding: 2px 6px; border-radius: 4px;
+    border: 1px solid var(--line); color: var(--muted); white-space: nowrap;
   }
-
   .tag.bid { border-color: rgba(92, 124, 255, .4); color: #93a8ff; }
   .tag.pre { border-color: rgba(240, 169, 59, .4); color: var(--amber); }
   .tag.new { border-color: rgba(63, 214, 154, .45); color: var(--fresh); }
-  .tag.star { border-color: rgba(240, 169, 59, .45); color: var(--amber); }
+
+  .star {
+    background: none; border: 0; cursor: pointer; padding: 0 2px;
+    font-size: 16px; line-height: 1; color: var(--dim);
+  }
+  .star:hover { color: var(--muted); }
+  .star[aria-pressed="true"] { color: var(--amber); }
+  .star:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
 
   .title {
-    display: block; font-size: 15.5px; font-weight: 700; letter-spacing: -0.02em;
-    line-height: 1.4; margin-bottom: 7px; word-break: keep-all;
+    display: block; width: 100%; text-align: left;
+    background: none; border: 0; padding: 0; cursor: pointer;
+    font-family: var(--sans); font-size: 15px; font-weight: 700;
+    letter-spacing: -0.022em; line-height: 1.4; color: var(--text);
+    word-break: keep-all; margin-bottom: 8px;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
   }
-
   .title:hover { color: #a8bcff; }
   .title:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
 
-  .meta { font-size: 12.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 9px; }
-  .meta .amt { color: var(--text); font-variant-numeric: tabular-nums; }
-  .meta .no { font-family: var(--mono); font-size: 11.5px; color: var(--dim); }
+  .org { font-size: 12.5px; color: var(--muted); margin-bottom: 3px; }
+  .amt { font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .amt b { color: var(--text); font-weight: 700; }
 
-  .acts { display: flex; gap: 6px; margin-top: 11px; }
-
-  .acts button {
-    background: none; border: 1px solid var(--line); border-radius: 6px;
-    color: var(--muted); cursor: pointer;
-    font-family: var(--sans); font-size: 11.5px; font-weight: 600;
-    padding: 4px 9px;
+  .foot {
+    display: flex; align-items: center; gap: 8px;
+    margin-top: auto; padding-top: 11px;
+    border-top: 1px solid var(--line-soft);
   }
 
-  .acts button:hover { color: var(--text); border-color: var(--muted); }
-  .acts button[aria-pressed="true"] { color: var(--fresh); border-color: rgba(63, 214, 154, .45); }
-  .acts button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .dday {
+    font-size: 15px; font-weight: 800; letter-spacing: -0.04em;
+    font-variant-numeric: tabular-nums; color: var(--muted);
+  }
+  .card[data-heat="hot"] .dday { color: var(--hot); }
+  .card[data-heat="warm"] .dday { color: var(--amber); }
+  .card[data-heat="ok"] .dday { color: var(--text); }
+
+  .clock { font-size: 11.5px; color: var(--dim); font-variant-numeric: tabular-nums; }
+
+  .done {
+    margin-left: auto;
+    background: none; border: 1px solid var(--line); border-radius: 6px;
+    color: var(--muted); cursor: pointer;
+    font-family: var(--sans); font-size: 11.5px; font-weight: 600; padding: 4px 9px;
+  }
+  .done:hover { color: var(--text); border-color: var(--muted); }
+  .done:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* ---------- 알림 토스트 ---------- */
+  #toast {
+    position: fixed; left: 50%; bottom: 28px; transform: translate(-50%, 20px);
+    background: var(--panel-hi); border: 1px solid var(--line); border-radius: 9px;
+    padding: 11px 18px; font-size: 13.5px; font-weight: 600;
+    opacity: 0; pointer-events: none; transition: opacity .2s ease, transform .2s ease;
+    z-index: 50; box-shadow: 0 8px 24px rgba(0, 0, 0, .45);
+  }
+  #toast.on { opacity: 1; transform: translate(-50%, 0); }
 
   /* ---------- 빈 화면 ---------- */
   .empty { padding: 70px 0; text-align: center; color: var(--muted); }
@@ -194,15 +192,14 @@
   .empty small { font-size: 13px; }
 
   @media (max-width: 560px) {
-    .masthead { padding: 30px 0 20px; }
+    .wrap { padding: 0 16px; }
+    .masthead { padding: 28px 0 18px; }
     .masthead h1 { font-size: 24px; }
-    .card { grid-template-columns: 60px 1fr; }
-    .slug .d { font-size: 18px; }
-    .body { padding: 13px 14px; }
+    .grid { grid-template-columns: 1fr; }
   }
 
   @media (prefers-reduced-motion: reduce) {
-    * { transition: none !important; animation: none !important; }
+    * { transition: none !important; }
   }
 </style>
 </head>
@@ -240,9 +237,11 @@
 </div>
 
 <main class="wrap" id="list"></main>
+<div id="toast" role="status" aria-live="polite"></div>
 
 <script>
 const KEY = "g2b-video-watch";
+const G2B = "https://www.g2b.go.kr/";
 const state = { kind: "all", view: "live", q: "" };
 let notices = [];
 let marks = load();
@@ -250,14 +249,45 @@ let marks = load();
 function load() {
   try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; }
 }
-function save() {
-  localStorage.setItem(KEY, JSON.stringify(marks));
-}
-function mark(id) {
-  return marks[id] || (marks[id] = {});
+function save() { localStorage.setItem(KEY, JSON.stringify(marks)); }
+function mark(id) { return marks[id] || (marks[id] = {}); }
+
+let toastTimer;
+function toast(msg) {
+  const el = document.getElementById("toast");
+  el.textContent = msg;
+  el.classList.add("on");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => el.classList.remove("on"), 2600);
 }
 
-/* 남은 일수. 마감시각이 없으면 null */
+/* 나라장터 개편 이후 API가 상세 링크 대신 메인 주소만 주는 경우가 많습니다.
+   그런 경우엔 공고번호를 복사해 검색으로 찾도록 안내합니다. */
+function realLink(n) {
+  const u = (n.url || "").trim();
+  if (!u) return "";
+  if (/^https?:\/\/(www\.)?g2b\.go\.kr\/?$/i.test(u)) return "";
+  return u;
+}
+
+function openNotice(n) {
+  const link = realLink(n);
+  if (link) { window.open(link, "_blank", "noopener"); return; }
+
+  const no = (n.no || "").split("-")[0];
+  const go = () => window.open(G2B, "_blank", "noopener");
+
+  if (navigator.clipboard && no) {
+    navigator.clipboard.writeText(no)
+      .then(() => toast(`공고번호 ${no} 복사됨 · 나라장터 검색창에 붙여넣으세요`))
+      .catch(() => toast(`공고번호 ${no} · 나라장터에서 검색하세요`))
+      .finally(go);
+  } else {
+    toast(`공고번호 ${no} · 나라장터에서 검색하세요`);
+    go();
+  }
+}
+
 function daysLeft(iso) {
   if (!iso) return null;
   const t = new Date(iso).getTime();
@@ -287,11 +317,11 @@ function fmtDate(iso) {
 }
 
 const BANDS = [
-  { id: "hot",  label: "오늘·내일 마감", test: d => d !== null && d >= 0 && d <= 1, urgent: true },
-  { id: "soon", label: "이번 주 안에",    test: d => d !== null && d >= 2 && d <= 6 },
-  { id: "room", label: "여유 있음",       test: d => d !== null && d >= 7 },
-  { id: "none", label: "마감일 미표기",   test: d => d === null },
-  { id: "over", label: "마감됨",          test: d => d !== null && d < 0 },
+  { label: "오늘·내일 마감", test: d => d !== null && d >= 0 && d <= 1, urgent: true },
+  { label: "이번 주 안에", test: d => d !== null && d >= 2 && d <= 6 },
+  { label: "여유 있음", test: d => d !== null && d >= 7 },
+  { label: "마감일 미표기", test: d => d === null },
+  { label: "마감됨", test: d => d !== null && d < 0 },
 ];
 
 function visible() {
@@ -309,43 +339,38 @@ function visible() {
 
 function card(n) {
   const d = daysLeft(n.close_at);
-  const h = heat(d);
   const m = mark(n.id);
-  const isNew = !m.read;
-  const link = n.url || "https://www.g2b.go.kr/";
-
-  const dText = d === null ? "—" : d < 0 ? "마감" : d === 0 ? "D-0" : "D-" + d;
   const el = document.createElement("article");
   el.className = "card" + (m.read ? " read" : "");
-  el.dataset.heat = h;
+  el.dataset.heat = heat(d);
+
+  const dText = d === null ? "—" : d < 0 ? "마감" : "D-" + d;
 
   el.innerHTML = `
-    <div class="slug">
-      <span class="d">${dText}</span>
-      <span class="u">${fmtDate(n.close_at) || "미정"}</span>
-    </div>
-    <div class="body">
-      <div class="tagrow">
+    <div class="top">
+      <div class="tags">
         <span class="tag ${n.kind === "prespec" ? "pre" : "bid"}">${n.kind === "prespec" ? "사전규격" : "입찰공고"}</span>
-        ${isNew ? '<span class="tag new">안 읽음</span>' : ""}
-        ${n.starred ? '<span class="tag star">★ 관심기관</span>' : ""}
-        ${(n.hits || []).slice(0, 3).map(k => `<span class="tag">${k}</span>`).join("")}
+        ${!m.read ? '<span class="tag new">안 읽음</span>' : ""}
+        ${(n.hits || []).slice(0, 1).map(k => `<span class="tag">${k}</span>`).join("")}
       </div>
-      <a class="title" href="${link}" target="_blank" rel="noopener">${n.title}</a>
-      <div class="meta">
-        <span>${n.org || "기관 미상"}</span>
-        ${n.budget ? `<span class="amt">${money(n.budget)}</span>` : ""}
-        ${n.method ? `<span>${n.method}</span>` : ""}
-        <span class="no">${n.no}</span>
-      </div>
-      <div class="acts">
-        <button data-act="read">${m.read ? "안 읽음으로" : "읽음 표시"}</button>
-        <button data-act="keep" aria-pressed="${!!m.keep}">${m.keep ? "관심 해제" : "관심 등록"}</button>
-      </div>
+      <button class="star" data-act="keep" aria-pressed="${!!m.keep}" title="관심 등록">${m.keep ? "★" : "☆"}</button>
+    </div>
+    <button class="title" data-act="open">${n.title}</button>
+    <div class="org">${n.org || "기관 미상"}</div>
+    <div class="amt">${n.budget ? `<b>${money(n.budget)}</b>` : "금액 미공개"}${n.method ? " · " + n.method : ""}</div>
+    <div class="foot">
+      <span class="dday">${dText}</span>
+      <span class="clock">${fmtDate(n.close_at) || "마감일 미정"}</span>
+      <button class="done" data-act="read">${m.read ? "되돌리기" : "읽음"}</button>
     </div>`;
 
-  el.querySelector('[data-act="read"]').onclick = () => { m.read = !m.read; save(); render(); };
+  el.querySelector('[data-act="open"]').onclick = () => {
+    if (!m.read) { m.read = true; save(); }
+    openNotice(n);
+    render();
+  };
   el.querySelector('[data-act="keep"]').onclick = () => { m.keep = !m.keep; save(); render(); };
+  el.querySelector('[data-act="read"]').onclick = () => { m.read = !m.read; save(); render(); };
   return el;
 }
 
@@ -365,7 +390,10 @@ function render() {
       h.className = "band" + (b.urgent ? " urgent" : "");
       h.innerHTML = `${b.label} <em>${group.length}</em>`;
       list.appendChild(h);
-      group.forEach(n => list.appendChild(card(n)));
+      const g = document.createElement("div");
+      g.className = "grid";
+      group.forEach(n => g.appendChild(card(n)));
+      list.appendChild(g);
     });
   }
 
