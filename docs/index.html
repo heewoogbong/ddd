@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -209,7 +210,7 @@
       <div><b id="cLive">0</b><span>진행 중</span></div>
       <div><b id="cKeep">0</b><span>관심</span></div>
     </div>
-    <p class="howto"><b>제목을 누르면</b> 공고번호가 복사되고 나라장터가 열립니다. 검색창에 붙여넣으세요.</p>
+    <p class="howto"><b>입찰공고</b>는 제목을 누르면 바로 열립니다. <b>사전규격</b>은 공고번호가 복사되니 나라장터 검색창에 붙여넣으세요.</p>
   </div>
 </header>
 
@@ -259,7 +260,23 @@ function toast(msg) {
    사전규격은 규격서 파일 주소가 딸려 옵니다. 그런 주소는 쓰지 않습니다. */
 const DEAD = /(selectSubFrame|frameTgong|bidInfoDtl|fileDown|FileDown|download|\.(hwp|hwpx|pdf|zip|docx?|xlsx?|jpg|png)(\?|$))/i;
 
+/* 개편된 나라장터의 입찰공고 상세 주소입니다.
+   공고번호(R26BK01657206)와 차수(001)를 넣으면 바로 열립니다. */
+function buildBidLink(n) {
+  const raw = (n.no || "").trim();
+  const m = raw.match(/^([A-Za-z0-9]+)-(\d+)$/);
+  if (!m) return "";
+  const ord = String(m[2]).padStart(3, "0");
+  return `https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=${m[1]}&bidPbancOrd=${ord}`;
+}
+
 function realLink(n) {
+  // 입찰공고는 새 주소 형식으로 직접 조립해서 바로 연결합니다.
+  if (n.kind !== "prespec") {
+    const built = buildBidLink(n);
+    if (built) return built;
+  }
+  // 사전규격은 아직 대응하는 주소가 없어 번호 복사로 넘어갑니다.
   const u = (n.url || "").trim();
   if (!u || !/^https?:\/\//i.test(u)) return "";
   if (/^https?:\/\/(www\.)?g2b\.go\.kr\/?$/i.test(u)) return "";
