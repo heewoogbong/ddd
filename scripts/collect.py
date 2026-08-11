@@ -107,21 +107,31 @@ def to_int(raw):
 # --------------------------------------------------------------------------
 # 영상 관련성 판정
 # --------------------------------------------------------------------------
+def norm(text):
+    """띄어쓰기·가운뎃점·괄호 등을 지워서 표기 차이를 없앱니다.
+    '홍보 영상 제작' 과 '홍보영상제작' 이 같은 것으로 취급됩니다."""
+    return re.sub(r"[\s·ㆍ・,.\-_~()\[\]{}/\\'\"]+", "", str(text)).lower()
+
+
 def score_title(title):
     """(점수, 매칭된 키워드 목록)을 반환. 제외 키워드에 걸리면 (0, [])."""
-    lowered = title.lower()
+    t = norm(title)
 
     for bad in config.EXCLUDE:
-        if bad.lower() in lowered:
+        if norm(bad) in t:
             return 0, []
 
     score, hits = 0, []
     for kw in config.STRONG:
-        if kw.lower() in lowered:
+        if norm(kw) in t:
             score += 3
             hits.append(kw)
+
+    # 강한 키워드에 이미 포함된 낱말은 중복으로 세지 않습니다.
+    blob = "".join(norm(h) for h in hits)
     for kw in config.WEAK:
-        if kw.lower() in lowered and not any(kw in h for h in hits):
+        nk = norm(kw)
+        if nk in t and nk not in blob:
             score += 1
             hits.append(kw)
 
