@@ -35,7 +35,9 @@ def refresh_access_token(rest_key, refresh_token, client_secret=""):
         payload["client_secret"] = client_secret
 
     r = requests.post(TOKEN_URL, data=payload, timeout=20)
-    r.raise_for_status()
+    if r.status_code != 200:
+        # 카카오가 알려주는 실제 사유를 그대로 보여줍니다.
+        raise RuntimeError(f"토큰 갱신 실패 {r.status_code}: {r.text[:500]}")
     payload = r.json()
 
     # 만료가 한 달 미만으로 남으면 카카오가 새 리프레시 토큰을 함께 내려줍니다.
@@ -117,4 +119,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        # 알림이 실패해도 수집 결과 저장은 계속되도록 합니다.
+        print(f"카카오톡 알림을 건너뜁니다: {e}")
