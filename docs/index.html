@@ -29,30 +29,21 @@
   html { -webkit-text-size-adjust: 100%; }
 
   body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 15px;
-    line-height: 1.55;
-    letter-spacing: -0.011em;
-    padding-bottom: 80px;
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: var(--sans); font-size: 15px; line-height: 1.55;
+    letter-spacing: -0.011em; padding-bottom: 80px;
   }
 
   a { color: inherit; text-decoration: none; }
-
   .wrap { max-width: 1480px; margin: 0 auto; padding: 0 24px; }
 
   /* ---------- 헤더 ---------- */
   .masthead { padding: 40px 0 22px; border-bottom: 1px solid var(--line); }
-
   .eyebrow {
     font-size: 11px; font-weight: 600; letter-spacing: 0.16em;
     text-transform: uppercase; color: var(--dim); margin: 0 0 10px;
   }
-
   .masthead h1 { margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -0.035em; }
-
   .stamp { margin-top: 8px; font-family: var(--mono); font-size: 12px; color: var(--muted); }
 
   .tally { display: flex; flex-wrap: wrap; gap: 26px; margin-top: 20px; }
@@ -62,15 +53,18 @@
   .t-new b { color: var(--fresh); }
   .t-hot b { color: var(--hot); }
 
+  .howto {
+    margin-top: 16px; font-size: 12.5px; color: var(--dim);
+    display: flex; align-items: center; gap: 7px;
+  }
+  .howto b { color: var(--muted); font-weight: 600; }
+
   /* ---------- 필터 ---------- */
   .controls {
     position: sticky; top: 0; z-index: 20;
-    background: rgba(10, 12, 17, 0.92);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid var(--line-soft);
-    padding: 13px 0;
+    background: rgba(10, 12, 17, 0.92); backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--line-soft); padding: 13px 0;
   }
-
   .controls .wrap { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 
   #q {
@@ -92,8 +86,7 @@
 
   /* ---------- 밴드 ---------- */
   .band {
-    display: flex; align-items: center; gap: 12px;
-    margin: 30px 0 13px;
+    display: flex; align-items: center; gap: 12px; margin: 30px 0 13px;
     font-size: 12px; font-weight: 700; letter-spacing: 0.06em; color: var(--muted);
   }
   .band::after { content: ""; flex: 1; height: 1px; background: var(--line-soft); }
@@ -101,11 +94,7 @@
   .band.urgent { color: var(--hot); }
 
   /* ---------- 카드 격자 ---------- */
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
-    gap: 10px;
-  }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 10px; }
 
   .card {
     display: flex; flex-direction: column;
@@ -137,24 +126,31 @@
   .star:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
 
   .title {
-    display: block; width: 100%; text-align: left;
+    display: -webkit-box; width: 100%; text-align: left;
     background: none; border: 0; padding: 0; cursor: pointer;
     font-family: var(--sans); font-size: 15px; font-weight: 700;
     letter-spacing: -0.022em; line-height: 1.4; color: var(--text);
     word-break: keep-all; margin-bottom: 8px;
-    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
   }
   .title:hover { color: #a8bcff; }
   .title:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
 
   .org { font-size: 12.5px; color: var(--muted); margin-bottom: 3px; }
-  .amt { font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .amt { font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; margin-bottom: 7px; }
   .amt b { color: var(--text); font-weight: 700; }
+
+  .no {
+    background: none; border: 1px dashed var(--line); border-radius: 5px;
+    color: var(--dim); cursor: pointer; align-self: flex-start;
+    font-family: var(--mono); font-size: 11px; padding: 2px 7px;
+  }
+  .no:hover { color: var(--text); border-color: var(--muted); border-style: solid; }
+  .no:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 
   .foot {
     display: flex; align-items: center; gap: 8px;
-    margin-top: auto; padding-top: 11px;
-    border-top: 1px solid var(--line-soft);
+    margin-top: auto; padding-top: 11px; border-top: 1px solid var(--line-soft);
   }
 
   .dday {
@@ -176,17 +172,16 @@
   .done:hover { color: var(--text); border-color: var(--muted); }
   .done:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-  /* ---------- 알림 토스트 ---------- */
+  /* ---------- 알림 ---------- */
   #toast {
     position: fixed; left: 50%; bottom: 28px; transform: translate(-50%, 20px);
     background: var(--panel-hi); border: 1px solid var(--line); border-radius: 9px;
     padding: 11px 18px; font-size: 13.5px; font-weight: 600;
     opacity: 0; pointer-events: none; transition: opacity .2s ease, transform .2s ease;
-    z-index: 50; box-shadow: 0 8px 24px rgba(0, 0, 0, .45);
+    z-index: 50; box-shadow: 0 8px 24px rgba(0, 0, 0, .45); max-width: 90vw; text-align: center;
   }
   #toast.on { opacity: 1; transform: translate(-50%, 0); }
 
-  /* ---------- 빈 화면 ---------- */
   .empty { padding: 70px 0; text-align: center; color: var(--muted); }
   .empty p { margin: 0 0 6px; font-size: 15px; font-weight: 600; color: var(--text); }
   .empty small { font-size: 13px; }
@@ -198,9 +193,7 @@
     .grid { grid-template-columns: 1fr; }
   }
 
-  @media (prefers-reduced-motion: reduce) {
-    * { transition: none !important; }
-  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 </head>
 <body>
@@ -216,6 +209,7 @@
       <div><b id="cLive">0</b><span>진행 중</span></div>
       <div><b id="cKeep">0</b><span>관심</span></div>
     </div>
+    <p class="howto"><b>제목을 누르면</b> 공고번호가 복사되고 나라장터가 열립니다. 검색창에 붙여넣으세요.</p>
   </div>
 </header>
 
@@ -258,34 +252,51 @@ function toast(msg) {
   el.textContent = msg;
   el.classList.add("on");
   clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => el.classList.remove("on"), 2600);
+  toastTimer = setTimeout(() => el.classList.remove("on"), 3200);
 }
 
-/* 나라장터 개편 이후 API가 상세 링크 대신 메인 주소만 주는 경우가 많습니다.
-   그런 경우엔 공고번호를 복사해 검색으로 찾도록 안내합니다. */
+/* 나라장터 개편으로 예전 상세 주소는 모두 오류 페이지가 되었고,
+   사전규격은 규격서 파일 주소가 딸려 옵니다. 그런 주소는 쓰지 않습니다. */
+const DEAD = /(selectSubFrame|frameTgong|bidInfoDtl|fileDown|FileDown|download|\.(hwp|hwpx|pdf|zip|docx?|xlsx?|jpg|png)(\?|$))/i;
+
 function realLink(n) {
   const u = (n.url || "").trim();
-  if (!u) return "";
+  if (!u || !/^https?:\/\//i.test(u)) return "";
   if (/^https?:\/\/(www\.)?g2b\.go\.kr\/?$/i.test(u)) return "";
+  if (DEAD.test(u)) return "";
   return u;
+}
+
+function bidNo(n) {
+  return (n.no || "").trim();
+}
+
+function copyText(text) {
+  if (navigator.clipboard && window.isSecureContext) {
+    return navigator.clipboard.writeText(text);
+  }
+  return new Promise((res, rej) => {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand("copy"); res(); } catch (e) { rej(e); }
+    document.body.removeChild(ta);
+  });
 }
 
 function openNotice(n) {
   const link = realLink(n);
   if (link) { window.open(link, "_blank", "noopener"); return; }
 
-  const no = (n.no || "").split("-")[0];
-  const go = () => window.open(G2B, "_blank", "noopener");
-
-  if (navigator.clipboard && no) {
-    navigator.clipboard.writeText(no)
-      .then(() => toast(`공고번호 ${no} 복사됨 · 나라장터 검색창에 붙여넣으세요`))
-      .catch(() => toast(`공고번호 ${no} · 나라장터에서 검색하세요`))
-      .finally(go);
-  } else {
-    toast(`공고번호 ${no} · 나라장터에서 검색하세요`);
-    go();
-  }
+  const no = bidNo(n);
+  const win = window.open(G2B, "_blank", "noopener");
+  copyText(no)
+    .then(() => toast(`${no} 복사됨 · 나라장터 검색창에 붙여넣으세요`))
+    .catch(() => toast(`공고번호 ${no} 로 나라장터에서 검색하세요`));
+  return win;
 }
 
 function daysLeft(iso) {
@@ -332,7 +343,7 @@ function visible() {
     if (state.view === "live" && d !== null && d < 0) return false;
     if (state.view === "unread" && mark(n.id).read) return false;
     if (state.view === "keep" && !mark(n.id).keep) return false;
-    if (q && !(n.title + n.org).toLowerCase().includes(q)) return false;
+    if (q && !(n.title + n.org + n.no).toLowerCase().includes(q)) return false;
     return true;
   });
 }
@@ -358,6 +369,7 @@ function card(n) {
     <button class="title" data-act="open">${n.title}</button>
     <div class="org">${n.org || "기관 미상"}</div>
     <div class="amt">${n.budget ? `<b>${money(n.budget)}</b>` : "금액 미공개"}${n.method ? " · " + n.method : ""}</div>
+    <button class="no" data-act="copy" title="공고번호 복사">${bidNo(n)} ⧉</button>
     <div class="foot">
       <span class="dday">${dText}</span>
       <span class="clock">${fmtDate(n.close_at) || "마감일 미정"}</span>
@@ -368,6 +380,12 @@ function card(n) {
     if (!m.read) { m.read = true; save(); }
     openNotice(n);
     render();
+  };
+  el.querySelector('[data-act="copy"]').onclick = () => {
+    const no = bidNo(n);
+    copyText(no)
+      .then(() => toast(`${no} 복사됨`))
+      .catch(() => toast("복사에 실패했습니다"));
   };
   el.querySelector('[data-act="keep"]').onclick = () => { m.keep = !m.keep; save(); render(); };
   el.querySelector('[data-act="read"]').onclick = () => { m.read = !m.read; save(); render(); };
