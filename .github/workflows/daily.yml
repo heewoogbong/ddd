@@ -1,0 +1,78 @@
+name: 영상 공고 수집
+
+on:
+  schedule:
+    - cron: "30 23 * * *"
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: g2b-watch
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: 공고 수집
+        env:
+          G2B_SERVICE_KEY: ${{ secrets.G2B_SERVICE_KEY }}
+          G2B_PRESPEC_SERVICE_KEY: ${{ secrets.G2B_PRESPEC_SERVICE_KEY }}
+        run: python scripts/collect.py
+
+      - name: 카카오톡 알림
+        continue-on-error: true
+        env:
+          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python scripts/notify_kakao.py
+
+      - name: 카카오 토큰 자동 갱신
+        if: ${{ hashFiles('new_refresh_token.txt') != '' }}
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -n "$GH_TOKEN" ]; then
+            gh secret set KAKAO_REFRESH_TOKEN --body "$(cat new_refresh_token.txt)"
+          else
+            echo "::warning::새 카카오 리프레시 토큰이 발급되었습니다. 시크릿을 직접 갱신하세요."
+          fi
+
+      - name: 결과 저장
+        run: |
+          rm -f new_items.json new_refresh_token.txt
+          git config user.name "g2b-watch"
+          git config user.email "actions@github.com"
+          git add docs/data/notices.json
+          git diff --staged --quiet || git commit -m "공고 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
