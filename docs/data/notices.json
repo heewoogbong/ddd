@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-13T09:06:31.910167+09:00",
- "total": 105,
+ "updated_at": "2026-08-14T00:15:30.658327+09:00",
+ "total": 114,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -1344,6 +1344,115 @@
    "first_seen": "2026-08-11T18:42:05.822808+09:00"
   },
   {
+   "id": "pre-R26BD00263709",
+   "kind": "prespec",
+   "no": "R26BD00263709",
+   "title": "소수서원 국가유산 야행 멀티미디어 콘텐츠 제작 용역",
+   "org": "조달청 대구지방조달청",
+   "demand_org": "경상북도 영주시",
+   "posted_at": "2026-08-13T14:24:54+09:00",
+   "close_at": "2026-08-18T23:59:00+09:00",
+   "budget": 252431000,
+   "method": "사전규격 의견등록",
+   "contact": "구현영",
+   "tel": "070-4056-7992",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00263709&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
+   "id": "pre-R26BD00263730",
+   "kind": "prespec",
+   "no": "R26BD00263730",
+   "title": "(긴급) XR 뮤직비디오 제작용 리소스 공급",
+   "org": "주식회사 아이오에프엑스(IOFX)",
+   "demand_org": "주식회사 아이오에프엑스(IOFX)",
+   "posted_at": "2026-08-13T14:43:26+09:00",
+   "close_at": "2026-08-18T23:59:00+09:00",
+   "budget": 132000000,
+   "method": "사전규격 의견등록",
+   "contact": "이종원",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00263730&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "뮤직비디오",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
+   "id": "pre-R26BD00263873",
+   "kind": "prespec",
+   "no": "R26BD00263873",
+   "title": "S-100 표준 교육자료 및 모션 그래픽, 인포그래픽 제작 용역",
+   "org": "한국해양과학기술원 부설 선박해양플랜트연구소",
+   "demand_org": "한국해양과학기술원 부설 선박해양플랜트연구소",
+   "posted_at": "2026-08-13T17:16:02+09:00",
+   "close_at": "2026-08-18T23:59:00+09:00",
+   "budget": 49500000,
+   "method": "사전규격 의견등록",
+   "contact": "최휘련",
+   "tel": "070-8028-7030",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00263873&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "모션그래픽",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
+   "id": "pre-R26BD00263885",
+   "kind": "prespec",
+   "no": "R26BD00263885",
+   "title": "2026학년도 K-MEDI 디지털 교육콘텐츠(K-MEDI 수요맞춤형) 약술과정 개발 용역",
+   "org": "대구한의대학교",
+   "demand_org": "대구한의대학교",
+   "posted_at": "2026-08-13T17:34:24+09:00",
+   "close_at": "2026-08-18T23:59:00+09:00",
+   "budget": 150000000,
+   "method": "사전규격 의견등록",
+   "contact": "유나래",
+   "tel": "053-819-7067",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00263885&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
+   "id": "pre-R26BD00263899",
+   "kind": "prespec",
+   "no": "R26BD00263899",
+   "title": "2026학년도 K-MEDI 디지털 교육콘텐츠(K-MEDI 수요맞춤형) 식품과정 개발 용역",
+   "org": "대구한의대학교",
+   "demand_org": "대구한의대학교",
+   "posted_at": "2026-08-13T17:45:35+09:00",
+   "close_at": "2026-08-18T23:59:00+09:00",
+   "budget": 170000000,
+   "method": "사전규격 의견등록",
+   "contact": "유나래",
+   "tel": "053-819-7067",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00263899&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
    "id": "bid-R26BK01666499-000",
    "kind": "bid",
    "no": "R26BK01666499-000",
@@ -1825,6 +1934,28 @@
    "first_seen": "2026-08-11T18:42:05.822808+09:00"
   },
   {
+   "id": "bid-R26BK01674340-001",
+   "kind": "bid",
+   "no": "R26BK01674340-001",
+   "title": "제12대 서울시의회 홍보영상 제작",
+   "org": "서울특별시 의회사무처",
+   "demand_org": "서울특별시 의회사무처",
+   "posted_at": "2026-08-13T14:22:17+09:00",
+   "close_at": "2026-08-21T16:00:00+09:00",
+   "budget": 60000000,
+   "method": "제한경쟁",
+   "contact": "조혜진",
+   "tel": "02-2180-7796",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674340&bidPbancOrd=001",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
    "id": "pre-R26BD00262405",
    "kind": "prespec",
    "no": "R26BD00262405",
@@ -2173,6 +2304,28 @@
    "first_seen": "2026-08-11T18:42:05.822808+09:00"
   },
   {
+   "id": "bid-R26BK01678350-000",
+   "kind": "bid",
+   "no": "R26BK01678350-000",
+   "title": "2026년 국방일보 보도 사진전 제작 홍보 용역",
+   "org": "국방부 국방홍보원",
+   "demand_org": "국방부 국방홍보원",
+   "posted_at": "2026-08-12T19:36:30+09:00",
+   "close_at": "2026-08-25T10:00:00+09:00",
+   "budget": 70000000,
+   "method": "제한경쟁",
+   "contact": "서희정",
+   "tel": "02-2079-3152",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678350&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
    "id": "bid-R26BK01676862-000",
    "kind": "bid",
    "no": "R26BK01676862-000",
@@ -2195,6 +2348,27 @@
    "first_seen": "2026-08-12T16:06:08.345754+09:00"
   },
   {
+   "id": "bid-R26BK01671364-000",
+   "kind": "bid",
+   "no": "R26BK01671364-000",
+   "title": "국립민속박물관 세계민속관 개관(상설전시관1 개편) 전시 영상 제작 및 설치 용역",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "문화체육관광부 국립민속박물관",
+   "posted_at": "2026-08-12T17:10:19+09:00",
+   "close_at": "2026-08-26T10:00:00+09:00",
+   "budget": 302590000,
+   "method": "일반경쟁",
+   "contact": "이은주",
+   "tel": "02-590-8804",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01671364&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
    "id": "bid-R26BK01662021-000",
    "kind": "bid",
    "no": "R26BK01662021-000",
@@ -2214,6 +2388,28 @@
    ],
    "starred": false,
    "first_seen": "2026-08-11T18:42:05.822808+09:00"
+  },
+  {
+   "id": "bid-R26BK01679000-000",
+   "kind": "bid",
+   "no": "R26BK01679000-000",
+   "title": "SI 영상보고서 제작",
+   "org": "재단법인 서울연구원",
+   "demand_org": "재단법인 서울연구원",
+   "posted_at": "2026-08-12T14:18:56+09:00",
+   "close_at": "2026-08-28T14:00:00+09:00",
+   "budget": 72000000,
+   "method": "제한경쟁",
+   "contact": "정연우",
+   "tel": "02-2149-1017",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679000&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-14T00:15:30.658327+09:00"
   },
   {
    "id": "bid-R26BK01672965-000",
