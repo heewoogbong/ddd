@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -228,6 +227,12 @@
       <button data-v="keep" aria-pressed="false">관심</button>
       <button data-v="all" aria-pressed="false">전부</button>
     </div>
+    <div class="seg" id="fSort">
+      <button data-v="close" aria-pressed="true">마감 임박순</button>
+      <button data-v="far" aria-pressed="false">마감 늦은순</button>
+      <button data-v="new" aria-pressed="false">최신 등록순</button>
+      <button data-v="money" aria-pressed="false">금액 높은순</button>
+    </div>
   </div>
 </div>
 
@@ -237,7 +242,7 @@
 <script>
 const KEY = "g2b-video-watch";
 const G2B = "https://www.g2b.go.kr/";
-const state = { kind: "all", view: "live", q: "" };
+const state = { kind: "all", view: "live", q: "", sort: "close" };
 let notices = [];
 let marks = load();
 
@@ -344,6 +349,31 @@ function fmtDate(iso) {
   return `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")}`;
 }
 
+/* 정렬 기준. close(기본)일 때만 마감 임박 그룹으로 묶어 보여줍니다. */
+function ts(iso, fallback) {
+  if (!iso) return fallback;
+  const t = new Date(iso).getTime();
+  return isNaN(t) ? fallback : t;
+}
+
+function sortRows(rows) {
+  const arr = rows.slice();
+  if (state.sort === "far") {
+    // 마감일이 먼 것부터. 마감일 없는 건 맨 뒤로.
+    arr.sort((a, b) => ts(b.close_at, -Infinity) - ts(a.close_at, -Infinity));
+  } else if (state.sort === "new") {
+    // 최근에 올라온 것부터.
+    arr.sort((a, b) =>
+      ts(b.posted_at || b.first_seen, 0) - ts(a.posted_at || a.first_seen, 0));
+  } else if (state.sort === "money") {
+    arr.sort((a, b) => (b.budget || 0) - (a.budget || 0));
+  } else {
+    // 마감 임박순. 마감일 없는 건 맨 뒤로.
+    arr.sort((a, b) => ts(a.close_at, Infinity) - ts(b.close_at, Infinity));
+  }
+  return arr;
+}
+
 const BANDS = [
   { label: "오늘·내일 마감", test: d => d !== null && d >= 0 && d <= 1, urgent: true },
   { label: "이번 주 안에", test: d => d !== null && d >= 2 && d <= 6 },
@@ -418,18 +448,33 @@ function render() {
     list.innerHTML = `<div class="empty"><p>조건에 맞는 공고가 없습니다.</p>
       <small>검색어를 지우거나 필터를 '전부'로 바꿔보세요.</small></div>`;
   } else {
-    BANDS.forEach(b => {
-      const group = rows.filter(n => b.test(daysLeft(n.close_at)));
-      if (!group.length) return;
+    const sorted = sortRows(rows);
+
+    if (state.sort !== "close") {
+      // 정렬을 바꾸면 마감 임박 그룹을 풀고 한 줄로 나열합니다.
+      const label = { far: "마감 늦은순", new: "최신 등록순", money: "금액 높은순" }[state.sort];
       const h = document.createElement("div");
-      h.className = "band" + (b.urgent ? " urgent" : "");
-      h.innerHTML = `${b.label} <em>${group.length}</em>`;
+      h.className = "band";
+      h.innerHTML = `${label} <em>${sorted.length}</em>`;
       list.appendChild(h);
       const g = document.createElement("div");
       g.className = "grid";
-      group.forEach(n => g.appendChild(card(n)));
+      sorted.forEach(n => g.appendChild(card(n)));
       list.appendChild(g);
-    });
+    } else {
+      BANDS.forEach(b => {
+        const group = sorted.filter(n => b.test(daysLeft(n.close_at)));
+        if (!group.length) return;
+        const h = document.createElement("div");
+        h.className = "band" + (b.urgent ? " urgent" : "");
+        h.innerHTML = `${b.label} <em>${group.length}</em>`;
+        list.appendChild(h);
+        const g = document.createElement("div");
+        g.className = "grid";
+        group.forEach(n => g.appendChild(card(n)));
+        list.appendChild(g);
+      });
+    }
   }
 
   const live = notices.filter(n => { const d = daysLeft(n.close_at); return d === null || d >= 0; });
@@ -451,6 +496,7 @@ function wireSeg(id, field) {
 }
 wireSeg("fKind", "kind");
 wireSeg("fView", "view");
+wireSeg("fSort", "sort");
 
 document.getElementById("q").addEventListener("input", e => {
   state.q = e.target.value;
