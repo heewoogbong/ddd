@@ -51,6 +51,7 @@
   .tally b { font-size: 25px; font-weight: 800; letter-spacing: -0.04em; font-variant-numeric: tabular-nums; }
   .tally span { font-size: 12px; color: var(--muted); }
   .t-new b { color: var(--fresh); }
+  .t-fresh b { color: var(--accent); }
   .t-hot b { color: var(--hot); }
 
   .howto {
@@ -116,6 +117,7 @@
   .tag.bid { border-color: rgba(92, 124, 255, .4); color: #93a8ff; }
   .tag.pre { border-color: rgba(240, 169, 59, .4); color: var(--amber); }
   .tag.new { border-color: rgba(63, 214, 154, .45); color: var(--fresh); }
+  .tag.fresh { border-color: rgba(92, 124, 255, .5); color: #93a8ff; background: rgba(92, 124, 255, .08); }
 
   .star {
     background: none; border: 0; cursor: pointer; padding: 0 2px;
@@ -204,6 +206,7 @@
     <h1>영상 공고 감시대</h1>
     <p class="stamp" id="stamp">불러오는 중…</p>
     <div class="tally">
+      <div class="t-fresh"><b id="cFresh">0</b><span>최근 3일</span></div>
       <div class="t-new"><b id="cNew">0</b><span>안 읽음</span></div>
       <div class="t-hot"><b id="cHot">0</b><span>3일 내 마감</span></div>
       <div><b id="cLive">0</b><span>진행 중</span></div>
@@ -223,6 +226,7 @@
     </div>
     <div class="seg" id="fView">
       <button data-v="live" aria-pressed="true">진행 중</button>
+      <button data-v="fresh" aria-pressed="false">신규</button>
       <button data-v="unread" aria-pressed="false">안 읽음</button>
       <button data-v="keep" aria-pressed="false">관심</button>
       <button data-v="all" aria-pressed="false">전부</button>
@@ -328,6 +332,18 @@ function daysLeft(iso) {
   return Math.floor((t - Date.now()) / 86400000);
 }
 
+/* 등록된 지 3일 이내면 '신규'로 봅니다.
+   posted_at(공고 게시일)이 없으면 처음 수집된 시각으로 판단합니다. */
+const FRESH_DAYS = 3;
+
+function isFresh(n) {
+  const raw = n.posted_at || n.first_seen;
+  if (!raw) return false;
+  const t = new Date(raw).getTime();
+  if (isNaN(t)) return false;
+  return (Date.now() - t) <= FRESH_DAYS * 86400000;
+}
+
 function heat(d) {
   if (d === null) return "none";
   if (d < 0) return "dead";
@@ -388,6 +404,7 @@ function visible() {
     const d = daysLeft(n.close_at);
     if (state.kind !== "all" && n.kind !== state.kind) return false;
     if (state.view === "live" && d !== null && d < 0) return false;
+    if (state.view === "fresh" && !isFresh(n)) return false;
     if (state.view === "unread" && mark(n.id).read) return false;
     if (state.view === "keep" && !mark(n.id).keep) return false;
     if (q && !(n.title + n.org + n.no).toLowerCase().includes(q)) return false;
@@ -408,6 +425,7 @@ function card(n) {
     <div class="top">
       <div class="tags">
         <span class="tag ${n.kind === "prespec" ? "pre" : "bid"}">${n.kind === "prespec" ? "사전규격" : "입찰공고"}</span>
+        ${isFresh(n) ? '<span class="tag fresh">신규</span>' : ""}
         ${!m.read ? '<span class="tag new">안 읽음</span>' : ""}
         ${(n.hits || []).slice(0, 1).map(k => `<span class="tag">${k}</span>`).join("")}
       </div>
@@ -478,6 +496,7 @@ function render() {
   }
 
   const live = notices.filter(n => { const d = daysLeft(n.close_at); return d === null || d >= 0; });
+  document.getElementById("cFresh").textContent = live.filter(isFresh).length;
   document.getElementById("cNew").textContent = live.filter(n => !mark(n.id).read).length;
   document.getElementById("cHot").textContent = live.filter(n => { const d = daysLeft(n.close_at); return d !== null && d <= 2; }).length;
   document.getElementById("cLive").textContent = live.length;
@@ -491,6 +510,14 @@ function wireSeg(id, field) {
     if (!btn) return;
     [...box.children].forEach(b => b.setAttribute("aria-pressed", String(b === btn)));
     state[field] = btn.dataset.v;
+
+    // '신규' 탭을 누르면 최신 등록순으로 자동 전환합니다.
+    if (field === "view" && btn.dataset.v === "fresh" && state.sort === "close") {
+      state.sort = "new";
+      const sortBox = document.getElementById("fSort");
+      [...sortBox.children].forEach(b =>
+        b.setAttribute("aria-pressed", String(b.dataset.v === "new")));
+    }
     render();
   });
 }
