@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-16T15:20:48.627057+09:00",
- "total": 131,
+ "updated_at": "2026-08-17T08:41:45.104408+09:00",
+ "total": 132,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -2521,6 +2521,27 @@
    ],
    "starred": false,
    "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
+   "id": "bid-R26BK01683429-000",
+   "kind": "bid",
+   "no": "R26BK01683429-000",
+   "title": "일상회화, 안전보건 교육 영상 추가 개발 용역",
+   "org": "울산대학교",
+   "demand_org": "울산대학교",
+   "posted_at": "2026-08-14T14:21:30+09:00",
+   "close_at": "2026-08-25T10:00:00+09:00",
+   "budget": 19990000,
+   "method": "일반경쟁",
+   "contact": "정민수",
+   "tel": "052-259-2080",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683429&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-17T08:41:45.104408+09:00"
   },
   {
    "id": "bid-R26BK01676862-000",
