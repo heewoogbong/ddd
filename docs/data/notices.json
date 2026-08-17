@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-17T08:41:45.104408+09:00",
- "total": 132,
+ "updated_at": "2026-08-18T08:44:51.726703+09:00",
+ "total": 144,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -2544,6 +2544,28 @@
    "first_seen": "2026-08-17T08:41:45.104408+09:00"
   },
   {
+   "id": "bid-R26BK01684083-000",
+   "kind": "bid",
+   "no": "R26BK01684083-000",
+   "title": "소상공인 상세페이지 제작지원을 위한 생성형 AI 콘텐츠 제작 서비스 공급 및 운영 용역",
+   "org": "주식회사 홀릭디자인",
+   "demand_org": "주식회사 홀릭디자인",
+   "posted_at": "2026-08-14T18:05:31+09:00",
+   "close_at": "2026-08-25T10:00:00+09:00",
+   "budget": 39160000,
+   "method": "제한경쟁",
+   "contact": "박경아",
+   "tel": "070-8756-7535",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684083&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
    "id": "bid-R26BK01676862-000",
    "kind": "bid",
    "no": "R26BK01676862-000",
@@ -2611,6 +2633,28 @@
    "first_seen": "2026-08-15T08:45:01.046503+09:00"
   },
   {
+   "id": "bid-R26BK01683513-000",
+   "kind": "bid",
+   "no": "R26BK01683513-000",
+   "title": "자본시장 교육·홍보 동영상(2026) 제작 및 방송 송출 용역",
+   "org": "(주)한국거래소",
+   "demand_org": "(주)한국거래소",
+   "posted_at": "2026-08-14T14:50:49+09:00",
+   "close_at": "2026-08-25T14:00:00+09:00",
+   "budget": 99000000,
+   "method": "제한경쟁",
+   "contact": "안기성",
+   "tel": "051-662-2184",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683513&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "홍보동영상",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
    "id": "bid-R26BK01671364-000",
    "kind": "bid",
    "no": "R26BK01671364-000",
@@ -2630,6 +2674,29 @@
    ],
    "starred": false,
    "first_seen": "2026-08-14T00:15:30.658327+09:00"
+  },
+  {
+   "id": "bid-R26BK01684240-000",
+   "kind": "bid",
+   "no": "R26BK01684240-000",
+   "title": "[긴급] 성균관·향교·서원 전문해설사 양성 및 유교문화 영상 강의 콘텐츠 제작 용역",
+   "org": "성균관",
+   "demand_org": "성균관",
+   "posted_at": "2026-08-15T17:42:56+09:00",
+   "close_at": "2026-08-26T10:00:00+09:00",
+   "budget": 39000000,
+   "method": "제한경쟁",
+   "contact": "현지혜",
+   "tel": "02-745-9750",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684240&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
   },
   {
    "id": "bid-R26BK01681324-000",
@@ -2697,6 +2764,188 @@
    "first_seen": "2026-08-11T18:42:05.822808+09:00"
   },
   {
+   "id": "bid-R26BK01684347-000",
+   "kind": "bid",
+   "no": "R26BK01684347-000",
+   "title": "2D 숏폼 애니메이션 [크리퍼스] 메인프로덕션 제작 용역",
+   "org": "주식회사 모스테입스",
+   "demand_org": "주식회사 모스테입스",
+   "posted_at": "2026-08-17T10:52:35+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 68750000,
+   "method": "제한경쟁",
+   "contact": "박지혜",
+   "tel": "02-566-0390",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684347&bidPbancOrd=000",
+   "score": 5,
+   "hits": [
+    "숏폼",
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
+   "id": "bid-R26BK01684352-001",
+   "kind": "bid",
+   "no": "R26BK01684352-001",
+   "title": "2D 숏폼 애니메이션 [크리퍼스] 배경·레이아웃 제작 용역",
+   "org": "주식회사 모스테입스",
+   "demand_org": "주식회사 모스테입스",
+   "posted_at": "2026-08-17T10:57:32+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 55000000,
+   "method": "제한경쟁",
+   "contact": "박지혜",
+   "tel": "02-566-0390",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684352&bidPbancOrd=001",
+   "score": 5,
+   "hits": [
+    "숏폼",
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
+   "id": "bid-R26BK01684352-002",
+   "kind": "bid",
+   "no": "R26BK01684352-002",
+   "title": "2D 숏폼 애니메이션 [크리퍼스] 배경·레이아웃 제작 용역",
+   "org": "주식회사 모스테입스",
+   "demand_org": "주식회사 모스테입스",
+   "posted_at": "2026-08-17T11:04:10+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 55000000,
+   "method": "제한경쟁",
+   "contact": "박지혜",
+   "tel": "02-566-0390",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684352&bidPbancOrd=002",
+   "score": 5,
+   "hits": [
+    "숏폼",
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
+   "id": "bid-R26BK01684352-003",
+   "kind": "bid",
+   "no": "R26BK01684352-003",
+   "title": "2D 숏폼 애니메이션 [크리퍼스] 배경·레이아웃 제작 용역",
+   "org": "주식회사 모스테입스",
+   "demand_org": "주식회사 모스테입스",
+   "posted_at": "2026-08-17T16:46:23+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 55000000,
+   "method": "제한경쟁",
+   "contact": "박지혜",
+   "tel": "02-566-0390",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684352&bidPbancOrd=003",
+   "score": 5,
+   "hits": [
+    "숏폼",
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
+   "id": "bid-R26BK01684347-001",
+   "kind": "bid",
+   "no": "R26BK01684347-001",
+   "title": "2D 숏폼 애니메이션 [크리퍼스] 메인프로덕션 제작 용역",
+   "org": "주식회사 모스테입스",
+   "demand_org": "주식회사 모스테입스",
+   "posted_at": "2026-08-17T16:55:13+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 68750000,
+   "method": "제한경쟁",
+   "contact": "박지혜",
+   "tel": "02-566-0390",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684347&bidPbancOrd=001",
+   "score": 5,
+   "hits": [
+    "숏폼",
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
+   "id": "bid-R26BK01684435-000",
+   "kind": "bid",
+   "no": "R26BK01684435-000",
+   "title": "26년 OTT특화콘텐츠제작지원(드라마) 음악감독 용역",
+   "org": "주식회사 와이랩",
+   "demand_org": "주식회사 와이랩",
+   "posted_at": "2026-08-17T18:31:30+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 132000000,
+   "method": "일반경쟁",
+   "contact": "오미선",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684435&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
+   "id": "bid-R26BK01684438-000",
+   "kind": "bid",
+   "no": "R26BK01684438-000",
+   "title": "26년 OTT특화콘텐츠제작지원(드라마) 믹싱 용역",
+   "org": "주식회사 와이랩",
+   "demand_org": "주식회사 와이랩",
+   "posted_at": "2026-08-17T18:32:23+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 60500000,
+   "method": "일반경쟁",
+   "contact": "오미선",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684438&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
+   "id": "bid-R26BK01684352-000",
+   "kind": "bid",
+   "no": "R26BK01684352-000",
+   "title": "2D 숏폼 애니메이션 [크리퍼스] 배경·레이아웃 제작 용역",
+   "org": "주식회사 모스테입스",
+   "demand_org": "주식회사 모스테입스",
+   "posted_at": "2026-08-17T10:18:58+09:00",
+   "close_at": "2026-08-28T11:00:00+09:00",
+   "budget": 55000000,
+   "method": "제한경쟁",
+   "contact": "박지혜",
+   "tel": "02-566-0390",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684352&bidPbancOrd=000",
+   "score": 5,
+   "hits": [
+    "숏폼",
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
+  },
+  {
    "id": "bid-R26BK01679000-000",
    "kind": "bid",
    "no": "R26BK01679000-000",
@@ -2760,6 +3009,29 @@
    ],
    "starred": false,
    "first_seen": "2026-08-15T08:45:01.046503+09:00"
+  },
+  {
+   "id": "bid-R26BK01684141-000",
+   "kind": "bid",
+   "no": "R26BK01684141-000",
+   "title": "국민권익위원회 주요 정책 홍보 콘텐츠 제작 용역",
+   "org": "국민권익위원회",
+   "demand_org": "국민권익위원회",
+   "posted_at": "2026-08-14T18:49:51+09:00",
+   "close_at": "2026-08-31T10:00:00+09:00",
+   "budget": 70000000,
+   "method": "제한경쟁",
+   "contact": "조현범",
+   "tel": "044-200-7186",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684141&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-18T08:44:51.726703+09:00"
   },
   {
    "id": "bid-R26BK01672965-000",
