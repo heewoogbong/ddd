@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-19T15:24:27.520220+09:00",
- "total": 166,
+ "updated_at": "2026-08-20T08:44:28.493921+09:00",
+ "total": 168,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -2633,6 +2633,28 @@
    "first_seen": "2026-08-11T18:42:05.822808+09:00"
   },
   {
+   "id": "pre-R26BD00265286",
+   "kind": "prespec",
+   "no": "R26BD00265286",
+   "title": "2026 국립생태원 실감미디어 제작 사업",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "국립생태원",
+   "posted_at": "2026-08-19T15:49:26+09:00",
+   "close_at": "2026-08-24T23:59:00+09:00",
+   "budget": 201830000,
+   "method": "사전규격 의견등록",
+   "contact": "김고은",
+   "tel": "070-4056-8337",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00265286&fileType=BFDTL&fileSeq=2",
+   "score": 2,
+   "hits": [
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-20T08:44:28.493921+09:00"
+  },
+  {
    "id": "bid-R26BK01671050-000",
    "kind": "bid",
    "no": "R26BK01671050-000",
@@ -2872,6 +2894,28 @@
    ],
    "starred": false,
    "first_seen": "2026-08-19T15:24:27.520220+09:00"
+  },
+  {
+   "id": "bid-R26BK01688702-000",
+   "kind": "bid",
+   "no": "R26BK01688702-000",
+   "title": "한식조리기능사 실기 교육 콘텐츠 제작 용역",
+   "org": "백석문화대학교 산학협력단",
+   "demand_org": "백석문화대학교 산학협력단",
+   "posted_at": "2026-08-19T15:24:04+09:00",
+   "close_at": "2026-08-26T16:00:00+09:00",
+   "budget": 21000000,
+   "method": "일반경쟁",
+   "contact": "김선현",
+   "tel": "041-550-2954",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01688702&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "교육콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-20T08:44:28.493921+09:00"
   },
   {
    "id": "bid-R26BK01681324-000",
