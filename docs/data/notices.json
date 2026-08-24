@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-23T15:22:04.994909+09:00",
- "total": 207,
+ "updated_at": "2026-08-24T15:35:17.385097+09:00",
+ "total": 218,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -3182,52 +3182,6 @@
    "first_seen": "2026-08-21T08:48:35.092238+09:00"
   },
   {
-   "id": "pre-R26BD00266024",
-   "kind": "prespec",
-   "no": "R26BD00266024",
-   "title": "2026년도 국회방송 유튜브 특화 콘텐츠(국회 딜리버리) 외주제작",
-   "org": "국회 국회사무처",
-   "demand_org": "국회 국회사무처",
-   "posted_at": "2026-08-21T09:57:17+09:00",
-   "close_at": "2026-08-25T23:59:00+09:00",
-   "budget": 79000000,
-   "method": "사전규격 의견등록",
-   "contact": "김예진",
-   "tel": "",
-   "url": "",
-   "score": 5,
-   "hits": [
-    "유튜브",
-    "콘텐츠",
-    "제작"
-   ],
-   "starred": false,
-   "first_seen": "2026-08-21T15:26:04.068463+09:00"
-  },
-  {
-   "id": "pre-R26BD00266036",
-   "kind": "prespec",
-   "no": "R26BD00266036",
-   "title": "2026국회방송 유튜브 특화 콘텐츠 외주 제작(배지 떼고 로그인)",
-   "org": "국회 국회사무처",
-   "demand_org": "국회 국회사무처",
-   "posted_at": "2026-08-21T10:11:05+09:00",
-   "close_at": "2026-08-25T23:59:00+09:00",
-   "budget": 97500000,
-   "method": "사전규격 의견등록",
-   "contact": "김예진",
-   "tel": "",
-   "url": "",
-   "score": 5,
-   "hits": [
-    "유튜브",
-    "콘텐츠",
-    "제작"
-   ],
-   "starred": false,
-   "first_seen": "2026-08-21T15:26:04.068463+09:00"
-  },
-  {
    "id": "bid-R26BK01671364-000",
    "kind": "bid",
    "no": "R26BK01671364-000",
@@ -3515,6 +3469,75 @@
    "first_seen": "2026-08-14T16:06:29.372583+09:00"
   },
   {
+   "id": "pre-R26BD00266024",
+   "kind": "prespec",
+   "no": "R26BD00266024",
+   "title": "2026년도 국회방송 유튜브 특화 콘텐츠(국회 딜리버리) 외주제작",
+   "org": "국회 국회사무처",
+   "demand_org": "국회 국회사무처",
+   "posted_at": "2026-08-21T09:57:17+09:00",
+   "close_at": "2026-08-27T23:59:00+09:00",
+   "budget": 79000000,
+   "method": "사전규격 의견등록",
+   "contact": "김예진",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266024&fileType=BFDTL&fileSeq=1",
+   "score": 5,
+   "hits": [
+    "유튜브",
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-21T15:26:04.068463+09:00"
+  },
+  {
+   "id": "pre-R26BD00266036",
+   "kind": "prespec",
+   "no": "R26BD00266036",
+   "title": "2026국회방송 유튜브 특화 콘텐츠 외주 제작(배지 떼고 로그인)",
+   "org": "국회 국회사무처",
+   "demand_org": "국회 국회사무처",
+   "posted_at": "2026-08-21T10:11:05+09:00",
+   "close_at": "2026-08-27T23:59:00+09:00",
+   "budget": 97500000,
+   "method": "사전규격 의견등록",
+   "contact": "김예진",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266036&fileType=BFDTL&fileSeq=1",
+   "score": 5,
+   "hits": [
+    "유튜브",
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-21T15:26:04.068463+09:00"
+  },
+  {
+   "id": "pre-R26BD00266645",
+   "kind": "prespec",
+   "no": "R26BD00266645",
+   "title": "KITECH 기술홍보 영상물 (동영상 SMK) 제작",
+   "org": "한국생산기술연구원",
+   "demand_org": "한국생산기술연구원",
+   "posted_at": "2026-08-24T11:27:22+09:00",
+   "close_at": "2026-08-27T23:59:00+09:00",
+   "budget": 16500000,
+   "method": "사전규격 의견등록",
+   "contact": "황주연",
+   "tel": "041-589-8542",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266645&fileType=BFDTL&fileSeq=1",
+   "score": 7,
+   "hits": [
+    "홍보영상",
+    "영상물",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
    "id": "bid-R26BK01662021-000",
    "kind": "bid",
    "no": "R26BK01662021-000",
@@ -3695,6 +3718,28 @@
    "first_seen": "2026-08-18T08:44:51.726703+09:00"
   },
   {
+   "id": "bid-R26BK01693944-000",
+   "kind": "bid",
+   "no": "R26BK01693944-000",
+   "title": "「K-거상」 AI 플레이어블 콘텐츠 제작 용역 (소액수의) 견적 제출 공고",
+   "org": "재단법인 경상남도 관광재단",
+   "demand_org": "재단법인 경상남도 관광재단",
+   "posted_at": "2026-08-24T10:10:24+09:00",
+   "close_at": "2026-08-28T10:00:00+09:00",
+   "budget": 100000000,
+   "method": "수의계약",
+   "contact": "권솔비",
+   "tel": "055-212-6854",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693944&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
    "id": "bid-R26BK01684352-000",
    "kind": "bid",
    "no": "R26BK01684352-000",
@@ -3781,6 +3826,94 @@
    ],
    "starred": false,
    "first_seen": "2026-08-15T08:45:01.046503+09:00"
+  },
+  {
+   "id": "pre-R26BD00266538",
+   "kind": "prespec",
+   "no": "R26BD00266538",
+   "title": "2026년도 국회방송 유튜브 특화 콘텐츠 외주 제작(국집소 시즌3)",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "국회 국회사무처",
+   "posted_at": "2026-08-24T08:48:53+09:00",
+   "close_at": "2026-08-29T23:59:00+09:00",
+   "budget": 124748600,
+   "method": "사전규격 의견등록",
+   "contact": "손아롬",
+   "tel": "02-590-8877",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266538&fileType=BFDTL&fileSeq=1",
+   "score": 5,
+   "hits": [
+    "유튜브",
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
+   "id": "pre-R26BD00266542",
+   "kind": "prespec",
+   "no": "R26BD00266542",
+   "title": "2026년 기술상용화 인큐베이팅 스쿨(TIS) 성공사례 콘텐츠 제작 용역",
+   "org": "농림식품기술기획평가원",
+   "demand_org": "농림식품기술기획평가원",
+   "posted_at": "2026-08-24T09:09:16+09:00",
+   "close_at": "2026-08-29T23:59:00+09:00",
+   "budget": 80000000,
+   "method": "사전규격 의견등록",
+   "contact": "김윤석",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266542&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
+   "id": "pre-R26BD00266654",
+   "kind": "prespec",
+   "no": "R26BD00266654",
+   "title": "배달귀 키애니메이션 제작",
+   "org": "(주)삼십팔도씨",
+   "demand_org": "(주)삼십팔도씨",
+   "posted_at": "2026-08-24T11:40:54+09:00",
+   "close_at": "2026-08-29T23:59:00+09:00",
+   "budget": 37696689,
+   "method": "사전규격 의견등록",
+   "contact": "이미소",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266654&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "애니메이션제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
+   "id": "pre-R26BD00266730",
+   "kind": "prespec",
+   "no": "R26BD00266730",
+   "title": "향토음식진흥센터 공간 조성 및 전시 콘텐츠 제작·설치 용역",
+   "org": "한식진흥원",
+   "demand_org": "한식진흥원",
+   "posted_at": "2026-08-24T14:17:32+09:00",
+   "close_at": "2026-08-30T23:59:00+09:00",
+   "budget": 1850000000,
+   "method": "사전규격 의견등록",
+   "contact": "최민지",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266730&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
   },
   {
    "id": "bid-R26BK01684141-000",
@@ -4285,6 +4418,93 @@
    "first_seen": "2026-08-19T15:24:27.520220+09:00"
   },
   {
+   "id": "bid-R26BK01694724-000",
+   "kind": "bid",
+   "no": "R26BK01694724-000",
+   "title": "신임경찰관 성평등·폭력예방교육 콘텐츠 개발 연구",
+   "org": "경찰청",
+   "demand_org": "경찰청",
+   "posted_at": "2026-08-24T13:24:04+09:00",
+   "close_at": "2026-09-04T10:00:00+09:00",
+   "budget": 34650960,
+   "method": "제한경쟁",
+   "contact": "박창호",
+   "tel": "02-3150-0740",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694724&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
+   "id": "bid-R26BK01694747-000",
+   "kind": "bid",
+   "no": "R26BK01694747-000",
+   "title": "방송영상콘텐츠 언더독 제작 용역",
+   "org": "(주)썸씽스페셜",
+   "demand_org": "(주)썸씽스페셜",
+   "posted_at": "2026-08-24T13:31:52+09:00",
+   "close_at": "2026-09-04T10:00:00+09:00",
+   "budget": 188859000,
+   "method": "일반경쟁",
+   "contact": "서동길",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694747&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "영상콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
+   "id": "bid-R26BK01694572-000",
+   "kind": "bid",
+   "no": "R26BK01694572-000",
+   "title": "배달귀 키애니메이션 제작",
+   "org": "(주)삼십팔도씨",
+   "demand_org": "(주)삼십팔도씨",
+   "posted_at": "2026-08-24T12:12:31+09:00",
+   "close_at": "2026-09-04T12:00:00+09:00",
+   "budget": 37696689,
+   "method": "일반경쟁",
+   "contact": "이미소",
+   "tel": "02-2038-2831",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694572&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "애니메이션제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
+   "id": "bid-R26BK01694387-000",
+   "kind": "bid",
+   "no": "R26BK01694387-000",
+   "title": "2027 서울 세계청년대회 홍보 미디어 콘텐츠 배포",
+   "org": "재단법인 2027 서울 세계청년대회 조직위원회",
+   "demand_org": "재단법인 2027 서울 세계청년대회 조직위원회",
+   "posted_at": "2026-08-24T12:58:06+09:00",
+   "close_at": "2026-09-04T14:00:00+09:00",
+   "budget": 400000000,
+   "method": "제한경쟁",
+   "contact": "박초희",
+   "tel": "02-2230-2039",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694387&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "홍보",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
    "id": "bid-R26BK01693590-000",
    "kind": "bid",
    "no": "R26BK01693590-000",
@@ -4305,6 +4525,28 @@
    ],
    "starred": false,
    "first_seen": "2026-08-22T08:46:56.036433+09:00"
+  },
+  {
+   "id": "bid-R26BK01694808-000",
+   "kind": "bid",
+   "no": "R26BK01694808-000",
+   "title": "방송영상콘텐츠 후반작업 지원사업 나인 투 식스 부가영상 제작 용역",
+   "org": "(주)삼화네트웍스",
+   "demand_org": "(주)삼화네트웍스",
+   "posted_at": "2026-08-24T13:57:18+09:00",
+   "close_at": "2026-09-04T17:00:00+09:00",
+   "budget": 23100000,
+   "method": "제한경쟁",
+   "contact": "주현실",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694808&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "영상콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-24T15:35:17.385097+09:00"
   },
   {
    "id": "bid-R26BK01686692-000",
