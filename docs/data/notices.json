@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-24T15:35:17.385097+09:00",
- "total": 218,
+ "updated_at": "2026-08-25T15:25:53.398989+09:00",
+ "total": 226,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -3894,6 +3894,28 @@
    "first_seen": "2026-08-24T15:35:17.385097+09:00"
   },
   {
+   "id": "pre-R26BD00266903",
+   "kind": "prespec",
+   "no": "R26BD00266903",
+   "title": "2026년도 자랑스러운 공무원이야기 콘텐츠 제작",
+   "org": "인사혁신처",
+   "demand_org": "인사혁신처",
+   "posted_at": "2026-08-24T17:41:16+09:00",
+   "close_at": "2026-08-29T23:59:00+09:00",
+   "budget": 32000000,
+   "method": "사전규격 의견등록",
+   "contact": "박찬인",
+   "tel": "044-201-8023",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00266903&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
+  },
+  {
    "id": "pre-R26BD00266730",
    "kind": "prespec",
    "no": "R26BD00266730",
@@ -3914,6 +3936,28 @@
    ],
    "starred": false,
    "first_seen": "2026-08-24T15:35:17.385097+09:00"
+  },
+  {
+   "id": "pre-R26BD00267135",
+   "kind": "prespec",
+   "no": "R26BD00267135",
+   "title": "포항 산업전환 인재양성을 위한 콘텐츠 제작과 교육 플랫폼 운영",
+   "org": "재단법인 포항소재산업진흥원",
+   "demand_org": "재단법인 포항소재산업진흥원",
+   "posted_at": "2026-08-25T13:12:45+09:00",
+   "close_at": "2026-08-30T23:59:00+09:00",
+   "budget": 160000000,
+   "method": "사전규격 의견등록",
+   "contact": "김용화",
+   "tel": "054-279-9413",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00267135&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
   },
   {
    "id": "bid-R26BK01684141-000",
@@ -4157,6 +4201,28 @@
    ],
    "starred": false,
    "first_seen": "2026-08-21T15:26:04.068463+09:00"
+  },
+  {
+   "id": "bid-R26BK01687520-001",
+   "kind": "bid",
+   "no": "R26BK01687520-001",
+   "title": "2026년도 녹색산업 수출선도화 지원사업 해외 마케팅용 회사 소개 영상 제작 용역",
+   "org": "(주)부강테크",
+   "demand_org": "(주)부강테크",
+   "posted_at": "2026-08-24T17:10:36+09:00",
+   "close_at": "2026-08-31T10:00:00+09:00",
+   "budget": 44000000,
+   "method": "제한경쟁",
+   "contact": "강수진",
+   "tel": "070-5050-5535",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687520&bidPbancOrd=001",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "소개영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
   },
   {
    "id": "bid-R26BK01687816-000",
@@ -4461,6 +4527,71 @@
    "first_seen": "2026-08-24T15:35:17.385097+09:00"
   },
   {
+   "id": "bid-R26BK01694900-000",
+   "kind": "bid",
+   "no": "R26BK01694900-000",
+   "title": "(긴급) XR 뮤직비디오 제작용 리소스 공급",
+   "org": "주식회사 아이오에프엑스(IOFX)",
+   "demand_org": "주식회사 아이오에프엑스(IOFX)",
+   "posted_at": "2026-08-24T14:26:16+09:00",
+   "close_at": "2026-09-04T10:00:00+09:00",
+   "budget": 132000000,
+   "method": "제한경쟁",
+   "contact": "이종원",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694900&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "뮤직비디오",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
+  },
+  {
+   "id": "bid-R26BK01695006-000",
+   "kind": "bid",
+   "no": "R26BK01695006-000",
+   "title": "자율주행 보안상황 인지 콘텐츠 제작·설치 용역",
+   "org": "충남테크노파크",
+   "demand_org": "충남테크노파크",
+   "posted_at": "2026-08-24T15:19:32+09:00",
+   "close_at": "2026-09-04T10:00:00+09:00",
+   "budget": 40000000,
+   "method": "제한경쟁",
+   "contact": "홍선재",
+   "tel": "041-589-0682",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695006&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
+  },
+  {
+   "id": "bid-R26BK01695853-000",
+   "kind": "bid",
+   "no": "R26BK01695853-000",
+   "title": "2026년 ‘동아시아 역사 기행’ 역사 교사 캠프 기획‧운영 및  동아시아 역사 기행 교육 자료 제작 용역_PA202601680",
+   "org": "서울대학교산학협력단",
+   "demand_org": "서울대학교산학협력단",
+   "posted_at": "2026-08-24T17:38:10+09:00",
+   "close_at": "2026-09-04T10:00:00+09:00",
+   "budget": 400000000,
+   "method": "제한경쟁",
+   "contact": "박형종",
+   "tel": "02-880-2122",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695853&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육자료제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
+  },
+  {
    "id": "bid-R26BK01694572-000",
    "kind": "bid",
    "no": "R26BK01694572-000",
@@ -4590,6 +4721,51 @@
    ],
    "starred": false,
    "first_seen": "2026-08-14T16:06:29.372583+09:00"
+  },
+  {
+   "id": "bid-R26BK01696133-000",
+   "kind": "bid",
+   "no": "R26BK01696133-000",
+   "title": "S-100 표준 교육자료 및 모션 그래픽, 인포그래픽 제작 용역",
+   "org": "한국해양과학기술원 부설 선박해양플랜트연구소",
+   "demand_org": "한국해양과학기술원 부설 선박해양플랜트연구소",
+   "posted_at": "2026-08-24T20:44:47+09:00",
+   "close_at": "2026-09-07T10:00:00+09:00",
+   "budget": 49500000,
+   "method": "제한경쟁",
+   "contact": "최휘련",
+   "tel": "070-8028-7030",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01696133&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "모션그래픽",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
+  },
+  {
+   "id": "bid-R26BK01693905-000",
+   "kind": "bid",
+   "no": "R26BK01693905-000",
+   "title": "한국농촌경제연구원 주요 연구성과 영상 콘텐츠 제작",
+   "org": "한국농촌경제연구원",
+   "demand_org": "한국농촌경제연구원",
+   "posted_at": "2026-08-25T08:45:41+09:00",
+   "close_at": "2026-09-07T10:00:00+09:00",
+   "budget": 76400000,
+   "method": "제한경쟁",
+   "contact": "전형주",
+   "tel": "061-820-2159",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693905&bidPbancOrd=000",
+   "score": 7,
+   "hits": [
+    "영상콘텐츠",
+    "성과영상",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-25T15:25:53.398989+09:00"
   },
   {
    "id": "bid-R26BK01687425-000",
