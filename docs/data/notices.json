@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-28T16:00:07.743693+09:00",
- "total": 283,
+ "updated_at": "2026-08-29T02:49:53.466488+09:00",
+ "total": 284,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -4528,6 +4528,27 @@
    ],
    "starred": false,
    "first_seen": "2026-08-27T13:36:22.375142+09:00"
+  },
+  {
+   "id": "pre-R26BD00268887",
+   "kind": "prespec",
+   "no": "R26BD00268887",
+   "title": "[긴급] 충주본색 미디어아트 도큐멘타 총괄 운영 용역",
+   "org": "재단법인 충주문화관광재단",
+   "demand_org": "재단법인 충주문화관광재단",
+   "posted_at": "2026-08-28T17:01:17+09:00",
+   "close_at": "2026-08-31T23:59:00+09:00",
+   "budget": 500000000,
+   "method": "사전규격 의견등록",
+   "contact": "위슬기",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00268887&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "미디어아트"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-29T02:49:53.466488+09:00"
   },
   {
    "id": "bid-R26BK01631253-001",
