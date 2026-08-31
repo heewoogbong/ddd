@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-30T19:52:30.786249+09:00",
- "total": 284,
+ "updated_at": "2026-08-31T10:26:31.783966+09:00",
+ "total": 291,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -5008,6 +5008,28 @@
    "first_seen": "2026-08-19T15:24:27.520220+09:00"
   },
   {
+   "id": "pre-R26BD00269071",
+   "kind": "prespec",
+   "no": "R26BD00269071",
+   "title": "통합돌봄 제도 홍보영상 제작 민간협력사 선정",
+   "org": "한국언론진흥재단",
+   "demand_org": "한국언론진흥재단",
+   "posted_at": "2026-08-31T09:31:07+09:00",
+   "close_at": "2026-09-03T23:59:00+09:00",
+   "budget": 100000000,
+   "method": "사전규격 의견등록",
+   "contact": "박의연",
+   "tel": "02-2001-7723",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00269071&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-31T10:26:31.783966+09:00"
+  },
+  {
    "id": "bid-R26BK01694724-000",
    "kind": "bid",
    "no": "R26BK01694724-000",
@@ -6016,6 +6038,138 @@
    ],
    "starred": false,
    "first_seen": "2026-08-28T16:00:07.743693+09:00"
+  },
+  {
+   "id": "bid-R26BK01704401-000",
+   "kind": "bid",
+   "no": "R26BK01704401-000",
+   "title": "2026년도 자랑스러운 공무원이야기 콘텐츠 제작",
+   "org": "인사혁신처",
+   "demand_org": "인사혁신처",
+   "posted_at": "2026-08-31T09:29:23+09:00",
+   "close_at": "2026-09-11T10:00:00+09:00",
+   "budget": 32000000,
+   "method": "제한경쟁",
+   "contact": "박찬인",
+   "tel": "044-201-8023",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704401&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-31T10:26:31.783966+09:00"
+  },
+  {
+   "id": "bid-R26BK01694069-000",
+   "kind": "bid",
+   "no": "R26BK01694069-000",
+   "title": "2026년 기술상용화 인큐베이팅 스쿨(TIS) 성공사례 콘텐츠 제작 용역",
+   "org": "농림식품기술기획평가원",
+   "demand_org": "농림식품기술기획평가원",
+   "posted_at": "2026-08-31T09:56:10+09:00",
+   "close_at": "2026-09-11T10:00:00+09:00",
+   "budget": 80000000,
+   "method": "제한경쟁",
+   "contact": "신승현",
+   "tel": "061-338-9833",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694069&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-31T10:26:31.783966+09:00"
+  },
+  {
+   "id": "bid-R26BK01704704-000",
+   "kind": "bid",
+   "no": "R26BK01704704-000",
+   "title": "학교 역사교육 활성화를 위한 역사 바로알기 홍보 영상 제작_PA202601820",
+   "org": "서울대학교산학협력단",
+   "demand_org": "서울대학교산학협력단",
+   "posted_at": "2026-08-31T10:06:34+09:00",
+   "close_at": "2026-09-11T10:00:00+09:00",
+   "budget": 100000000,
+   "method": "제한경쟁",
+   "contact": "박형종",
+   "tel": "02-880-2122",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704704&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-31T10:26:31.783966+09:00"
+  },
+  {
+   "id": "bid-R26BK01694069-001",
+   "kind": "bid",
+   "no": "R26BK01694069-001",
+   "title": "2026년 기술상용화 인큐베이팅 스쿨(TIS) 성공사례 콘텐츠 제작 용역",
+   "org": "농림식품기술기획평가원",
+   "demand_org": "농림식품기술기획평가원",
+   "posted_at": "2026-08-31T10:09:53+09:00",
+   "close_at": "2026-09-11T10:00:00+09:00",
+   "budget": 80000000,
+   "method": "제한경쟁",
+   "contact": "신승현",
+   "tel": "061-338-9833",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694069&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-31T10:26:31.783966+09:00"
+  },
+  {
+   "id": "bid-R26BK01704399-000",
+   "kind": "bid",
+   "no": "R26BK01704399-000",
+   "title": "동학농민혁명기념관 다감각콘텐츠 제작설치 용역 입찰공고 (협상에의한계약, 긴급)",
+   "org": "전북특별자치도 정읍시",
+   "demand_org": "전북특별자치도 정읍시",
+   "posted_at": "2026-08-31T08:20:37+09:00",
+   "close_at": "2026-09-11T17:00:00+09:00",
+   "budget": 150000000,
+   "method": "일반경쟁",
+   "contact": "이경훈",
+   "tel": "063-539-5314",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704399&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-31T10:26:31.783966+09:00"
+  },
+  {
+   "id": "bid-R26BK01702880-000",
+   "kind": "bid",
+   "no": "R26BK01702880-000",
+   "title": "포항 산업전환 인재양성을 위한 콘텐츠 제작과 교육 플랫폼 운영",
+   "org": "재단법인 포항소재산업진흥원",
+   "demand_org": "재단법인 포항소재산업진흥원",
+   "posted_at": "2026-08-31T10:01:08+09:00",
+   "close_at": "2026-09-11T17:00:00+09:00",
+   "budget": 160000000,
+   "method": "제한경쟁",
+   "contact": "김용화",
+   "tel": "054-279-9413",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01702880&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-08-31T10:26:31.783966+09:00"
   },
   {
    "id": "bid-R26BK01702857-000",
