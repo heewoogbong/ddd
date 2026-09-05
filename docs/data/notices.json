@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-04T19:05:46.972536+09:00",
- "total": 359,
+ "updated_at": "2026-09-05T10:10:18.084124+09:00",
+ "total": 360,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -6722,6 +6722,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-04T19:05:46.972536+09:00"
+  },
+  {
+   "id": "pre-R26BD00271641",
+   "kind": "prespec",
+   "no": "R26BD00271641",
+   "title": "실감미디어와 콘텐츠 국제 컨퍼런스 2027",
+   "org": "중앙대학교 산학협력단",
+   "demand_org": "중앙대학교 산학협력단",
+   "posted_at": "2026-09-04T23:18:15+09:00",
+   "close_at": "2026-09-09T23:59:00+09:00",
+   "budget": 80000000,
+   "method": "사전규격 의견등록",
+   "contact": "문재원",
+   "tel": "02-820-6318",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00271641&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-05T10:10:18.084124+09:00"
   },
   {
    "id": "bid-R26BK01696217-001",
