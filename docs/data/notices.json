@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-05T18:35:47.556677+09:00",
- "total": 360,
+ "updated_at": "2026-09-07T10:10:04.061225+09:00",
+ "total": 363,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -6834,6 +6834,50 @@
    "first_seen": "2026-09-03T10:18:53.684672+09:00"
   },
   {
+   "id": "pre-R26BD00271664",
+   "kind": "prespec",
+   "no": "R26BD00271664",
+   "title": "2026년 중앙대학교 실감미디어혁신융합대학사업단 온라인 강좌 동영상 개발 용역",
+   "org": "중앙대학교 산학협력단",
+   "demand_org": "중앙대학교 산학협력단",
+   "posted_at": "2026-09-05T19:45:05+09:00",
+   "close_at": "2026-09-10T23:59:00+09:00",
+   "budget": 96000000,
+   "method": "사전규격 의견등록",
+   "contact": "문재원",
+   "tel": "02-820-6318",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00271664&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "영상",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-07T10:10:04.061225+09:00"
+  },
+  {
+   "id": "pre-R26BD00271678",
+   "kind": "prespec",
+   "no": "R26BD00271678",
+   "title": "강원대학교 기초교양 보충 교과목 원격수업 콘텐츠 제작",
+   "org": "강원대학교",
+   "demand_org": "강원대학교",
+   "posted_at": "2026-09-07T08:18:50+09:00",
+   "close_at": "2026-09-10T23:59:00+09:00",
+   "budget": 144000000,
+   "method": "사전규격 의견등록",
+   "contact": "박인영",
+   "tel": "033-250-7546",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00271678&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-07T10:10:04.061225+09:00"
+  },
+  {
    "id": "bid-R26BK01702827-000",
    "kind": "bid",
    "no": "R26BK01702827-000",
@@ -7489,6 +7533,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-04T19:05:46.972536+09:00"
+  },
+  {
+   "id": "bid-R26BK01714846-000",
+   "kind": "bid",
+   "no": "R26BK01714846-000",
+   "title": "방송영상콘텐츠 후반작업 지원사업 나인 투 식스 부가영상 제작 용역",
+   "org": "(주)삼화네트웍스",
+   "demand_org": "(주)삼화네트웍스",
+   "posted_at": "2026-09-04T18:17:59+09:00",
+   "close_at": "2026-09-15T10:00:00+09:00",
+   "budget": 23100000,
+   "method": "제한경쟁",
+   "contact": "주현실",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714846&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "영상콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-07T10:10:04.061225+09:00"
   },
   {
    "id": "bid-R26BK01709834-000",
