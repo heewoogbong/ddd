@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-07T19:55:24.709892+09:00",
- "total": 382,
+ "updated_at": "2026-09-08T10:18:32.995280+09:00",
+ "total": 386,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -8150,6 +8150,28 @@
    "first_seen": "2026-09-07T19:55:24.709892+09:00"
   },
   {
+   "id": "bid-R26BK01716853-000",
+   "kind": "bid",
+   "no": "R26BK01716853-000",
+   "title": "2026년 소공인 제조현장 VR 콘텐츠 제작 용역",
+   "org": "사단법인 전국도시형소공인연합회",
+   "demand_org": "사단법인 전국도시형소공인연합회",
+   "posted_at": "2026-09-07T17:49:26+09:00",
+   "close_at": "2026-09-18T10:00:00+09:00",
+   "budget": 65000000,
+   "method": "제한경쟁",
+   "contact": "김영흥",
+   "tel": "031-353-2129",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716853&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T10:18:32.995280+09:00"
+  },
+  {
    "id": "bid-R26BK01710559-000",
    "kind": "bid",
    "no": "R26BK01710559-000",
@@ -8192,6 +8214,50 @@
    ],
    "starred": false,
    "first_seen": "2026-09-07T19:55:24.709892+09:00"
+  },
+  {
+   "id": "bid-R26BK01717380-000",
+   "kind": "bid",
+   "no": "R26BK01717380-000",
+   "title": "2026년 충주 국악미디어 프로그램 제작 용역",
+   "org": "재단법인 충주문화관광재단",
+   "demand_org": "재단법인 충주문화관광재단",
+   "posted_at": "2026-09-07T18:09:06+09:00",
+   "close_at": "2026-09-18T17:00:00+09:00",
+   "budget": 55000000,
+   "method": "제한경쟁",
+   "contact": "위슬기",
+   "tel": "043-723-1346",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717380&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T10:18:32.995280+09:00"
+  },
+  {
+   "id": "bid-R26BK01717535-000",
+   "kind": "bid",
+   "no": "R26BK01717535-000",
+   "title": "하동군 자원순환센터 홍보콘텐츠 구축 용역",
+   "org": "경상남도 하동군",
+   "demand_org": "경상남도 하동군",
+   "posted_at": "2026-09-07T20:15:31+09:00",
+   "close_at": "2026-09-21T16:00:00+09:00",
+   "budget": 300000000,
+   "method": "제한경쟁",
+   "contact": "김건구",
+   "tel": "055-880-2284",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717535&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T10:18:32.995280+09:00"
   },
   {
    "id": "bid-R26BK01704600-000",
@@ -8281,6 +8347,28 @@
    ],
    "starred": false,
    "first_seen": "2026-08-11T18:42:05.822808+09:00"
+  },
+  {
+   "id": "bid-R26BK01715033-000",
+   "kind": "bid",
+   "no": "R26BK01715033-000",
+   "title": "과학기술 60주년 기념 콘텐츠 제작 용역",
+   "org": "한국과학창의재단",
+   "demand_org": "한국과학창의재단",
+   "posted_at": "2026-09-07T21:40:28+09:00",
+   "close_at": "2026-09-23T10:00:00+09:00",
+   "budget": 55000000,
+   "method": "제한경쟁",
+   "contact": "이원표",
+   "tel": "02-559-3906",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715033&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T10:18:32.995280+09:00"
   },
   {
    "id": "bid-R26BK01682296-000",
