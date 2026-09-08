@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-08T10:18:32.995280+09:00",
- "total": 386,
+ "updated_at": "2026-09-08T19:13:04.160620+09:00",
+ "total": 396,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -6393,6 +6393,29 @@
    "first_seen": "2026-08-27T13:36:22.375142+09:00"
   },
   {
+   "id": "bid-R26BK01719249-000",
+   "kind": "bid",
+   "no": "R26BK01719249-000",
+   "title": "2026년 하반기 원주시 유튜브 및 SNS 콘텐츠 기획 및 제작 용역",
+   "org": "강원특별자치도 원주시",
+   "demand_org": "강원특별자치도 원주시",
+   "posted_at": "2026-09-08T15:58:54+09:00",
+   "close_at": "2026-09-08T17:00:00+09:00",
+   "budget": 46970000,
+   "method": "수의계약",
+   "contact": "현송아",
+   "tel": "033-737-2434",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719249&bidPbancOrd=000",
+   "score": 5,
+   "hits": [
+    "유튜브",
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
    "id": "pre-R26BD00270428",
    "kind": "prespec",
    "no": "R26BD00270428",
@@ -7162,28 +7185,6 @@
    "first_seen": "2026-09-07T19:55:24.709892+09:00"
   },
   {
-   "id": "pre-R26BD00272051",
-   "kind": "prespec",
-   "no": "R26BD00272051",
-   "title": "M650박물관 홍보안내영상 제작용역",
-   "org": "(주)강원랜드",
-   "demand_org": "(주)강원랜드",
-   "posted_at": "2026-09-07T16:54:52+09:00",
-   "close_at": "2026-09-12T23:59:00+09:00",
-   "budget": 59840000,
-   "method": "사전규격 의견등록",
-   "contact": "이다듬",
-   "tel": "033-590-3137",
-   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272051&fileType=BFDTL&fileSeq=1",
-   "score": 4,
-   "hits": [
-    "영상제작",
-    "홍보"
-   ],
-   "starred": false,
-   "first_seen": "2026-09-07T19:55:24.709892+09:00"
-  },
-  {
    "id": "pre-R26BD00272067",
    "kind": "prespec",
    "no": "R26BD00272067",
@@ -7225,6 +7226,138 @@
    ],
    "starred": false,
    "first_seen": "2026-09-07T19:55:24.709892+09:00"
+  },
+  {
+   "id": "pre-R26BD00272295",
+   "kind": "prespec",
+   "no": "R26BD00272295",
+   "title": "2026년도 STEP 운영 사례 인터뷰 영상 제작",
+   "org": "한국기술교육대학교",
+   "demand_org": "한국기술교육대학교",
+   "posted_at": "2026-09-08T11:16:18+09:00",
+   "close_at": "2026-09-13T23:59:00+09:00",
+   "budget": 30000000,
+   "method": "사전규격 의견등록",
+   "contact": "김현준",
+   "tel": "041-560-2550",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272295&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "인터뷰영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
+   "id": "pre-R26BD00272310",
+   "kind": "prespec",
+   "no": "R26BD00272310",
+   "title": "대한민국 문화도시 충주 융복합 문화콘텐츠 창제작 지원사업 [THE NEXT SHOW II] 운영 대행 용역",
+   "org": "재단법인 충주문화관광재단",
+   "demand_org": "재단법인 충주문화관광재단",
+   "posted_at": "2026-09-08T11:27:54+09:00",
+   "close_at": "2026-09-13T23:59:00+09:00",
+   "budget": 570000000,
+   "method": "사전규격 의견등록",
+   "contact": "위슬기",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272310&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
+   "id": "pre-R26BD00272316",
+   "kind": "prespec",
+   "no": "R26BD00272316",
+   "title": "서일대학교 신입생 안정화 15주 영상콘텐츠 및 운영 LMS 구축",
+   "org": "서일대학교 산학협력단",
+   "demand_org": "서일대학교 산학협력단",
+   "posted_at": "2026-09-08T11:38:33+09:00",
+   "close_at": "2026-09-13T23:59:00+09:00",
+   "budget": 100000000,
+   "method": "사전규격 의견등록",
+   "contact": "이영필",
+   "tel": "02-490-7252",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272316&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
+   "id": "pre-R26BD00272382",
+   "kind": "prespec",
+   "no": "R26BD00272382",
+   "title": "스마트모빌리티 융합전공 2027학년도 교과목 영상 콘텐츠 제작 용역",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "국립공주대학교산학협력단",
+   "posted_at": "2026-09-08T13:52:50+09:00",
+   "close_at": "2026-09-13T23:59:00+09:00",
+   "budget": 242134000,
+   "method": "사전규격 의견등록",
+   "contact": "차도빈",
+   "tel": "070-4056-8393",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272382&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "영상콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
+   "id": "pre-R26BD00272530",
+   "kind": "prespec",
+   "no": "R26BD00272530",
+   "title": "세계명견 아트뮤지엄 콘텐츠 구축 및 제작, 설치 용역",
+   "org": "전북특별자치도 임실군",
+   "demand_org": "전북특별자치도 임실군",
+   "posted_at": "2026-09-08T16:37:25+09:00",
+   "close_at": "2026-09-13T23:59:00+09:00",
+   "budget": 2500000000,
+   "method": "사전규격 의견등록",
+   "contact": "정혜인",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272530&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
+   "id": "pre-R26BD00272576",
+   "kind": "prespec",
+   "no": "R26BD00272576",
+   "title": "캐릭터 미디어 콘텐츠 제작 용역",
+   "org": "재단법인홍주문화관광재단",
+   "demand_org": "재단법인홍주문화관광재단",
+   "posted_at": "2026-09-08T17:29:58+09:00",
+   "close_at": "2026-09-13T23:59:00+09:00",
+   "budget": 113000000,
+   "method": "사전규격 의견등록",
+   "contact": "방성진",
+   "tel": "041-630-9631",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272576&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
   },
   {
    "id": "bid-R26BK01704895-000",
@@ -7484,6 +7617,28 @@
    "hits": [
     "영상제작",
     "유튜브"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-07T19:55:24.709892+09:00"
+  },
+  {
+   "id": "pre-R26BD00272051",
+   "kind": "prespec",
+   "no": "R26BD00272051",
+   "title": "M650박물관 홍보안내영상 제작 용역",
+   "org": "(주)강원랜드",
+   "demand_org": "(주)강원랜드",
+   "posted_at": "2026-09-07T16:54:52+09:00",
+   "close_at": "2026-09-14T23:59:00+09:00",
+   "budget": 59840000,
+   "method": "사전규격 의견등록",
+   "contact": "이다듬",
+   "tel": "033-590-3137",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00272051&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "영상제작",
+    "홍보"
    ],
    "starred": false,
    "first_seen": "2026-09-07T19:55:24.709892+09:00"
@@ -7786,8 +7941,8 @@
    "close_at": "2026-09-15T14:00:00+09:00",
    "budget": 40000000,
    "method": "제한경쟁",
-   "contact": "나단아",
-   "tel": "043-931-0683",
+   "contact": "송보명",
+   "tel": "043-931-0685",
    "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716189&bidPbancOrd=000",
    "score": 3,
    "hits": [
@@ -8238,6 +8393,50 @@
    "first_seen": "2026-09-08T10:18:32.995280+09:00"
   },
   {
+   "id": "bid-R26BK01713945-000",
+   "kind": "bid",
+   "no": "R26BK01713945-000",
+   "title": "2D애니메이션 No Stress, BNABNA 시즌1 제작 용역 3차",
+   "org": "주식회사 가넷픽쳐스",
+   "demand_org": "주식회사 가넷픽쳐스",
+   "posted_at": "2026-09-08T11:42:51+09:00",
+   "close_at": "2026-09-21T14:00:00+09:00",
+   "budget": 99000000,
+   "method": "일반경쟁",
+   "contact": "조홍철",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713945&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
+   "id": "bid-R26BK01713945-001",
+   "kind": "bid",
+   "no": "R26BK01713945-001",
+   "title": "2D애니메이션 No Stress, BNABNA 시즌1 제작 용역 3차",
+   "org": "주식회사 가넷픽쳐스",
+   "demand_org": "주식회사 가넷픽쳐스",
+   "posted_at": "2026-09-08T16:16:14+09:00",
+   "close_at": "2026-09-21T14:00:00+09:00",
+   "budget": 99000000,
+   "method": "일반경쟁",
+   "contact": "조홍철",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713945&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
+  },
+  {
    "id": "bid-R26BK01717535-000",
    "kind": "bid",
    "no": "R26BK01717535-000",
@@ -8325,6 +8524,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-07T19:55:24.709892+09:00"
+  },
+  {
+   "id": "bid-R26BK01719319-000",
+   "kind": "bid",
+   "no": "R26BK01719319-000",
+   "title": "제11회 명문장수기업 확인제도 및 확인기업 홍보영상 제작",
+   "org": "중소기업중앙회",
+   "demand_org": "중소기업중앙회",
+   "posted_at": "2026-09-08T16:20:27+09:00",
+   "close_at": "2026-09-22T12:00:00+09:00",
+   "budget": 80000000,
+   "method": "제한경쟁",
+   "contact": "김원일",
+   "tel": "02-2124-3052",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719319&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-08T19:13:04.160620+09:00"
   },
   {
    "id": "bid-R26BK01663873-000",
