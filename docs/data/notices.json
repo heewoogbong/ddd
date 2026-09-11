@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-10T19:11:34.083123+09:00",
- "total": 417,
+ "updated_at": "2026-09-11T10:15:03.105484+09:00",
+ "total": 422,
  "notices": [
   {
    "id": "bid-R26BK01666715-000",
@@ -7118,6 +7118,27 @@
    "first_seen": "2026-09-10T19:11:34.083123+09:00"
   },
   {
+   "id": "bid-R26BK01724182-000",
+   "kind": "bid",
+   "no": "R26BK01724182-000",
+   "title": "[3-2 BIT] BIT 융합 교육과정 및 교육콘텐츠 개발 용역",
+   "org": "경북대학교 산학협력단",
+   "demand_org": "경북대학교 산학협력단",
+   "posted_at": "2026-09-10T17:51:20+09:00",
+   "close_at": "2026-09-11T12:00:00+09:00",
+   "budget": 88000000,
+   "method": "수의계약",
+   "contact": "서현진",
+   "tel": "053-950-2196",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01724182&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-11T10:15:03.105484+09:00"
+  },
+  {
    "id": "bid-R26BK01706207-000",
    "kind": "bid",
    "no": "R26BK01706207-000",
@@ -8174,6 +8195,28 @@
    "first_seen": "2026-09-10T19:11:34.083123+09:00"
   },
   {
+   "id": "pre-R26BD00273636",
+   "kind": "prespec",
+   "no": "R26BD00273636",
+   "title": "[협상에의한계약]고흥분청문화박물관 실감콘텐츠 제작 및 설치",
+   "org": "전남광주통합특별시 고흥군",
+   "demand_org": "전남광주통합특별시 고흥군",
+   "posted_at": "2026-09-10T20:48:44+09:00",
+   "close_at": "2026-09-15T23:59:00+09:00",
+   "budget": 600000000,
+   "method": "사전규격 의견등록",
+   "contact": "장진우",
+   "tel": "061-830-5292",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00273636&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "실감콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-11T10:15:03.105484+09:00"
+  },
+  {
    "id": "bid-R26BK01698222-000",
    "kind": "bid",
    "no": "R26BK01698222-000",
@@ -8220,6 +8263,27 @@
    "first_seen": "2026-08-28T16:00:07.743693+09:00"
   },
   {
+   "id": "pre-R26BD00273734",
+   "kind": "prespec",
+   "no": "R26BD00273734",
+   "title": "원격교육 콘텐츠 개발 용역",
+   "org": "백석문화대학교 산학협력단",
+   "demand_org": "백석문화대학교 산학협력단",
+   "posted_at": "2026-09-11T10:04:49+09:00",
+   "close_at": "2026-09-16T23:59:00+09:00",
+   "budget": 82000000,
+   "method": "사전규격 의견등록",
+   "contact": "김선현",
+   "tel": "041-550-2954",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00273734&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-11T10:15:03.105484+09:00"
+  },
+  {
    "id": "bid-R26BK01708129-000",
    "kind": "bid",
    "no": "R26BK01708129-000",
@@ -8261,6 +8325,28 @@
    ],
    "starred": false,
    "first_seen": "2026-08-28T16:00:07.743693+09:00"
+  },
+  {
+   "id": "bid-R26BK01723156-000",
+   "kind": "bid",
+   "no": "R26BK01723156-000",
+   "title": "2026 양산삽량문화축전 홍보 현수막 외 제작 및 설치 철거 용역(긴급)",
+   "org": "재단법인 양산문화재단",
+   "demand_org": "재단법인 양산문화재단",
+   "posted_at": "2026-09-11T09:22:32+09:00",
+   "close_at": "2026-09-17T12:00:00+09:00",
+   "budget": 42966000,
+   "method": "수의계약",
+   "contact": "서유진",
+   "tel": "055-380-0915",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723156&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-11T10:15:03.105484+09:00"
   },
   {
    "id": "bid-R26BK01711650-000",
@@ -8590,6 +8676,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-10T10:15:10.036341+09:00"
+  },
+  {
+   "id": "bid-R26BK01724417-000",
+   "kind": "bid",
+   "no": "R26BK01724417-000",
+   "title": "실감미디어와 콘텐츠 국제 컨퍼런스 2027",
+   "org": "중앙대학교 산학협력단",
+   "demand_org": "중앙대학교 산학협력단",
+   "posted_at": "2026-09-10T22:59:05+09:00",
+   "close_at": "2026-09-21T11:00:00+09:00",
+   "budget": 80000000,
+   "method": "일반경쟁",
+   "contact": "문재원",
+   "tel": "02-820-6318",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01724417&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-11T10:15:03.105484+09:00"
   },
   {
    "id": "bid-R26BK01722848-000",
