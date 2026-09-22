@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-22T10:41:33.950661+09:00",
- "total": 551,
+ "updated_at": "2026-09-22T19:30:17.393049+09:00",
+ "total": 564,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -10217,6 +10217,27 @@
    "first_seen": "2026-09-11T19:08:11.112598+09:00"
   },
   {
+   "id": "bid-R26BK01740779-000",
+   "kind": "bid",
+   "no": "R26BK01740779-000",
+   "title": "公社 피난안내영상 제작 용역",
+   "org": "한국농어촌공사",
+   "demand_org": "한국농어촌공사",
+   "posted_at": "2026-09-22T14:49:35+09:00",
+   "close_at": "2026-09-22T16:00:00+09:00",
+   "budget": 22000000,
+   "method": "수의계약",
+   "contact": "김태정",
+   "tel": "061-338-6107",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740779&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
    "id": "bid-R26BK01663873-000",
    "kind": "bid",
    "no": "R26BK01663873-000",
@@ -10666,6 +10687,74 @@
    "first_seen": "2026-09-17T10:34:49.036157+09:00"
   },
   {
+   "id": "pre-R26BD00277204",
+   "kind": "prespec",
+   "no": "R26BD00277204",
+   "title": "2026 지능형로봇 컨소시엄 CO-SHOW 홍보관 부스 제작 및 설치 용역",
+   "org": "한양대학교 에리카산학협력단",
+   "demand_org": "한양대학교 에리카산학협력단",
+   "posted_at": "2026-09-22T10:46:32+09:00",
+   "close_at": "2026-09-27T23:59:00+09:00",
+   "budget": 100000000,
+   "method": "사전규격 의견등록",
+   "contact": "박영미",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00277204&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "pre-R26BD00277265",
+   "kind": "prespec",
+   "no": "R26BD00277265",
+   "title": "와이즈유(영산대학교) [26 부산앵커] 필리피노 라이프 IN BUSAN : 부산지역 홍보를 위한 글로벌 K-컬처 리얼리티 콘텐츠 제작 용역",
+   "org": "영산대학교",
+   "demand_org": "영산대학교",
+   "posted_at": "2026-09-22T13:00:03+09:00",
+   "close_at": "2026-09-27T23:59:00+09:00",
+   "budget": 50000000,
+   "method": "사전규격 의견등록",
+   "contact": "김동욱",
+   "tel": "055-380-9026",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00277265&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "pre-R26BD00277349",
+   "kind": "prespec",
+   "no": "R26BD00277349",
+   "title": "와이즈유(영산대학교) [26 부산앵커] 필리피노 라이프 IN BUSAN : 부산지역 홍보를 위한 글로벌 K-컬처 리얼리티 콘텐츠 제작 용역",
+   "org": "영산대학교",
+   "demand_org": "영산대학교",
+   "posted_at": "2026-09-22T14:34:04+09:00",
+   "close_at": "2026-09-27T23:59:00+09:00",
+   "budget": 50000000,
+   "method": "사전규격 의견등록",
+   "contact": "김동욱",
+   "tel": "055-380-9026",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00277349&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
    "id": "bid-R26BK01682296-000",
    "kind": "bid",
    "no": "R26BK01682296-000",
@@ -11097,6 +11186,27 @@
    ],
    "starred": false,
    "first_seen": "2026-09-18T19:12:23.821469+09:00"
+  },
+  {
+   "id": "pre-R26BD00277269",
+   "kind": "prespec",
+   "no": "R26BD00277269",
+   "title": "2026 유네스코 미디어아트 창의도시 국제포럼 행사 대행 용역",
+   "org": "전남광주통합특별시 유네스코미디어아트창의도시플랫폼",
+   "demand_org": "전남광주통합특별시 유네스코미디어아트창의도시플랫폼",
+   "posted_at": "2026-09-22T13:05:32+09:00",
+   "close_at": "2026-09-28T23:59:00+09:00",
+   "budget": 80000000,
+   "method": "사전규격 의견등록",
+   "contact": "김소현",
+   "tel": "062-613-6146",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00277269&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "미디어아트"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
   },
   {
    "id": "bid-R26BK01688008-000",
@@ -11911,6 +12021,72 @@
    "first_seen": "2026-09-21T20:17:53.318600+09:00"
   },
   {
+   "id": "bid-R26BK01740378-000",
+   "kind": "bid",
+   "no": "R26BK01740378-000",
+   "title": "한국식품연구원 창립 40주년 광고영상 및 엠블럼 제작",
+   "org": "한국식품연구원",
+   "demand_org": "한국식품연구원",
+   "posted_at": "2026-09-22T10:45:38+09:00",
+   "close_at": "2026-10-06T10:00:00+09:00",
+   "budget": 25500000,
+   "method": "제한경쟁",
+   "contact": "우혁",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740378&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "광고영상",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01741127-000",
+   "kind": "bid",
+   "no": "R26BK01741127-000",
+   "title": "IOT플랫폼,유인물,홍보영상 제작용역",
+   "org": "(주)더아이제이",
+   "demand_org": "(주)더아이제이",
+   "posted_at": "2026-09-22T11:38:03+09:00",
+   "close_at": "2026-10-06T10:00:00+09:00",
+   "budget": 35442000,
+   "method": "일반경쟁",
+   "contact": "박산",
+   "tel": "031-943-0415",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741127&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01740811-000",
+   "kind": "bid",
+   "no": "R26BK01740811-000",
+   "title": "AI기반 디지털트윈 EV 정비 교육용 콘텐츠 제작",
+   "org": "국민대학교 산학협력단",
+   "demand_org": "국민대학교 산학협력단",
+   "posted_at": "2026-09-22T11:44:21+09:00",
+   "close_at": "2026-10-06T10:00:00+09:00",
+   "budget": 240000000,
+   "method": "일반경쟁",
+   "contact": "양승호",
+   "tel": "02-910-6677",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740811&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
    "id": "bid-R26BK01727383-000",
    "kind": "bid",
    "no": "R26BK01727383-000",
@@ -12003,6 +12179,97 @@
    "first_seen": "2026-09-21T20:17:53.318600+09:00"
   },
   {
+   "id": "bid-R26BK01741201-000",
+   "kind": "bid",
+   "no": "R26BK01741201-000",
+   "title": "와이즈유(영산대학교) [26 부산앵커] 필리피노 라이프 IN BUSAN : 부산지역 홍보를 위한 글로벌 K-컬처 리얼리티 콘텐츠 제작 용역",
+   "org": "영산대학교",
+   "demand_org": "영산대학교",
+   "posted_at": "2026-09-22T13:39:14+09:00",
+   "close_at": "2026-10-08T11:00:00+09:00",
+   "budget": 50000000,
+   "method": "제한경쟁",
+   "contact": "김동욱",
+   "tel": "055-380-9026",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741201&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01741201-001",
+   "kind": "bid",
+   "no": "R26BK01741201-001",
+   "title": "와이즈유(영산대학교) [26 부산앵커] 필리피노 라이프 IN BUSAN : 부산지역 홍보를 위한 글로벌 K-컬처 리얼리티 콘텐츠 제작 용역",
+   "org": "영산대학교",
+   "demand_org": "영산대학교",
+   "posted_at": "2026-09-22T14:23:53+09:00",
+   "close_at": "2026-10-08T11:00:00+09:00",
+   "budget": 50000000,
+   "method": "제한경쟁",
+   "contact": "김동욱",
+   "tel": "055-380-9026",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741201&bidPbancOrd=001",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01741585-000",
+   "kind": "bid",
+   "no": "R26BK01741585-000",
+   "title": "와이즈유(영산대학교) [26 부산앵커] 필리피노 라이프 IN BUSAN : 부산지역 홍보를 위한 글로벌 K-컬처 리얼리티 콘텐츠 제작 용역",
+   "org": "영산대학교",
+   "demand_org": "영산대학교",
+   "posted_at": "2026-09-22T14:37:59+09:00",
+   "close_at": "2026-10-08T11:00:00+09:00",
+   "budget": 50000000,
+   "method": "제한경쟁",
+   "contact": "김동욱",
+   "tel": "055-380-9026",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741585&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01741348-000",
+   "kind": "bid",
+   "no": "R26BK01741348-000",
+   "title": "한국교육시설안전원기관 홍보영상 제작 용역",
+   "org": "한국교육시설안전원",
+   "demand_org": "한국교육시설안전원",
+   "posted_at": "2026-09-22T14:12:47+09:00",
+   "close_at": "2026-10-08T16:00:00+09:00",
+   "budget": 40900000,
+   "method": "제한경쟁",
+   "contact": "한재성",
+   "tel": "02-781-0124",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01741348&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
    "id": "bid-R26BK01735648-000",
    "kind": "bid",
    "no": "R26BK01735648-000",
@@ -12068,6 +12335,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-21T20:17:53.318600+09:00"
+  },
+  {
+   "id": "bid-R26BK01727525-000",
+   "kind": "bid",
+   "no": "R26BK01727525-000",
+   "title": "M650박물관 홍보‧안내영상 제작",
+   "org": "(주)강원랜드",
+   "demand_org": "(주)강원랜드",
+   "posted_at": "2026-09-22T10:16:02+09:00",
+   "close_at": "2026-10-13T10:00:00+09:00",
+   "budget": 59840000,
+   "method": "제한경쟁",
+   "contact": "최진규",
+   "tel": "033-590-5843",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01727525&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "영상제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-22T19:30:17.393049+09:00"
   },
   {
    "id": "bid-R26BK01721146-000",
