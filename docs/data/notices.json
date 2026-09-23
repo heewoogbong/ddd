@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-23T10:35:34.992855+09:00",
- "total": 565,
+ "updated_at": "2026-09-23T19:24:40.487795+09:00",
+ "total": 575,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -11210,6 +11210,28 @@
    "first_seen": "2026-09-18T19:12:23.821469+09:00"
   },
   {
+   "id": "pre-R26BD00278303",
+   "kind": "prespec",
+   "no": "R26BD00278303",
+   "title": "애니메이션 시리즈 뀨엔터 후반작업 사운드제작용역",
+   "org": "아이스크림스튜디오(주)",
+   "demand_org": "아이스크림스튜디오(주)",
+   "posted_at": "2026-09-23T17:41:23+09:00",
+   "close_at": "2026-09-28T18:00:00+09:00",
+   "budget": 71500000,
+   "method": "사전규격 의견등록",
+   "contact": "박소현",
+   "tel": "***********",
+   "url": "",
+   "score": 2,
+   "hits": [
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
+  },
+  {
    "id": "pre-R26BD00277269",
    "kind": "prespec",
    "no": "R26BD00277269",
@@ -11229,6 +11251,71 @@
    ],
    "starred": false,
    "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "pre-R26BD00278085",
+   "kind": "prespec",
+   "no": "R26BD00278085",
+   "title": "부송동 골목형상점가 유망골목상권 육성사업 지역관광연계(공모전과 콘텐츠 제작)",
+   "org": "비스타컨설팅그룹주식회사",
+   "demand_org": "비스타컨설팅그룹주식회사",
+   "posted_at": "2026-09-23T14:53:38+09:00",
+   "close_at": "2026-09-28T23:59:00+09:00",
+   "budget": 36320900,
+   "method": "사전규격 의견등록",
+   "contact": "김병수",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00278085&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
+  },
+  {
+   "id": "pre-R26BD00278098",
+   "kind": "prespec",
+   "no": "R26BD00278098",
+   "title": "세계민속관 전시 홍보물 제작",
+   "org": "문화체육관광부 국립민속박물관",
+   "demand_org": "문화체육관광부 국립민속박물관",
+   "posted_at": "2026-09-23T15:05:44+09:00",
+   "close_at": "2026-09-28T23:59:00+09:00",
+   "budget": 50000000,
+   "method": "사전규격 의견등록",
+   "contact": "정은경",
+   "tel": "02-3704-3031",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00278098&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "홍보물제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
+  },
+  {
+   "id": "pre-R26BD00278161",
+   "kind": "prespec",
+   "no": "R26BD00278161",
+   "title": "2026 소담스퀘어 경북 인프라 활용 디지털 콘텐츠 제작 및 라이브커머스 운영 용역",
+   "org": "사단법인 지역과소셜비즈",
+   "demand_org": "사단법인 지역과소셜비즈",
+   "posted_at": "2026-09-23T15:45:04+09:00",
+   "close_at": "2026-09-28T23:59:00+09:00",
+   "budget": 120000000,
+   "method": "사전규격 의견등록",
+   "contact": "이설희",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00278161&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
   },
   {
    "id": "bid-R26BK01688008-000",
@@ -11578,6 +11665,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-15T19:38:13.613462+09:00"
+  },
+  {
+   "id": "pre-R26BD00277850",
+   "kind": "prespec",
+   "no": "R26BD00277850",
+   "title": "2026 창업문화확산 사업화 멘토링 우수사례집 발간 및 성과공유 콘텐츠 기획 제작 용역",
+   "org": "재단법인과학기술사업화진흥원",
+   "demand_org": "재단법인과학기술사업화진흥원",
+   "posted_at": "2026-09-23T11:05:40+09:00",
+   "close_at": "2026-09-29T23:59:00+09:00",
+   "budget": 60000000,
+   "method": "사전규격 의견등록",
+   "contact": "정재훈",
+   "tel": "02-736-9023",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00277850&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
   },
   {
    "id": "bid-R26BK01736528-000",
@@ -12109,6 +12218,50 @@
    "first_seen": "2026-09-22T19:30:17.393049+09:00"
   },
   {
+   "id": "bid-R26BK01742913-000",
+   "kind": "bid",
+   "no": "R26BK01742913-000",
+   "title": "[제2026-국제산학22(재)호] 2026년 경희대학교 실감미디어 혁신융합대학사업단 WE-Meet 교과목 운영 및 콘텐츠고도화 위탁 용역",
+   "org": "경희대학교산학협력단",
+   "demand_org": "경희대학교산학협력단",
+   "posted_at": "2026-09-23T09:25:31+09:00",
+   "close_at": "2026-10-06T10:00:00+09:00",
+   "budget": 41000000,
+   "method": "일반경쟁",
+   "contact": "강결",
+   "tel": "031-201-3529",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742913&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
+  },
+  {
+   "id": "bid-R26BK01742466-000",
+   "kind": "bid",
+   "no": "R26BK01742466-000",
+   "title": "2026년 희망리턴패키지 재기사업화 지원사업 대구·경북권역  「소상공인 우수사례 마케팅 및 콘텐츠 제작 용역」",
+   "org": "주식회사 세종경영연구소",
+   "demand_org": "주식회사 세종경영연구소",
+   "posted_at": "2026-09-22T20:02:05+09:00",
+   "close_at": "2026-10-06T15:00:00+09:00",
+   "budget": 110000000,
+   "method": "제한경쟁",
+   "contact": "김현지",
+   "tel": "053-716-0850",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742466&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
+  },
+  {
    "id": "bid-R26BK01727383-000",
    "kind": "bid",
    "no": "R26BK01727383-000",
@@ -12177,6 +12330,51 @@
    ],
    "starred": false,
    "first_seen": "2026-09-21T20:17:53.318600+09:00"
+  },
+  {
+   "id": "bid-R26BK01742190-000",
+   "kind": "bid",
+   "no": "R26BK01742190-000",
+   "title": "제4회 전국동시조합장 선거 홍보 도안·인쇄물 제작 및 배부 용역",
+   "org": "중앙선거관리위원회",
+   "demand_org": "중앙선거관리위원회",
+   "posted_at": "2026-09-22T16:59:04+09:00",
+   "close_at": "2026-10-07T10:00:00+09:00",
+   "budget": 83000000,
+   "method": "제한경쟁",
+   "contact": "김재경",
+   "tel": "02-3294-0831",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742190&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
+  },
+  {
+   "id": "bid-R26BK01743366-000",
+   "kind": "bid",
+   "no": "R26BK01743366-000",
+   "title": "2026년 사회적기업 우선구매 온라인 교육콘텐츠 제작 용역",
+   "org": "한국사회적기업진흥원",
+   "demand_org": "한국사회적기업진흥원",
+   "posted_at": "2026-09-23T11:18:39+09:00",
+   "close_at": "2026-10-07T10:00:00+09:00",
+   "budget": 60000000,
+   "method": "제한경쟁",
+   "contact": "이정필",
+   "tel": "031-697-7827",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743366&bidPbancOrd=000",
+   "score": 7,
+   "hits": [
+    "교육콘텐츠",
+    "온라인교육콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
   },
   {
    "id": "bid-R26BK01730040-001",
@@ -12379,6 +12577,29 @@
    ],
    "starred": false,
    "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01742654-000",
+   "kind": "bid",
+   "no": "R26BK01742654-000",
+   "title": "호국평화공원 야간경관 조성사업 미디어월 및 콘텐츠 제작·설치 용역",
+   "org": "경상북도 칠곡군",
+   "demand_org": "경상북도 칠곡군",
+   "posted_at": "2026-09-22T20:35:59+09:00",
+   "close_at": "2026-10-13T17:00:00+09:00",
+   "budget": 900000000,
+   "method": "제한경쟁",
+   "contact": "송보관",
+   "tel": "054-979-6263",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742654&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-23T19:24:40.487795+09:00"
   },
   {
    "id": "bid-R26BK01721146-000",
