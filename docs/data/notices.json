@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-28T10:49:14.001883+09:00",
- "total": 585,
+ "updated_at": "2026-09-28T21:13:04.068317+09:00",
+ "total": 593,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -11865,6 +11865,28 @@
    "first_seen": "2026-09-28T10:49:14.001883+09:00"
   },
   {
+   "id": "pre-R26BD00278677",
+   "kind": "prespec",
+   "no": "R26BD00278677",
+   "title": "부평구청소년성문화센터  체험관 공간 조성 및 교육콘텐츠 제작·설치",
+   "org": "(재)인천광역시부평구문화재단",
+   "demand_org": "(재)인천광역시부평구문화재단",
+   "posted_at": "2026-09-28T15:11:49+09:00",
+   "close_at": "2026-10-01T23:59:00+09:00",
+   "budget": 98600000,
+   "method": "사전규격 의견등록",
+   "contact": "김은주",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00278677&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "교육콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
+  },
+  {
    "id": "bid-R26BK01733984-000",
    "kind": "bid",
    "no": "R26BK01733984-000",
@@ -12175,6 +12197,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-21T20:17:53.318600+09:00"
+  },
+  {
+   "id": "pre-R26BD00278711",
+   "kind": "prespec",
+   "no": "R26BD00278711",
+   "title": "2026년 한국민속문화 영상콘텐츠 제작",
+   "org": "문화체육관광부 국립민속박물관",
+   "demand_org": "문화체육관광부 국립민속박물관",
+   "posted_at": "2026-09-28T15:49:54+09:00",
+   "close_at": "2026-10-03T23:59:00+09:00",
+   "budget": 38000000,
+   "method": "사전규격 의견등록",
+   "contact": "정은경",
+   "tel": "02-3704-3031",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00278711&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "영상콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
   },
   {
    "id": "bid-R26BK01726638-000",
@@ -12625,6 +12669,28 @@
    "first_seen": "2026-09-22T19:30:17.393049+09:00"
   },
   {
+   "id": "bid-R26BK01746618-000",
+   "kind": "bid",
+   "no": "R26BK01746618-000",
+   "title": "[앵커] BFD(뷰티·패션·디자인) 마이크로디그리 연계 지역특화 원격강좌 콘텐츠 제작 용역",
+   "org": "명지전문대학",
+   "demand_org": "명지전문대학",
+   "posted_at": "2026-09-28T16:03:47+09:00",
+   "close_at": "2026-10-08T11:00:00+09:00",
+   "budget": 50000000,
+   "method": "일반경쟁",
+   "contact": "정민기",
+   "tel": "02-300-1038",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01746618&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
+  },
+  {
    "id": "bid-R26BK01741348-000",
    "kind": "bid",
    "no": "R26BK01741348-000",
@@ -12645,6 +12711,72 @@
    ],
    "starred": false,
    "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01746618-001",
+   "kind": "bid",
+   "no": "R26BK01746618-001",
+   "title": "[앵커] BFD(뷰티·패션·디자인) 마이크로디그리 연계 지역특화 원격강좌 콘텐츠 제작 용역",
+   "org": "명지전문대학",
+   "demand_org": "명지전문대학",
+   "posted_at": "2026-09-28T16:52:20+09:00",
+   "close_at": "2026-10-12T10:00:00+09:00",
+   "budget": 50000000,
+   "method": "일반경쟁",
+   "contact": "정민기",
+   "tel": "02-300-1038",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01746618&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
+  },
+  {
+   "id": "bid-R26BK01747248-000",
+   "kind": "bid",
+   "no": "R26BK01747248-000",
+   "title": "애니메이션 시리즈 뀨엔터 후반작업 사운드제작용역",
+   "org": "아이스크림스튜디오(주)",
+   "demand_org": "아이스크림스튜디오(주)",
+   "posted_at": "2026-09-28T19:09:00+09:00",
+   "close_at": "2026-10-12T10:00:00+09:00",
+   "budget": 71500000,
+   "method": "일반경쟁",
+   "contact": "박소현",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747248&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
+  },
+  {
+   "id": "bid-R26BK01747248-001",
+   "kind": "bid",
+   "no": "R26BK01747248-001",
+   "title": "애니메이션 시리즈 뀨엔터 후반작업 사운드제작용역",
+   "org": "아이스크림스튜디오(주)",
+   "demand_org": "아이스크림스튜디오(주)",
+   "posted_at": "2026-09-28T19:14:51+09:00",
+   "close_at": "2026-10-12T10:00:00+09:00",
+   "budget": 71500000,
+   "method": "일반경쟁",
+   "contact": "박소현",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747248&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
   },
   {
    "id": "bid-R26BK01735648-000",
@@ -12781,6 +12913,27 @@
    "first_seen": "2026-09-23T19:24:40.487795+09:00"
   },
   {
+   "id": "bid-R26BK01746456-000",
+   "kind": "bid",
+   "no": "R26BK01746456-000",
+   "title": "교육 수요자 니즈 분석을 통한 교육 콘텐츠 개발 방향 도출",
+   "org": "신용보증기금",
+   "demand_org": "신용보증기금",
+   "posted_at": "2026-09-28T15:33:51+09:00",
+   "close_at": "2026-10-15T14:00:00+09:00",
+   "budget": 25000000,
+   "method": "일반경쟁",
+   "contact": "고규보",
+   "tel": "053-430-4234",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01746456&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
+  },
+  {
    "id": "bid-R26BK01740238-000",
    "kind": "bid",
    "no": "R26BK01740238-000",
@@ -12868,6 +13021,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-10T19:11:34.083123+09:00"
+  },
+  {
+   "id": "bid-R26BK01745714-000",
+   "kind": "bid",
+   "no": "R26BK01745714-000",
+   "title": "2026년OTT특화 콘텐츠 제작지원(플랫폼연계형)_M:Mixed Twins_VFX",
+   "org": "주식회사 빅오션이엔엠",
+   "demand_org": "주식회사 빅오션이엔엠",
+   "posted_at": "2026-09-28T13:27:43+09:00",
+   "close_at": "2026-11-09T15:00:00+09:00",
+   "budget": 526900000,
+   "method": "제한경쟁",
+   "contact": "김영종",
+   "tel": "02-338-7212",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01745714&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T21:13:04.068317+09:00"
   }
  ]
 }
