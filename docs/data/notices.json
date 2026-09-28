@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-27T19:57:32.128958+09:00",
- "total": 582,
+ "updated_at": "2026-09-28T10:49:14.001883+09:00",
+ "total": 585,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -11843,6 +11843,28 @@
    "first_seen": "2026-09-27T19:57:32.128958+09:00"
   },
   {
+   "id": "pre-R26BD00278466",
+   "kind": "prespec",
+   "no": "R26BD00278466",
+   "title": "외교다변화 홍보 영상 제작",
+   "org": "외교부",
+   "demand_org": "외교부",
+   "posted_at": "2026-09-28T10:06:27+09:00",
+   "close_at": "2026-10-01T23:59:00+09:00",
+   "budget": 45000000,
+   "method": "사전규격 의견등록",
+   "contact": "윤태명",
+   "tel": "02-2100-7070",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00278466&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T10:49:14.001883+09:00"
+  },
+  {
    "id": "bid-R26BK01733984-000",
    "kind": "bid",
    "no": "R26BK01733984-000",
@@ -12714,6 +12736,28 @@
    "first_seen": "2026-09-22T19:30:17.393049+09:00"
   },
   {
+   "id": "bid-R26BK01743216-000",
+   "kind": "bid",
+   "no": "R26BK01743216-000",
+   "title": "[재공고, 긴급] 2027. 전남광주교육 홍보영상 제작 용역",
+   "org": "전남광주통합특별시교육청 전남청사",
+   "demand_org": "전남광주통합특별시교육청 전남청사",
+   "posted_at": "2026-09-28T06:33:51+09:00",
+   "close_at": "2026-10-13T10:00:00+09:00",
+   "budget": 37263000,
+   "method": "제한경쟁",
+   "contact": "양현미",
+   "tel": "061-260-0842",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01743216&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T10:49:14.001883+09:00"
+  },
+  {
    "id": "bid-R26BK01742654-000",
    "kind": "bid",
    "no": "R26BK01742654-000",
@@ -12779,6 +12823,29 @@
    ],
    "starred": false,
    "first_seen": "2026-09-10T10:15:10.036341+09:00"
+  },
+  {
+   "id": "bid-R26BK01742980-000",
+   "kind": "bid",
+   "no": "R26BK01742980-000",
+   "title": "백년공업사 기록화 디지털 콘텐츠 및 미디어 제작 용역",
+   "org": "조달청 부산지방조달청",
+   "demand_org": "부산도시공사",
+   "posted_at": "2026-09-28T10:44:43+09:00",
+   "close_at": "2026-10-21T10:00:00+09:00",
+   "budget": 332818000,
+   "method": "제한경쟁",
+   "contact": "임명근",
+   "tel": "070-4056-6578",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742980&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-28T10:49:14.001883+09:00"
   },
   {
    "id": "bid-R26BK01722621-000",
