@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-30T11:14:15.687489+09:00",
- "total": 611,
+ "updated_at": "2026-09-30T20:30:11.172272+09:00",
+ "total": 620,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -11910,6 +11910,27 @@
    "first_seen": "2026-09-27T19:57:32.128958+09:00"
   },
   {
+   "id": "bid-R26BK01750914-000",
+   "kind": "bid",
+   "no": "R26BK01750914-000",
+   "title": "환수 유물 특별공개전 전시영상 제작 용역",
+   "org": "국가유산청 국립고궁박물관",
+   "demand_org": "국가유산청 국립고궁박물관",
+   "posted_at": "2026-09-30T13:55:32+09:00",
+   "close_at": "2026-10-01T11:00:00+09:00",
+   "budget": 35000000,
+   "method": "수의계약",
+   "contact": "김하영",
+   "tel": "02-3701-7614",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01750914&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
+  },
+  {
    "id": "pre-R26BD00278466",
    "kind": "prespec",
    "no": "R26BD00278466",
@@ -12352,6 +12373,91 @@
    ],
    "starred": false,
    "first_seen": "2026-09-30T11:14:15.687489+09:00"
+  },
+  {
+   "id": "pre-R26BD00279601",
+   "kind": "prespec",
+   "no": "R26BD00279601",
+   "title": "KIEP 기본연구과제 영상보고서 제작 용역",
+   "org": "대외경제정책연구원",
+   "demand_org": "대외경제정책연구원",
+   "posted_at": "2026-09-30T13:57:38+09:00",
+   "close_at": "2026-10-05T23:59:00+09:00",
+   "budget": 121800000,
+   "method": "사전규격 의견등록",
+   "contact": "김용호",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00279601&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "제작",
+    "영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
+  },
+  {
+   "id": "pre-R26BD00279702",
+   "kind": "prespec",
+   "no": "R26BD00279702",
+   "title": "2026년 영화 수어통역 영상 제작 용역",
+   "org": "조달청 부산지방조달청",
+   "demand_org": "영화진흥위원회",
+   "posted_at": "2026-09-30T16:03:40+09:00",
+   "close_at": "2026-10-05T23:59:00+09:00",
+   "budget": 401338830,
+   "method": "사전규격 의견등록",
+   "contact": "정대인",
+   "tel": "070-4056-6546",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00279702&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
+  },
+  {
+   "id": "pre-R26BD00279793",
+   "kind": "prespec",
+   "no": "R26BD00279793",
+   "title": "KOCCA 2026 애니메이션 제작지원 본편 TV 애니메이션 “오묘한 카페” 3~10화 음향 용역 공고",
+   "org": "주식회사 그리메",
+   "demand_org": "주식회사 그리메",
+   "posted_at": "2026-09-30T17:28:14+09:00",
+   "close_at": "2026-10-05T23:59:00+09:00",
+   "budget": 44000000,
+   "method": "사전규격 의견등록",
+   "contact": "신주영",
+   "tel": "",
+   "url": "",
+   "score": 3,
+   "hits": [
+    "애니메이션제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
+  },
+  {
+   "id": "pre-R26BD00279869",
+   "kind": "prespec",
+   "no": "R26BD00279869",
+   "title": "2026년 첨단산업 인재양성 부트캠프(AI분야) 하반기 몰입형 교육(콘텐츠·소프트웨어 AI 트랙) 운영 용역",
+   "org": "계명대학교 산학협력단",
+   "demand_org": "계명대학교 산학협력단",
+   "posted_at": "2026-09-30T19:50:19+09:00",
+   "close_at": "2026-10-05T23:59:00+09:00",
+   "budget": 75500000,
+   "method": "사전규격 의견등록",
+   "contact": "김예지",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00279869&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
   },
   {
    "id": "bid-R26BK01726638-000",
@@ -12978,6 +13084,28 @@
    "first_seen": "2026-09-28T21:13:04.068317+09:00"
   },
   {
+   "id": "bid-R26BK01747248-002",
+   "kind": "bid",
+   "no": "R26BK01747248-002",
+   "title": "애니메이션 시리즈 뀨엔터 후반작업 사운드제작용역",
+   "org": "아이스크림스튜디오(주)",
+   "demand_org": "아이스크림스튜디오(주)",
+   "posted_at": "2026-09-30T15:41:49+09:00",
+   "close_at": "2026-10-12T10:00:00+09:00",
+   "budget": 71500000,
+   "method": "일반경쟁",
+   "contact": "박소현",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747248&bidPbancOrd=002",
+   "score": 2,
+   "hits": [
+    "제작",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
+  },
+  {
    "id": "bid-R26BK01748630-000",
    "kind": "bid",
    "no": "R26BK01748630-000",
@@ -13106,6 +13234,50 @@
    ],
    "starred": false,
    "first_seen": "2026-09-18T19:12:23.821469+09:00"
+  },
+  {
+   "id": "bid-R26BK01750734-000",
+   "kind": "bid",
+   "no": "R26BK01750734-000",
+   "title": "아산온천치유실증센터 키오스크 콘텐츠 및 미디어 영상 제작 용역(협상에 의한 계약)",
+   "org": "충청남도 아산시",
+   "demand_org": "충청남도 아산시",
+   "posted_at": "2026-09-30T13:20:58+09:00",
+   "close_at": "2026-10-12T18:00:00+09:00",
+   "budget": 103400000,
+   "method": "제한경쟁",
+   "contact": "이혜인",
+   "tel": "041-540-2272",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01750734&bidPbancOrd=000",
+   "score": 5,
+   "hits": [
+    "영상제작",
+    "콘텐츠",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
+  },
+  {
+   "id": "bid-R26BK01751792-000",
+   "kind": "bid",
+   "no": "R26BK01751792-000",
+   "title": "KOCCA 2026 애니메이션 제작지원 본편 TV 애니메이션 “오묘한 카페” 3~10화 음향 용역 공고",
+   "org": "주식회사 그리메",
+   "demand_org": "주식회사 그리메",
+   "posted_at": "2026-09-30T17:54:44+09:00",
+   "close_at": "2026-10-12T18:00:00+09:00",
+   "budget": 44000000,
+   "method": "일반경쟁",
+   "contact": "신주영",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01751792&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "애니메이션제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
   },
   {
    "id": "bid-R26BK01711115-000",
@@ -13393,6 +13565,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-28T10:49:14.001883+09:00"
+  },
+  {
+   "id": "bid-R26BK01750037-000",
+   "kind": "bid",
+   "no": "R26BK01750037-000",
+   "title": "2027년 나라배움터 이러닝 콘텐츠 및 AI 교육 패키지 운영 사업",
+   "org": "조달청",
+   "demand_org": "인사혁신처 국가공무원인재개발원",
+   "posted_at": "2026-09-30T14:18:42+09:00",
+   "close_at": "2026-10-21T10:00:00+09:00",
+   "budget": 1214898800,
+   "method": "일반경쟁",
+   "contact": "정지혜",
+   "tel": "070-4056-7426",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01750037&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "이러닝",
+    "콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T20:30:11.172272+09:00"
   },
   {
    "id": "bid-R26BK01722621-000",
