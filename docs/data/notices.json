@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-29T20:43:58.580545+09:00",
- "total": 609,
+ "updated_at": "2026-09-30T11:14:15.687489+09:00",
+ "total": 611,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -12332,6 +12332,28 @@
    "first_seen": "2026-09-29T20:43:58.580545+09:00"
   },
   {
+   "id": "pre-R26BD00279490",
+   "kind": "prespec",
+   "no": "R26BD00279490",
+   "title": "2026년도 2학기 사물인터넷 혁신융합대학 온라인 강의 콘텐츠 제작",
+   "org": "대전대학교산학협력단",
+   "demand_org": "대전대학교산학협력단",
+   "posted_at": "2026-09-30T10:30:03+09:00",
+   "close_at": "2026-10-05T23:59:00+09:00",
+   "budget": 120000000,
+   "method": "사전규격 의견등록",
+   "contact": "박정수",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00279490&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T11:14:15.687489+09:00"
+  },
+  {
    "id": "bid-R26BK01726638-000",
    "kind": "bid",
    "no": "R26BK01726638-000",
@@ -13239,6 +13261,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-29T20:43:58.580545+09:00"
+  },
+  {
+   "id": "bid-R26BK01749905-000",
+   "kind": "bid",
+   "no": "R26BK01749905-000",
+   "title": "2026 창업문화확산 사업화 멘토링 우수사례집 발간 및 성과공유 콘텐츠 기획 제작 용역",
+   "org": "재단법인과학기술사업화진흥원",
+   "demand_org": "재단법인과학기술사업화진흥원",
+   "posted_at": "2026-09-30T08:41:31+09:00",
+   "close_at": "2026-10-14T17:00:00+09:00",
+   "budget": 60000000,
+   "method": "제한경쟁",
+   "contact": "정재훈",
+   "tel": "02-736-0047",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01749905&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-09-30T11:14:15.687489+09:00"
   },
   {
    "id": "bid-R26BK01746456-000",
