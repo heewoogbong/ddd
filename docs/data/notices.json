@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-30T20:30:11.172272+09:00",
- "total": 620,
+ "updated_at": "2026-10-01T11:17:14.785499+09:00",
+ "total": 622,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -12353,6 +12353,29 @@
    "first_seen": "2026-09-29T20:43:58.580545+09:00"
   },
   {
+   "id": "pre-R26BD00279960",
+   "kind": "prespec",
+   "no": "R26BD00279960",
+   "title": "제주 로컬 브랜드의 AI 활용 콘텐츠 제작 및 홍보",
+   "org": "제주대학교 산학협력단",
+   "demand_org": "제주대학교 산학협력단",
+   "posted_at": "2026-10-01T09:58:45+09:00",
+   "close_at": "2026-10-04T23:59:00+09:00",
+   "budget": 40000000,
+   "method": "사전규격 의견등록",
+   "contact": "이종우",
+   "tel": "064-754-2474",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00279960&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-01T11:17:14.785499+09:00"
+  },
+  {
    "id": "pre-R26BD00279490",
    "kind": "prespec",
    "no": "R26BD00279490",
@@ -13433,6 +13456,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-29T20:43:58.580545+09:00"
+  },
+  {
+   "id": "bid-R26BK01751992-000",
+   "kind": "bid",
+   "no": "R26BK01751992-000",
+   "title": "2026 소담스퀘어 경북 인프라 활용 디지털 콘텐츠 제작 및 라이브커머스 운영 용역",
+   "org": "사단법인 지역과소셜비즈",
+   "demand_org": "사단법인 지역과소셜비즈",
+   "posted_at": "2026-09-30T22:10:09+09:00",
+   "close_at": "2026-10-14T14:00:00+09:00",
+   "budget": 120000000,
+   "method": "제한경쟁",
+   "contact": "김미래",
+   "tel": "054-475-5003",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01751992&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-01T11:17:14.785499+09:00"
   },
   {
    "id": "bid-R26BK01749905-000",
