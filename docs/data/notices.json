@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02T11:22:17.467622+09:00",
- "total": 638,
+ "updated_at": "2026-10-02T20:30:03.524352+09:00",
+ "total": 641,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -12972,6 +12972,28 @@
    "first_seen": "2026-09-29T20:43:58.580545+09:00"
   },
   {
+   "id": "pre-R26BD00280883",
+   "kind": "prespec",
+   "no": "R26BD00280883",
+   "title": "2026년 OTT특화 콘텐츠 제작지원(IP확보형) 내가 죽기로 결심한 것은 드라마 세트 제작",
+   "org": "미디어그룹테이크투 주식회사",
+   "demand_org": "미디어그룹테이크투 주식회사",
+   "posted_at": "2026-10-02T15:49:26+09:00",
+   "close_at": "2026-10-07T23:59:00+09:00",
+   "budget": 1353869000,
+   "method": "사전규격 의견등록",
+   "contact": "이정인",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00280883&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-02T20:30:03.524352+09:00"
+  },
+  {
    "id": "bid-R26BK01743904-000",
    "kind": "bid",
    "no": "R26BK01743904-000",
@@ -13197,6 +13219,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
+  },
+  {
+   "id": "pre-R26BD00280705",
+   "kind": "prespec",
+   "no": "R26BD00280705",
+   "title": "K-FAST 채널 송출용 AI 더빙 콘텐츠 음성 편집 및 믹싱 용역",
+   "org": "(주)허드슨에이아이",
+   "demand_org": "(주)허드슨에이아이",
+   "posted_at": "2026-10-02T13:17:16+09:00",
+   "close_at": "2026-10-08T23:59:00+09:00",
+   "budget": 74800000,
+   "method": "사전규격 의견등록",
+   "contact": "신현진",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00280705&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-02T20:30:03.524352+09:00"
   },
   {
    "id": "bid-R26BK01746618-001",
@@ -13768,6 +13812,27 @@
    ],
    "starred": false,
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
+  },
+  {
+   "id": "bid-R26BK01752974-001",
+   "kind": "bid",
+   "no": "R26BK01752974-001",
+   "title": "국립민속박물관 세계민속관 전시 홍보물 제작",
+   "org": "문화체육관광부 국립민속박물관",
+   "demand_org": "문화체육관광부 국립민속박물관",
+   "posted_at": "2026-10-02T13:20:17+09:00",
+   "close_at": "2026-10-14T10:00:00+09:00",
+   "budget": 50000000,
+   "method": "제한경쟁",
+   "contact": "정은경",
+   "tel": "02-3704-3031",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752974&bidPbancOrd=001",
+   "score": 3,
+   "hits": [
+    "홍보물제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-02T20:30:03.524352+09:00"
   },
   {
    "id": "bid-R26BK01751992-000",
