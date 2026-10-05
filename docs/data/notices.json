@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-04T20:27:47.126944+09:00",
- "total": 641,
+ "updated_at": "2026-10-05T21:52:54.143526+09:00",
+ "total": 646,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -12951,6 +12951,27 @@
    "first_seen": "2026-09-21T20:17:53.318600+09:00"
   },
   {
+   "id": "bid-R26BK01755750-000",
+   "kind": "bid",
+   "no": "R26BK01755750-000",
+   "title": "2026년 정보보호 교육 콘텐츠 개발 및 운영 용역",
+   "org": "재단법인 전북테크노파크",
+   "demand_org": "재단법인 전북테크노파크",
+   "posted_at": "2026-10-02T17:22:29+09:00",
+   "close_at": "2026-10-07T11:00:00+09:00",
+   "budget": 22000000,
+   "method": "수의계약",
+   "contact": "서승우",
+   "tel": "063-219-2383",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755750&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-05T21:52:54.143526+09:00"
+  },
+  {
    "id": "pre-R26BD00279013",
    "kind": "prespec",
    "no": "R26BD00279013",
@@ -13704,6 +13725,28 @@
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
   },
   {
+   "id": "bid-R26BK01755498-000",
+   "kind": "bid",
+   "no": "R26BK01755498-000",
+   "title": "「제16회 원자력 안전 및 진흥의 날」 기념 원자력 안전 정보콘텐츠 제작",
+   "org": "한국원자력안전기술원",
+   "demand_org": "한국원자력안전기술원",
+   "posted_at": "2026-10-02T16:03:39+09:00",
+   "close_at": "2026-10-13T10:00:00+09:00",
+   "budget": 40000000,
+   "method": "제한경쟁",
+   "contact": "김지환",
+   "tel": "042-868-0870",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755498&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-05T21:52:54.143526+09:00"
+  },
+  {
    "id": "bid-R26BK01753370-000",
    "kind": "bid",
    "no": "R26BK01753370-000",
@@ -13725,6 +13768,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
+  },
+  {
+   "id": "bid-R26BK01755438-000",
+   "kind": "bid",
+   "no": "R26BK01755438-000",
+   "title": "외교다변화 홍보 영상 제작",
+   "org": "외교부",
+   "demand_org": "외교부",
+   "posted_at": "2026-10-02T15:51:28+09:00",
+   "close_at": "2026-10-13T12:00:00+09:00",
+   "budget": 45000000,
+   "method": "제한경쟁",
+   "contact": "윤태명",
+   "tel": "02-2100-7070",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755438&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-05T21:52:54.143526+09:00"
   },
   {
    "id": "bid-R26BK01742654-000",
@@ -13791,6 +13856,50 @@
    ],
    "starred": false,
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
+  },
+  {
+   "id": "bid-R26BK01755153-000",
+   "kind": "bid",
+   "no": "R26BK01755153-000",
+   "title": "부평구청소년성문화센터  체험관 공간 조성 및 교육콘텐츠 제작·설치",
+   "org": "(재)인천광역시부평구문화재단",
+   "demand_org": "(재)인천광역시부평구문화재단",
+   "posted_at": "2026-10-02T15:15:09+09:00",
+   "close_at": "2026-10-13T17:00:00+09:00",
+   "budget": 98600000,
+   "method": "제한경쟁",
+   "contact": "이성화",
+   "tel": "032-500-2252",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755153&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "교육콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-05T21:52:54.143526+09:00"
+  },
+  {
+   "id": "bid-R26BK01755090-000",
+   "kind": "bid",
+   "no": "R26BK01755090-000",
+   "title": "K-FAST 채널 송출용 AI 더빙 콘텐츠 음성 편집 및 믹싱 용역",
+   "org": "(주)허드슨에이아이",
+   "demand_org": "(주)허드슨에이아이",
+   "posted_at": "2026-10-02T15:45:32+09:00",
+   "close_at": "2026-10-13T17:00:00+09:00",
+   "budget": 74800000,
+   "method": "제한경쟁",
+   "contact": "신현진",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755090&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-05T21:52:54.143526+09:00"
   },
   {
    "id": "bid-R26BK01752974-000",
