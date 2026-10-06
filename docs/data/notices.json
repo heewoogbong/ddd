@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06T12:10:37.248311+09:00",
- "total": 651,
+ "updated_at": "2026-10-06T21:23:13.822699+09:00",
+ "total": 662,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -12704,6 +12704,28 @@
    "first_seen": "2026-09-29T20:43:58.580545+09:00"
   },
   {
+   "id": "bid-R26BK01740811-001",
+   "kind": "bid",
+   "no": "R26BK01740811-001",
+   "title": "(취소공고)AI기반 디지털트윈 EV 정비 교육용 콘텐츠 제작",
+   "org": "국민대학교 산학협력단",
+   "demand_org": "국민대학교 산학협력단",
+   "posted_at": "2026-10-06T17:08:26+09:00",
+   "close_at": "2026-10-06T10:00:00+09:00",
+   "budget": 240000000,
+   "method": "일반경쟁",
+   "contact": "양승호",
+   "tel": "02-910-6677",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01740811&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
    "id": "bid-R26BK01744131-000",
    "kind": "bid",
    "no": "R26BK01744131-000",
@@ -12972,6 +12994,50 @@
    "first_seen": "2026-10-05T21:52:54.143526+09:00"
   },
   {
+   "id": "bid-R26BK01757906-000",
+   "kind": "bid",
+   "no": "R26BK01757906-000",
+   "title": "APOLLO 신규 기능 반영 공식 런칭 홍보자료 제작",
+   "org": "한국과학기술정보연구원",
+   "demand_org": "한국과학기술정보연구원",
+   "posted_at": "2026-10-06T15:27:32+09:00",
+   "close_at": "2026-10-07T12:00:00+09:00",
+   "budget": 12650000,
+   "method": "수의계약",
+   "contact": "남재현",
+   "tel": "02-3299-6009",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757906&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
+   "id": "bid-R26BK01758119-000",
+   "kind": "bid",
+   "no": "R26BK01758119-000",
+   "title": "[앵커사업] RUC+A-Skilling 단기집중과정(온라인 6과정) 영상촬영·편집 용역",
+   "org": "연세대학교 미래캠퍼스",
+   "demand_org": "연세대학교 미래캠퍼스",
+   "posted_at": "2026-10-06T16:31:43+09:00",
+   "close_at": "2026-10-07T12:00:00+09:00",
+   "budget": 6000000,
+   "method": "수의계약",
+   "contact": "봉하범",
+   "tel": "033-760-2136",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758119&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상촬영",
+    "촬영편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
    "id": "pre-R26BD00279013",
    "kind": "prespec",
    "no": "R26BD00279013",
@@ -13005,7 +13071,7 @@
    "method": "사전규격 의견등록",
    "contact": "이정인",
    "tel": "",
-   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00280883&fileType=BFDTL&fileSeq=1",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00280883&fileType=BFDTL&fileSeq=5",
    "score": 2,
    "hits": [
     "콘텐츠",
@@ -14118,6 +14184,137 @@
    "first_seen": "2026-10-06T12:10:37.248311+09:00"
   },
   {
+   "id": "bid-R26BK01756679-000",
+   "kind": "bid",
+   "no": "R26BK01756679-000",
+   "title": "국립경찰박물관 경찰역사·박물관 홍보 영상 제작",
+   "org": "경찰청",
+   "demand_org": "경찰청",
+   "posted_at": "2026-10-06T13:12:02+09:00",
+   "close_at": "2026-10-19T10:00:00+09:00",
+   "budget": 30000000,
+   "method": "제한경쟁",
+   "contact": "박창호",
+   "tel": "02-3150-0740",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01756679&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
+   "id": "bid-R26BK01758442-000",
+   "kind": "bid",
+   "no": "R26BK01758442-000",
+   "title": "AI기반 디지털트윈 EV 정비 교육용 콘텐츠 제작(수정)",
+   "org": "국민대학교 산학협력단",
+   "demand_org": "국민대학교 산학협력단",
+   "posted_at": "2026-10-06T17:53:43+09:00",
+   "close_at": "2026-10-19T10:00:00+09:00",
+   "budget": 24000000,
+   "method": "일반경쟁",
+   "contact": "양승호",
+   "tel": "02-910-6677",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758442&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
+   "id": "bid-R26BK01758900-000",
+   "kind": "bid",
+   "no": "R26BK01758900-000",
+   "title": "2026년 첨단산업 인재양성 부트캠프(AI분야) 하반기 몰입형 교육(콘텐츠·소프트웨어 AI 트랙) 운영 용역",
+   "org": "계명대학교 산학협력단",
+   "demand_org": "계명대학교 산학협력단",
+   "posted_at": "2026-10-06T20:39:41+09:00",
+   "close_at": "2026-10-19T14:00:00+09:00",
+   "budget": 75500000,
+   "method": "일반경쟁",
+   "contact": "김예지",
+   "tel": "053-580-6159",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758900&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
+   "id": "bid-R26BK01757339-000",
+   "kind": "bid",
+   "no": "R26BK01757339-000",
+   "title": "KIEP 기본연구과제 영상보고서 제작 용역",
+   "org": "대외경제정책연구원",
+   "demand_org": "대외경제정책연구원",
+   "posted_at": "2026-10-06T14:17:07+09:00",
+   "close_at": "2026-10-19T15:00:00+09:00",
+   "budget": 121800000,
+   "method": "제한경쟁",
+   "contact": "김용호",
+   "tel": "044-414-1315",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757339&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
+   "id": "bid-R26BK01757335-000",
+   "kind": "bid",
+   "no": "R26BK01757335-000",
+   "title": "2026년도 2학기 사물인터넷 혁신융합대학 온라인 강의 콘텐츠 제작",
+   "org": "대전대학교산학협력단",
+   "demand_org": "대전대학교산학협력단",
+   "posted_at": "2026-10-06T14:47:06+09:00",
+   "close_at": "2026-10-19T15:00:00+09:00",
+   "budget": 120000000,
+   "method": "일반경쟁",
+   "contact": "박정수",
+   "tel": "042-280-4667",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757335&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
+   "id": "bid-R26BK01757335-001",
+   "kind": "bid",
+   "no": "R26BK01757335-001",
+   "title": "2026년도 2학기 사물인터넷 혁신융합대학 온라인 강의 콘텐츠 제작",
+   "org": "대전대학교산학협력단",
+   "demand_org": "대전대학교산학협력단",
+   "posted_at": "2026-10-06T15:03:32+09:00",
+   "close_at": "2026-10-19T15:00:00+09:00",
+   "budget": 120000000,
+   "method": "일반경쟁",
+   "contact": "박정수",
+   "tel": "042-280-4667",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757335&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
    "id": "bid-R26BK01740238-000",
    "kind": "bid",
    "no": "R26BK01740238-000",
@@ -14230,6 +14427,27 @@
    "first_seen": "2026-09-30T20:30:11.172272+09:00"
   },
   {
+   "id": "bid-R26BK01757199-000",
+   "kind": "bid",
+   "no": "R26BK01757199-000",
+   "title": "2026년 영화 수어통역 영상 제작 용역",
+   "org": "조달청 부산지방조달청",
+   "demand_org": "영화진흥위원회",
+   "posted_at": "2026-10-06T15:46:44+09:00",
+   "close_at": "2026-10-21T10:00:00+09:00",
+   "budget": 401338830,
+   "method": "제한경쟁",
+   "contact": "정대인",
+   "tel": "070-4056-6546",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757199&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
    "id": "bid-R26BK01722621-000",
    "kind": "bid",
    "no": "R26BK01722621-000",
@@ -14272,6 +14490,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
+  },
+  {
+   "id": "bid-R26BK01724857-000",
+   "kind": "bid",
+   "no": "R26BK01724857-000",
+   "title": "2027년 코리안메모리 콘텐츠 제작 사업",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "문화체육관광부 국립중앙도서관",
+   "posted_at": "2026-10-06T15:08:55+09:00",
+   "close_at": "2026-10-30T10:00:00+09:00",
+   "budget": 500079600,
+   "method": "일반경쟁",
+   "contact": "손아롬",
+   "tel": "02-590-8877",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01724857&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
   },
   {
    "id": "bid-R26BK01745714-000",
