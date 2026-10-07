@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-07T11:31:53.582447+09:00",
- "total": 674,
+ "updated_at": "2026-10-07T21:13:30.294955+09:00",
+ "total": 687,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -13023,7 +13023,7 @@
    "org": "연세대학교 미래캠퍼스",
    "demand_org": "연세대학교 미래캠퍼스",
    "posted_at": "2026-10-06T16:31:43+09:00",
-   "close_at": "2026-10-07T12:00:00+09:00",
+   "close_at": "2026-10-07T14:30:00+09:00",
    "budget": 6000000,
    "method": "수의계약",
    "contact": "봉하범",
@@ -13441,6 +13441,28 @@
    "first_seen": "2026-10-07T11:31:53.582447+09:00"
   },
   {
+   "id": "pre-R26BD00282116",
+   "kind": "prespec",
+   "no": "R26BD00282116",
+   "title": "제조AI 실무 역량 강화 온라인 교육 콘텐츠 개발 및 운영",
+   "org": "국립창원대학교",
+   "demand_org": "국립창원대학교",
+   "posted_at": "2026-10-07T15:24:24+09:00",
+   "close_at": "2026-10-12T09:00:00+09:00",
+   "budget": 50000000,
+   "method": "사전규격 의견등록",
+   "contact": "김성민",
+   "tel": "055-213-4506",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282116&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "교육콘텐츠",
+    "온라인교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
    "id": "bid-R26BK01746618-001",
    "kind": "bid",
    "no": "R26BK01746618-001",
@@ -13745,6 +13767,205 @@
    ],
    "starred": false,
    "first_seen": "2026-09-30T20:30:11.172272+09:00"
+  },
+  {
+   "id": "pre-R26BD00282022",
+   "kind": "prespec",
+   "no": "R26BD00282022",
+   "title": "(앵커) 늘봄 프로그램 운영 지원(개발 프로그램 홍보영상 제작) 용역",
+   "org": "울산과학대학산학협력단",
+   "demand_org": "울산과학대학산학협력단",
+   "posted_at": "2026-10-07T14:06:29+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 24000000,
+   "method": "사전규격 의견등록",
+   "contact": "이문영",
+   "tel": "052-230-0553",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282022&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282159",
+   "kind": "prespec",
+   "no": "R26BD00282159",
+   "title": "소수서원 국가유산 야행 멀티미디어 콘텐츠 제작 용역",
+   "org": "조달청 대구지방조달청",
+   "demand_org": "경상북도 영주시",
+   "posted_at": "2026-10-07T15:53:24+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 252431000,
+   "method": "사전규격 의견등록",
+   "contact": "구현영",
+   "tel": "070-4056-7992",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282159&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282188",
+   "kind": "prespec",
+   "no": "R26BD00282188",
+   "title": "노원기차마을2관(이탈리아관) 내 디오라마 콘텐츠 추가 제작·설치 및 관리용역",
+   "org": "서울특별시 노원구",
+   "demand_org": "서울특별시 노원구",
+   "posted_at": "2026-10-07T16:13:48+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 170000000,
+   "method": "사전규격 의견등록",
+   "contact": "고석현",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282188&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282269",
+   "kind": "prespec",
+   "no": "R26BD00282269",
+   "title": "상족암 디지털놀이터 명소화사업(오감체험 공룡놀이터) 실감콘텐츠 구축 용역",
+   "org": "경상남도 고성군",
+   "demand_org": "경상남도 고성군",
+   "posted_at": "2026-10-07T17:13:28+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 3800000000,
+   "method": "사전규격 의견등록",
+   "contact": "김성아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282269&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "실감콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282339",
+   "kind": "prespec",
+   "no": "R26BD00282339",
+   "title": "26OTT특화콘텐츠제작지원 청담국제고등학교 : 로열캠프 소품팀 하도급",
+   "org": "주식회사 와이낫미디어",
+   "demand_org": "주식회사 와이낫미디어",
+   "posted_at": "2026-10-07T18:06:47+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 143000000,
+   "method": "사전규격 의견등록",
+   "contact": "이윤아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282339&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282360",
+   "kind": "prespec",
+   "no": "R26BD00282360",
+   "title": "26OTT특화콘텐츠제작지원 청담국제고등학교 : 로열캠프 미술팀 하도급",
+   "org": "주식회사 와이낫미디어",
+   "demand_org": "주식회사 와이낫미디어",
+   "posted_at": "2026-10-07T18:41:58+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 121000000,
+   "method": "사전규격 의견등록",
+   "contact": "이윤아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282360&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282362",
+   "kind": "prespec",
+   "no": "R26BD00282362",
+   "title": "26OTT특화콘텐츠제작지원 청담국제고등학교 : 로열캠프 촬영팀 및 카메라 운용 하도급",
+   "org": "주식회사 와이낫미디어",
+   "demand_org": "주식회사 와이낫미디어",
+   "posted_at": "2026-10-07T18:51:39+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 132000000,
+   "method": "사전규격 의견등록",
+   "contact": "이윤아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282362&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "촬영"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282364",
+   "kind": "prespec",
+   "no": "R26BD00282364",
+   "title": "26OTT특화콘텐츠제작지원 청담국제고등학교 : 로열캠프 의상팀 및 의상 운용 하도급",
+   "org": "주식회사 와이낫미디어",
+   "demand_org": "주식회사 와이낫미디어",
+   "posted_at": "2026-10-07T19:03:36+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 88000000,
+   "method": "사전규격 의견등록",
+   "contact": "이윤아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282364&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
+   "id": "pre-R26BD00282367",
+   "kind": "prespec",
+   "no": "R26BD00282367",
+   "title": "26OTT특화콘텐츠제작지원 청담국제고등학교 : 로열캠프 VFX 하도급",
+   "org": "주식회사 와이낫미디어",
+   "demand_org": "주식회사 와이낫미디어",
+   "posted_at": "2026-10-07T19:17:19+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 88000000,
+   "method": "사전규격 의견등록",
+   "contact": "이윤아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282367&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
   },
   {
    "id": "bid-R26BK01711115-000",
@@ -14559,6 +14780,28 @@
    "first_seen": "2026-10-06T21:23:13.822699+09:00"
   },
   {
+   "id": "bid-R26BK01757335-002",
+   "kind": "bid",
+   "no": "R26BK01757335-002",
+   "title": "2026년도 2학기 사물인터넷 혁신융합대학 온라인 강의 콘텐츠 제작",
+   "org": "대전대학교산학협력단",
+   "demand_org": "대전대학교산학협력단",
+   "posted_at": "2026-10-07T15:54:35+09:00",
+   "close_at": "2026-10-19T15:00:00+09:00",
+   "budget": 120000000,
+   "method": "일반경쟁",
+   "contact": "박정수",
+   "tel": "042-280-4667",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757335&bidPbancOrd=002",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
+  },
+  {
    "id": "bid-R26BK01740238-000",
    "kind": "bid",
    "no": "R26BK01740238-000",
@@ -14603,6 +14846,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-06T12:10:37.248311+09:00"
+  },
+  {
+   "id": "bid-R26BK01758659-000",
+   "kind": "bid",
+   "no": "R26BK01758659-000",
+   "title": "2026년 초·중등 AI 활용 교과 수업모형·지도안 영상 및 교사 안내용 콘텐츠 개발·보급 위탁 용역",
+   "org": "조달청 충북지방조달청",
+   "demand_org": "한국교원대학교 산학협력단",
+   "posted_at": "2026-10-07T13:09:31+09:00",
+   "close_at": "2026-10-20T10:00:00+09:00",
+   "budget": 201830000,
+   "method": "제한경쟁",
+   "contact": "윤재용",
+   "tel": "070-4056-8570",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758659&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
   },
   {
    "id": "bid-R26BK01759373-000",
@@ -14800,6 +15065,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-28T21:13:04.068317+09:00"
+  },
+  {
+   "id": "bid-R26BK01759170-000",
+   "kind": "bid",
+   "no": "R26BK01759170-000",
+   "title": "2027년 이러닝 콘텐츠 개발 및 운영관리 용역",
+   "org": "조달청",
+   "demand_org": "국토교통부 국토교통인재개발원",
+   "posted_at": "2026-10-07T17:59:43+09:00",
+   "close_at": "2026-11-17T10:00:00+09:00",
+   "budget": 263482620,
+   "method": "일반경쟁",
+   "contact": "정희경",
+   "tel": "070-4056-7245",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01759170&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "이러닝",
+    "콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-07T21:13:30.294955+09:00"
   },
   {
    "id": "bid-R26BK01753172-000",
