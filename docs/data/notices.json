@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-08T11:48:37.218652+09:00",
- "total": 699,
+ "updated_at": "2026-10-08T21:23:29.439764+09:00",
+ "total": 709,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -13239,27 +13239,6 @@
    "first_seen": "2026-10-07T11:31:53.582447+09:00"
   },
   {
-   "id": "bid-R26BK01761781-000",
-   "kind": "bid",
-   "no": "R26BK01761781-000",
-   "title": "2026년 용당저수지 재난대응 안전한국훈련 영상 제작용역",
-   "org": "한국농어촌공사 충북지역본부 충주.제천.단양지사",
-   "demand_org": "한국농어촌공사 충북지역본부 충주.제천.단양지사",
-   "posted_at": "2026-10-08T09:40:14+09:00",
-   "close_at": "2026-10-08T12:00:00+09:00",
-   "budget": 5500000,
-   "method": "수의계약",
-   "contact": "김이현",
-   "tel": "043-841-3012",
-   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01761781&bidPbancOrd=000",
-   "score": 3,
-   "hits": [
-    "영상제작"
-   ],
-   "starred": false,
-   "first_seen": "2026-10-08T11:48:37.218652+09:00"
-  },
-  {
    "id": "bid-R26BK01761629-000",
    "kind": "bid",
    "no": "R26BK01761629-000",
@@ -13302,6 +13281,27 @@
    ],
    "starred": false,
    "first_seen": "2026-09-22T19:30:17.393049+09:00"
+  },
+  {
+   "id": "bid-R26BK01761781-000",
+   "kind": "bid",
+   "no": "R26BK01761781-000",
+   "title": "2026년 용당저수지 재난대응 안전한국훈련 영상 제작용역",
+   "org": "한국농어촌공사 충북지역본부 충주.제천.단양지사",
+   "demand_org": "한국농어촌공사 충북지역본부 충주.제천.단양지사",
+   "posted_at": "2026-10-08T09:40:14+09:00",
+   "close_at": "2026-10-08T16:00:00+09:00",
+   "budget": 5500000,
+   "method": "수의계약",
+   "contact": "김이현",
+   "tel": "043-841-3012",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01761781&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T11:48:37.218652+09:00"
   },
   {
    "id": "bid-R26BK01762057-000",
@@ -13529,6 +13529,49 @@
    ],
    "starred": false,
    "first_seen": "2026-10-08T11:48:37.218652+09:00"
+  },
+  {
+   "id": "pre-R26BD00282606",
+   "kind": "prespec",
+   "no": "R26BD00282606",
+   "title": "AiSAC(아이작) 광고 사전시각화를 위한 AI 영상 제작 서비스 구축 용역",
+   "org": "한국방송광고진흥공사",
+   "demand_org": "한국방송광고진흥공사",
+   "posted_at": "2026-10-08T11:20:21+09:00",
+   "close_at": "2026-10-11T23:59:00+09:00",
+   "budget": 98000000,
+   "method": "사전규격 의견등록",
+   "contact": "김석현",
+   "tel": "02-731-7155",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282606&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
+   "id": "pre-R26BD00282875",
+   "kind": "prespec",
+   "no": "R26BD00282875",
+   "title": "2026년 첨단제작 집중지원 영화 〈바위〉 편집 용역",
+   "org": "주식회사 영화적순간",
+   "demand_org": "주식회사 영화적순간",
+   "posted_at": "2026-10-08T15:45:10+09:00",
+   "close_at": "2026-10-11T23:59:00+09:00",
+   "budget": 77000000,
+   "method": "사전규격 의견등록",
+   "contact": "서부경",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282875&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "제작",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
   },
   {
    "id": "pre-R26BD00281727",
@@ -14102,6 +14145,28 @@
    "first_seen": "2026-10-07T21:13:30.294955+09:00"
   },
   {
+   "id": "pre-R26BD00282695",
+   "kind": "prespec",
+   "no": "R26BD00282695",
+   "title": "두류젊코 미디어폴 제작 및 설치 용역",
+   "org": "재단법인 대구전통시장진흥재단",
+   "demand_org": "재단법인 대구전통시장진흥재단",
+   "posted_at": "2026-10-08T13:45:32+09:00",
+   "close_at": "2026-10-12T23:59:00+09:00",
+   "budget": 292000000,
+   "method": "사전규격 의견등록",
+   "contact": "채지희",
+   "tel": "053-951-6660",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282695&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
    "id": "bid-R26BK01711115-000",
    "kind": "bid",
    "no": "R26BK01711115-000",
@@ -14522,6 +14587,49 @@
    "first_seen": "2026-10-08T11:48:37.218652+09:00"
   },
   {
+   "id": "pre-R26BD00282748",
+   "kind": "prespec",
+   "no": "R26BD00282748",
+   "title": "상족암 디지털놀이터 명소화사업(오감체험 공룡놀이터) 실감콘텐츠 구축 용역",
+   "org": "경상남도 고성군",
+   "demand_org": "경상남도 고성군",
+   "posted_at": "2026-10-08T14:28:03+09:00",
+   "close_at": "2026-10-13T23:59:00+09:00",
+   "budget": 3800000000,
+   "method": "사전규격 의견등록",
+   "contact": "김성아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00282748&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "실감콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
+   "id": "pre-R26BD00283034",
+   "kind": "prespec",
+   "no": "R26BD00283034",
+   "title": "[앵커사업] G-Lab 교과목 촬영 및 편집 용역",
+   "org": "연세대학교 미래캠퍼스",
+   "demand_org": "연세대학교 미래캠퍼스",
+   "posted_at": "2026-10-08T17:38:45+09:00",
+   "close_at": "2026-10-13T23:59:00+09:00",
+   "budget": 55000000,
+   "method": "사전규격 의견등록",
+   "contact": "봉하범",
+   "tel": "033-760-2136",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00283034&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "촬영",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
    "id": "bid-R26BK01752974-000",
    "kind": "bid",
    "no": "R26BK01752974-000",
@@ -14606,6 +14714,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-30T11:14:15.687489+09:00"
+  },
+  {
+   "id": "bid-R26BK01761928-000",
+   "kind": "bid",
+   "no": "R26BK01761928-000",
+   "title": "2026년 임신·출산 모바일앱 아이마중 홍보 리플릿 제작·배부 용역",
+   "org": "인구보건복지협회",
+   "demand_org": "인구보건복지협회",
+   "posted_at": "2026-10-08T13:36:13+09:00",
+   "close_at": "2026-10-15T12:00:00+09:00",
+   "budget": 16962000,
+   "method": "수의계약",
+   "contact": "전계명",
+   "tel": "02-2639-2806",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01761928&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
   },
   {
    "id": "bid-R26BK01746456-000",
@@ -14870,6 +15000,27 @@
    "first_seen": "2026-10-08T11:48:37.218652+09:00"
   },
   {
+   "id": "bid-R26BK01763757-000",
+   "kind": "bid",
+   "no": "R26BK01763757-000",
+   "title": "AI 기반 교육콘텐츠 인핸서(Enhancer) 기술 검증 연구",
+   "org": "한국기술교육대학교",
+   "demand_org": "한국기술교육대학교",
+   "posted_at": "2026-10-08T18:30:39+09:00",
+   "close_at": "2026-10-19T10:00:00+09:00",
+   "budget": 40000000,
+   "method": "제한경쟁",
+   "contact": "김현준",
+   "tel": "041-560-2550",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01763757&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
    "id": "bid-R26BK01758900-000",
    "kind": "bid",
    "no": "R26BK01758900-000",
@@ -15114,6 +15265,28 @@
    "first_seen": "2026-10-08T11:48:37.218652+09:00"
   },
   {
+   "id": "bid-R26BK01763041-000",
+   "kind": "bid",
+   "no": "R26BK01763041-000",
+   "title": "선박통합데이터센터 특화플랫폼 공식 런칭 행사 및 모션그래픽 제작 통합 용역",
+   "org": "재단법인 울산정보산업진흥원",
+   "demand_org": "재단법인 울산정보산업진흥원",
+   "posted_at": "2026-10-08T15:34:15+09:00",
+   "close_at": "2026-10-20T10:00:00+09:00",
+   "budget": 50000000,
+   "method": "제한경쟁",
+   "contact": "장현진",
+   "tel": "052-210-0212",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01763041&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "모션그래픽",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
    "id": "bid-R26BK01759373-000",
    "kind": "bid",
    "no": "R26BK01759373-000",
@@ -15288,6 +15461,28 @@
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
   },
   {
+   "id": "bid-R26BK01751164-000",
+   "kind": "bid",
+   "no": "R26BK01751164-000",
+   "title": "국립경국대학교 K-인문콘텐츠 경북 지역 문화자원 활용 애니메이션 제작 용역",
+   "org": "조달청",
+   "demand_org": "국립경국대학교",
+   "posted_at": "2026-10-08T15:43:24+09:00",
+   "close_at": "2026-10-29T10:00:00+09:00",
+   "budget": 262286000,
+   "method": "제한경쟁",
+   "contact": "정조은",
+   "tel": "070-4056-6130",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01751164&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "애니메이션제작",
+    "콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
    "id": "bid-R26BK01724857-000",
    "kind": "bid",
    "no": "R26BK01724857-000",
@@ -15375,6 +15570,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
+  },
+  {
+   "id": "bid-R26BK01763653-000",
+   "kind": "bid",
+   "no": "R26BK01763653-000",
+   "title": "2026년 OTT특화 콘텐츠 제작지원(IP확보형) 내가 죽기로 결심한 것은 드라마 세트 제작",
+   "org": "미디어그룹테이크투 주식회사",
+   "demand_org": "미디어그룹테이크투 주식회사",
+   "posted_at": "2026-10-08T17:50:06+09:00",
+   "close_at": "2026-11-18T18:00:00+09:00",
+   "budget": 1353869000,
+   "method": "제한경쟁",
+   "contact": "이정인",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01763653&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-08T21:23:29.439764+09:00"
   }
  ]
 }
