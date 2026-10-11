@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-11T11:02:11.562560+09:00",
- "total": 710,
+ "updated_at": "2026-10-11T20:44:11.773231+09:00",
+ "total": 711,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -14714,6 +14714,27 @@
    ],
    "starred": false,
    "first_seen": "2026-09-30T11:14:15.687489+09:00"
+  },
+  {
+   "id": "pre-R26BD00283170",
+   "kind": "prespec",
+   "no": "R26BD00283170",
+   "title": "정보보호 클러스터 방문객 안내 및 정책 홍보물 제작",
+   "org": "한국인터넷진흥원",
+   "demand_org": "한국인터넷진흥원",
+   "posted_at": "2026-10-11T16:08:05+09:00",
+   "close_at": "2026-10-14T23:59:00+09:00",
+   "budget": 25000000,
+   "method": "사전규격 의견등록",
+   "contact": "박정기",
+   "tel": "061-820-1493",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00283170&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "홍보물제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-11T20:44:11.773231+09:00"
   },
   {
    "id": "bid-R26BK01761928-000",
