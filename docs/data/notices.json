@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-12T11:32:31.799910+09:00",
- "total": 721,
+ "updated_at": "2026-10-12T22:44:31.327722+09:00",
+ "total": 727,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -13016,28 +13016,6 @@
    "first_seen": "2026-10-06T21:23:13.822699+09:00"
   },
   {
-   "id": "bid-R26BK01758119-000",
-   "kind": "bid",
-   "no": "R26BK01758119-000",
-   "title": "[앵커사업] RUC+A-Skilling 단기집중과정(온라인 6과정) 영상촬영·편집 용역",
-   "org": "연세대학교 미래캠퍼스",
-   "demand_org": "연세대학교 미래캠퍼스",
-   "posted_at": "2026-10-06T16:31:43+09:00",
-   "close_at": "2026-10-07T14:30:00+09:00",
-   "budget": 6000000,
-   "method": "수의계약",
-   "contact": "봉하범",
-   "tel": "033-760-2136",
-   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758119&bidPbancOrd=000",
-   "score": 6,
-   "hits": [
-    "영상촬영",
-    "촬영편집"
-   ],
-   "starred": false,
-   "first_seen": "2026-10-06T21:23:13.822699+09:00"
-  },
-  {
    "id": "bid-R26BK01759038-000",
    "kind": "bid",
    "no": "R26BK01759038-000",
@@ -14456,6 +14434,28 @@
    "first_seen": "2026-10-05T21:52:54.143526+09:00"
   },
   {
+   "id": "bid-R26BK01758119-000",
+   "kind": "bid",
+   "no": "R26BK01758119-000",
+   "title": "[앵커사업] RUC+A-Skilling 단기집중과정(온라인 6과정) 영상촬영·편집 용역",
+   "org": "연세대학교 미래캠퍼스",
+   "demand_org": "연세대학교 미래캠퍼스",
+   "posted_at": "2026-10-06T16:31:43+09:00",
+   "close_at": "2026-10-13T12:00:00+09:00",
+   "budget": 6000000,
+   "method": "수의계약",
+   "contact": "봉하범",
+   "tel": "033-760-2136",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758119&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상촬영",
+    "촬영편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-06T21:23:13.822699+09:00"
+  },
+  {
    "id": "bid-R26BK01742654-000",
    "kind": "bid",
    "no": "R26BK01742654-000",
@@ -14867,6 +14867,50 @@
    "first_seen": "2026-10-12T11:32:31.799910+09:00"
   },
   {
+   "id": "pre-R26BD00283733",
+   "kind": "prespec",
+   "no": "R26BD00283733",
+   "title": "국립부산과학관 4D 체험관 신규 영상 제작·설치 사업",
+   "org": "국립부산과학관",
+   "demand_org": "국립부산과학관",
+   "posted_at": "2026-10-12T18:56:10+09:00",
+   "close_at": "2026-10-15T23:59:00+09:00",
+   "budget": 197585000,
+   "method": "사전규격 의견등록",
+   "contact": "이동규",
+   "tel": "051-750-2465",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00283733&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-12T22:44:31.327722+09:00"
+  },
+  {
+   "id": "bid-R26BK01765507-000",
+   "kind": "bid",
+   "no": "R26BK01765507-000",
+   "title": "영대교 미디어파사드 영상콘텐츠 제작 용역",
+   "org": "경상남도 양산시",
+   "demand_org": "경상남도 양산시",
+   "posted_at": "2026-10-12T15:13:12+09:00",
+   "close_at": "2026-10-16T10:00:00+09:00",
+   "budget": 80700000,
+   "method": "수의계약",
+   "contact": "김봉섭",
+   "tel": "055-392-2283",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01765507&bidPbancOrd=000",
+   "score": 5,
+   "hits": [
+    "영상콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-12T22:44:31.327722+09:00"
+  },
+  {
    "id": "bid-R26BK01759178-000",
    "kind": "bid",
    "no": "R26BK01759178-000",
@@ -14931,6 +14975,30 @@
    ],
    "starred": false,
    "first_seen": "2026-10-12T11:32:31.799910+09:00"
+  },
+  {
+   "id": "pre-R26BD00283694",
+   "kind": "prespec",
+   "no": "R26BD00283694",
+   "title": "한서대학교(앵커사업부)·서천군 춘장대 해양체험파크 힐링미디어 체험관 모션그래픽 영상 콘텐츠 제작 및 콘텐츠 관련 PBL 교육 프로그램 운영 위탁용역",
+   "org": "한서대학교 산학협력단",
+   "demand_org": "한서대학교 산학협력단",
+   "posted_at": "2026-10-12T17:49:28+09:00",
+   "close_at": "2026-10-17T23:59:00+09:00",
+   "budget": 100000000,
+   "method": "사전규격 의견등록",
+   "contact": "이준직",
+   "tel": "041-660-1755",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00283694&fileType=BFDTL&fileSeq=1",
+   "score": 8,
+   "hits": [
+    "영상콘텐츠",
+    "모션그래픽",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-12T22:44:31.327722+09:00"
   },
   {
    "id": "bid-R26BK01756783-000",
@@ -15636,6 +15704,29 @@
    "first_seen": "2026-10-12T11:32:31.799910+09:00"
   },
   {
+   "id": "bid-R26BK01765716-000",
+   "kind": "bid",
+   "no": "R26BK01765716-000",
+   "title": "제주 로컬 브랜드의 AI 활용 콘텐츠 제작 및 홍보",
+   "org": "제주대학교 산학협력단",
+   "demand_org": "제주대학교 산학협력단",
+   "posted_at": "2026-10-12T15:17:39+09:00",
+   "close_at": "2026-10-23T10:00:00+09:00",
+   "budget": 40000000,
+   "method": "제한경쟁",
+   "contact": "이종우",
+   "tel": "064-754-2474",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01765716&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-12T22:44:31.327722+09:00"
+  },
+  {
    "id": "bid-R26BK01764308-000",
    "kind": "bid",
    "no": "R26BK01764308-000",
@@ -15722,6 +15813,51 @@
    ],
    "starred": false,
    "first_seen": "2026-10-12T11:32:31.799910+09:00"
+  },
+  {
+   "id": "bid-R26BK01764404-001",
+   "kind": "bid",
+   "no": "R26BK01764404-001",
+   "title": "2026년도 한국어 중급과정 온라인 교육 콘텐츠 개발 사업",
+   "org": "강원대학교 강릉캠퍼스",
+   "demand_org": "강원대학교 강릉캠퍼스",
+   "posted_at": "2026-10-12T13:27:38+09:00",
+   "close_at": "2026-10-23T18:00:00+09:00",
+   "budget": 90000000,
+   "method": "제한경쟁",
+   "contact": "오은정",
+   "tel": "033-640-2784",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01764404&bidPbancOrd=001",
+   "score": 6,
+   "hits": [
+    "교육콘텐츠",
+    "온라인교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-12T22:44:31.327722+09:00"
+  },
+  {
+   "id": "bid-R26BK01765322-000",
+   "kind": "bid",
+   "no": "R26BK01765322-000",
+   "title": "2027년 기관 홍보 콘텐츠 제작 등 디지털 홍보 용역",
+   "org": "한국인터넷진흥원",
+   "demand_org": "한국인터넷진흥원",
+   "posted_at": "2026-10-12T14:21:43+09:00",
+   "close_at": "2026-10-28T14:30:00+09:00",
+   "budget": 60000000,
+   "method": "제한경쟁",
+   "contact": "김소원",
+   "tel": "061-820-1491",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01765322&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-12T22:44:31.327722+09:00"
   },
   {
    "id": "bid-R26BK01751164-000",
