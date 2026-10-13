@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T12:42:00.141711+09:00",
- "total": 731,
+ "updated_at": "2026-10-13T22:06:13.632181+09:00",
+ "total": 743,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -14456,6 +14456,51 @@
    "first_seen": "2026-10-06T21:23:13.822699+09:00"
   },
   {
+   "id": "bid-R26BK01767805-000",
+   "kind": "bid",
+   "no": "R26BK01767805-000",
+   "title": "산림재난 알림 및 대응 강화를 위한 홍보 콘텐츠 제작",
+   "org": "산림청",
+   "demand_org": "산림청",
+   "posted_at": "2026-10-13T13:46:27+09:00",
+   "close_at": "2026-10-13T14:40:00+09:00",
+   "budget": 12000000,
+   "method": "수의계약",
+   "contact": "이주현",
+   "tel": "042-481-4017",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01767805&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
+   "id": "bid-R26BK01767787-000",
+   "kind": "bid",
+   "no": "R26BK01767787-000",
+   "title": "어르신 소방안전 콘텐츠 제작(수의시담)",
+   "org": "소방청",
+   "demand_org": "소방청",
+   "posted_at": "2026-10-13T13:27:19+09:00",
+   "close_at": "2026-10-13T15:00:00+09:00",
+   "budget": 67870000,
+   "method": "수의계약",
+   "contact": "신정필",
+   "tel": "044-205-7052",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01767787&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
    "id": "bid-R26BK01742654-000",
    "kind": "bid",
    "no": "R26BK01742654-000",
@@ -14691,6 +14736,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-02T20:30:03.524352+09:00"
+  },
+  {
+   "id": "bid-R26BK01768559-000",
+   "kind": "bid",
+   "no": "R26BK01768559-000",
+   "title": "도로노면 위험요소 저감 기술 통합 테스트베드 구축 시공 기록 및 기술 소개 영상 제작 용역",
+   "org": "한국건설기술연구원",
+   "demand_org": "한국건설기술연구원",
+   "posted_at": "2026-10-13T16:02:02+09:00",
+   "close_at": "2026-10-14T12:00:00+09:00",
+   "budget": 33125000,
+   "method": "수의계약",
+   "contact": "변진호",
+   "tel": "031-910-0433",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01768559&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "소개영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
   },
   {
    "id": "bid-R26BK01751992-000",
@@ -14933,6 +15000,29 @@
    "first_seen": "2026-10-07T11:31:53.582447+09:00"
   },
   {
+   "id": "pre-R26BD00284240",
+   "kind": "prespec",
+   "no": "R26BD00284240",
+   "title": "(가칭)유라시아플랫폼 웰컴라운지 콘텐츠 및 홍보시설 제작 설치 용역",
+   "org": "부산광역시",
+   "demand_org": "부산광역시",
+   "posted_at": "2026-10-13T17:01:05+09:00",
+   "close_at": "2026-10-16T23:59:00+09:00",
+   "budget": 275000000,
+   "method": "사전규격 의견등록",
+   "contact": "권순환",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00284240&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
    "id": "pre-R26BD00283217",
    "kind": "prespec",
    "no": "R26BD00283217",
@@ -15043,6 +15133,73 @@
    ],
    "starred": false,
    "first_seen": "2026-10-13T12:42:00.141711+09:00"
+  },
+  {
+   "id": "pre-R26BD00284217",
+   "kind": "prespec",
+   "no": "R26BD00284217",
+   "title": "국립대학 권역별 반도체공동연구소 연합교육과정 홍보 영상 제작 용역",
+   "org": "서울대학교 반도체공동연구소",
+   "demand_org": "서울대학교 반도체공동연구소",
+   "posted_at": "2026-10-13T16:44:03+09:00",
+   "close_at": "2026-10-18T23:59:00+09:00",
+   "budget": 60000000,
+   "method": "사전규격 의견등록",
+   "contact": "민지완",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00284217&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
+   "id": "pre-R26BD00284298",
+   "kind": "prespec",
+   "no": "R26BD00284298",
+   "title": "2027년 중소벤처기업부 유튜브 채널 영상 제작 및 운영 지원",
+   "org": "조달청",
+   "demand_org": "중소벤처기업부",
+   "posted_at": "2026-10-13T17:49:04+09:00",
+   "close_at": "2026-10-18T23:59:00+09:00",
+   "budget": 403350000,
+   "method": "사전규격 의견등록",
+   "contact": "박소연",
+   "tel": "070-4056-7360",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00284298&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "유튜브"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
+   "id": "pre-R26BD00284324",
+   "kind": "prespec",
+   "no": "R26BD00284324",
+   "title": "뉴미디어 소통활성화를 위한 SNS 채널운영 및 콘텐츠(이미지·영상) 제작 사업",
+   "org": "조달청",
+   "demand_org": "국무조정실",
+   "posted_at": "2026-10-13T17:59:33+09:00",
+   "close_at": "2026-10-18T23:59:00+09:00",
+   "budget": 302590000,
+   "method": "사전규격 의견등록",
+   "contact": "박소연",
+   "tel": "070-4056-7360",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00284324&fileType=BFDTL&fileSeq=1",
+   "score": 5,
+   "hits": [
+    "영상제작",
+    "콘텐츠",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
   },
   {
    "id": "bid-R26BK01756783-000",
@@ -15900,6 +16057,116 @@
    ],
    "starred": false,
    "first_seen": "2026-10-12T22:44:31.327722+09:00"
+  },
+  {
+   "id": "bid-R26BK01764483-000",
+   "kind": "bid",
+   "no": "R26BK01764483-000",
+   "title": "제조AI 실무 역량 강화 온라인 교육 콘텐츠 개발 및 운영",
+   "org": "국립창원대학교",
+   "demand_org": "국립창원대학교",
+   "posted_at": "2026-10-13T09:24:13+09:00",
+   "close_at": "2026-10-24T00:00:00+09:00",
+   "budget": 50000000,
+   "method": "제한경쟁",
+   "contact": "김성민",
+   "tel": "055-213-4506",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01764483&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "교육콘텐츠",
+    "온라인교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
+   "id": "bid-R26BK01767834-000",
+   "kind": "bid",
+   "no": "R26BK01767834-000",
+   "title": "2026 ACC 겨울 시즌 체험형 경관 콘텐츠 제작·운영 용역",
+   "org": "국립아시아문화전당재단",
+   "demand_org": "국립아시아문화전당재단",
+   "posted_at": "2026-10-13T13:42:14+09:00",
+   "close_at": "2026-10-26T10:00:00+09:00",
+   "budget": 209940045,
+   "method": "제한경쟁",
+   "contact": "최현미",
+   "tel": "062-601-4622",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01767834&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
+   "id": "bid-R26BK01768107-000",
+   "kind": "bid",
+   "no": "R26BK01768107-000",
+   "title": "2026년도 스마트팜 교육 동영상 제작 용역",
+   "org": "국립공주대학교산학협력단",
+   "demand_org": "국립공주대학교산학협력단",
+   "posted_at": "2026-10-13T14:58:41+09:00",
+   "close_at": "2026-10-26T10:00:00+09:00",
+   "budget": 40000000,
+   "method": "제한경쟁",
+   "contact": "장윤영",
+   "tel": "041-850-0579",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01768107&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "동영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
+   "id": "bid-R26BK01767198-000",
+   "kind": "bid",
+   "no": "R26BK01767198-000",
+   "title": "(앵커) 늘봄 프로그램 운영 지원(개발 프로그램 홍보영상 제작) 용역",
+   "org": "울산과학대학산학협력단",
+   "demand_org": "울산과학대학산학협력단",
+   "posted_at": "2026-10-13T10:25:02+09:00",
+   "close_at": "2026-10-26T11:00:00+09:00",
+   "budget": 24000000,
+   "method": "제한경쟁",
+   "contact": "이문영",
+   "tel": "052-230-0553",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01767198&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
+  },
+  {
+   "id": "bid-R26BK01767102-000",
+   "kind": "bid",
+   "no": "R26BK01767102-000",
+   "title": "두류젊코 미디어폴 제작 및 설치 용역(긴급)",
+   "org": "재단법인 대구전통시장진흥재단",
+   "demand_org": "재단법인 대구전통시장진흥재단",
+   "posted_at": "2026-10-13T10:44:19+09:00",
+   "close_at": "2026-10-26T16:00:00+09:00",
+   "budget": 292000000,
+   "method": "제한경쟁",
+   "contact": "채지희",
+   "tel": "053-710-6352",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01767102&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-13T22:06:13.632181+09:00"
   },
   {
    "id": "bid-R26BK01765322-000",
