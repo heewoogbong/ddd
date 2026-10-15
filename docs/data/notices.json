@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-14T19:47:55.326722+09:00",
- "total": 758,
+ "updated_at": "2026-10-15T10:37:28.364084+09:00",
+ "total": 761,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -15108,6 +15108,29 @@
    "first_seen": "2026-10-12T22:44:31.327722+09:00"
   },
   {
+   "id": "bid-R26BK01770926-000",
+   "kind": "bid",
+   "no": "R26BK01770926-000",
+   "title": "2026년 공예분야 전문교육 영상 제작 용역",
+   "org": "국가유산청 국립무형유산원",
+   "demand_org": "국가유산청 국립무형유산원",
+   "posted_at": "2026-10-14T17:39:59+09:00",
+   "close_at": "2026-10-16T11:00:00+09:00",
+   "budget": 22000000,
+   "method": "수의계약",
+   "contact": "장재호",
+   "tel": "063-280-1413",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01770926&bidPbancOrd=000",
+   "score": 9,
+   "hits": [
+    "영상제작",
+    "교육영상",
+    "교육영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-15T10:37:28.364084+09:00"
+  },
+  {
    "id": "bid-R26BK01759178-000",
    "kind": "bid",
    "no": "R26BK01759178-000",
@@ -15128,6 +15151,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-07T11:31:53.582447+09:00"
+  },
+  {
+   "id": "bid-R26BK01755090-001",
+   "kind": "bid",
+   "no": "R26BK01755090-001",
+   "title": "(변경공고)K-FAST 채널 송출용 AI 더빙 콘텐츠 음성 편집 및 믹싱 용역",
+   "org": "(주)허드슨에이아이",
+   "demand_org": "(주)허드슨에이아이",
+   "posted_at": "2026-10-14T16:48:23+09:00",
+   "close_at": "2026-10-16T18:00:00+09:00",
+   "budget": 74800000,
+   "method": "제한경쟁",
+   "contact": "신현진",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755090&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-15T10:37:28.364084+09:00"
   },
   {
    "id": "pre-R26BD00284240",
@@ -16036,6 +16081,28 @@
    ],
    "starred": false,
    "first_seen": "2026-09-10T10:15:10.036341+09:00"
+  },
+  {
+   "id": "pre-R26BD00284579",
+   "kind": "prespec",
+   "no": "R26BD00284579",
+   "title": "동국대학교 기초학문 오딧세이 교과목 D-MOOC 동영상 제작 위탁 용역",
+   "org": "동국대학교",
+   "demand_org": "동국대학교",
+   "posted_at": "2026-10-14T11:00:38+09:00",
+   "close_at": "2026-10-20T23:59:00+09:00",
+   "budget": 120000000,
+   "method": "사전규격 의견등록",
+   "contact": "하정수",
+   "tel": "02-2260-3091",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00284579&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "동영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-15T10:37:28.364084+09:00"
   },
   {
    "id": "bid-R26BK01742980-000",
