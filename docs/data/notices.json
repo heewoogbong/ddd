@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16T10:34:10.097551+09:00",
- "total": 772,
+ "updated_at": "2026-10-16T19:18:12.575048+09:00",
+ "total": 778,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -15899,6 +15899,29 @@
    "first_seen": "2026-10-14T19:47:55.326722+09:00"
   },
   {
+   "id": "pre-R26BD00285925",
+   "kind": "prespec",
+   "no": "R26BD00285925",
+   "title": "2026년 OTT특화 콘텐츠 제작지원(IP확보형) 사업 「저승사자 생명연장 프로젝트」AI·CG 제작 및 포맷별 최종편집",
+   "org": "주식회사 테이크원컴퍼니",
+   "demand_org": "주식회사 테이크원컴퍼니",
+   "posted_at": "2026-10-16T13:16:19+09:00",
+   "close_at": "2026-10-19T23:59:00+09:00",
+   "budget": 176000000,
+   "method": "사전규격 의견등록",
+   "contact": "한윤규",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00285925&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-16T19:18:12.575048+09:00"
+  },
+  {
    "id": "bid-R26BK01740238-000",
    "kind": "bid",
    "no": "R26BK01740238-000",
@@ -16342,6 +16365,113 @@
    ],
    "starred": false,
    "first_seen": "2026-09-10T19:11:34.083123+09:00"
+  },
+  {
+   "id": "pre-R26BD00285918",
+   "kind": "prespec",
+   "no": "R26BD00285918",
+   "title": "2027년 교육부 뉴미디어 정책홍보 활성화 사업 계약",
+   "org": "조달청",
+   "demand_org": "교육부",
+   "posted_at": "2026-10-16T13:03:28+09:00",
+   "close_at": "2026-10-21T23:59:00+09:00",
+   "budget": 284453200,
+   "method": "사전규격 의견등록",
+   "contact": "박소연",
+   "tel": "070-4056-7360",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00285918&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "홍보",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-16T19:18:12.575048+09:00"
+  },
+  {
+   "id": "pre-R26BD00285920",
+   "kind": "prespec",
+   "no": "R26BD00285920",
+   "title": "2027년 이러닝 운영 사업",
+   "org": "경기도",
+   "demand_org": "경기도 경기도인재개발원",
+   "posted_at": "2026-10-16T13:07:49+09:00",
+   "close_at": "2026-10-21T23:59:00+09:00",
+   "budget": 774476000,
+   "method": "사전규격 의견등록",
+   "contact": "김혜리",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00285920&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "이러닝"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-16T19:18:12.575048+09:00"
+  },
+  {
+   "id": "pre-R26BD00286174",
+   "kind": "prespec",
+   "no": "R26BD00286174",
+   "title": "로봇직업교육센터 디지털트윈 기반 모듈형 교육 콘텐츠 기획 및 설계 용역",
+   "org": "한국로봇산업진흥원",
+   "demand_org": "한국로봇산업진흥원",
+   "posted_at": "2026-10-16T15:54:51+09:00",
+   "close_at": "2026-10-21T23:59:00+09:00",
+   "budget": 59866254,
+   "method": "사전규격 의견등록",
+   "contact": "류주리",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00286174&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "교육콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-16T19:18:12.575048+09:00"
+  },
+  {
+   "id": "pre-R26BD00286178",
+   "kind": "prespec",
+   "no": "R26BD00286178",
+   "title": "2026 글로벌 컨퍼런스·창업 경진대회·글로벌 미디어 아트전 용역",
+   "org": "중앙대학교 산학협력단",
+   "demand_org": "중앙대학교 산학협력단",
+   "posted_at": "2026-10-16T15:56:16+09:00",
+   "close_at": "2026-10-21T23:59:00+09:00",
+   "budget": 96000000,
+   "method": "사전규격 의견등록",
+   "contact": "문재원",
+   "tel": "02-820-6318",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00286178&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "미디어아트"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-16T19:18:12.575048+09:00"
+  },
+  {
+   "id": "pre-R26BD00286279",
+   "kind": "prespec",
+   "no": "R26BD00286279",
+   "title": "과학문화활동 홍보를 위한 기관 홍보영상 제작",
+   "org": "한국생산기술연구원",
+   "demand_org": "한국생산기술연구원",
+   "posted_at": "2026-10-16T17:16:37+09:00",
+   "close_at": "2026-10-21T23:59:00+09:00",
+   "budget": 11000000,
+   "method": "사전규격 의견등록",
+   "contact": "황주연",
+   "tel": "041-589-8542",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00286279&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-16T19:18:12.575048+09:00"
   },
   {
    "id": "bid-R26BK01759178-001",
