@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16T19:18:12.575048+09:00",
- "total": 778,
+ "updated_at": "2026-10-17T10:25:43.224656+09:00",
+ "total": 779,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -16472,6 +16472,27 @@
    ],
    "starred": false,
    "first_seen": "2026-10-16T19:18:12.575048+09:00"
+  },
+  {
+   "id": "pre-R26BD00286369",
+   "kind": "prespec",
+   "no": "R26BD00286369",
+   "title": "2026년 한국영화 첨단제작 집중지원 영화 예토 AI 기반 영상 제작 용역",
+   "org": "주식회사 와우포인트",
+   "demand_org": "주식회사 와우포인트",
+   "posted_at": "2026-10-16T23:19:50+09:00",
+   "close_at": "2026-10-21T23:59:00+09:00",
+   "budget": 444884000,
+   "method": "사전규격 의견등록",
+   "contact": "소원빈",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00286369&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-17T10:25:43.224656+09:00"
   },
   {
    "id": "bid-R26BK01759178-001",
