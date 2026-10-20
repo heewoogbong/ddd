@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-20T10:59:21.249835+09:00",
- "total": 808,
+ "updated_at": "2026-10-20T19:33:25.020665+09:00",
+ "total": 817,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -16411,6 +16411,27 @@
    "first_seen": "2026-10-06T21:23:13.822699+09:00"
   },
   {
+   "id": "bid-R26BK01779964-000",
+   "kind": "bid",
+   "no": "R26BK01779964-000",
+   "title": "2026년 동작소방서 긴급구조종합훈련 영상촬영 및 송출 용역",
+   "org": "서울특별시 동작소방서",
+   "demand_org": "서울특별시 동작소방서",
+   "posted_at": "2026-10-20T09:19:23+09:00",
+   "close_at": "2026-10-21T12:00:00+09:00",
+   "budget": 4763000,
+   "method": "수의계약",
+   "contact": "최지원",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01779964&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상촬영"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
+  },
+  {
    "id": "bid-R26BK01722621-000",
    "kind": "bid",
    "no": "R26BK01722621-000",
@@ -16801,6 +16822,28 @@
    "first_seen": "2026-10-12T22:44:31.327722+09:00"
   },
   {
+   "id": "pre-R26BD00287655",
+   "kind": "prespec",
+   "no": "R26BD00287655",
+   "title": "2027년 서울역사박물관 전시홍보영상 및 멀티미디어장비 유지보수 용역",
+   "org": "서울특별시 서울역사박물관",
+   "demand_org": "서울특별시 서울역사박물관",
+   "posted_at": "2026-10-20T16:44:54+09:00",
+   "close_at": "2026-10-23T23:59:00+09:00",
+   "budget": 360434000,
+   "method": "사전규격 의견등록",
+   "contact": "김예지",
+   "tel": "02-724-0118",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00287655&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "홍보영상",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
+  },
+  {
    "id": "bid-R26BK01764483-000",
    "kind": "bid",
    "no": "R26BK01764483-000",
@@ -16997,6 +17040,94 @@
    ],
    "starred": false,
    "first_seen": "2026-10-19T20:26:38.260334+09:00"
+  },
+  {
+   "id": "pre-R26BD00287573",
+   "kind": "prespec",
+   "no": "R26BD00287573",
+   "title": "2026학년도 숭의여자대학교 AI·DX 교양교과목 온라인 학습콘텐츠 촬영 및 편집 위탁 용역",
+   "org": "숭의여자대학 산학협력단",
+   "demand_org": "숭의여자대학 산학협력단",
+   "posted_at": "2026-10-20T15:57:49+09:00",
+   "close_at": "2026-10-25T23:59:00+09:00",
+   "budget": 44000000,
+   "method": "사전규격 의견등록",
+   "contact": "이승민",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00287573&fileType=BFDTL&fileSeq=1",
+   "score": 5,
+   "hits": [
+    "학습콘텐츠",
+    "촬영",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
+  },
+  {
+   "id": "pre-R26BD00287632",
+   "kind": "prespec",
+   "no": "R26BD00287632",
+   "title": "27년도 보수총액신고 및 소득기반 부과체계 개편에 따른 홍보물 제작 용역",
+   "org": "근로복지공단본부",
+   "demand_org": "근로복지공단본부",
+   "posted_at": "2026-10-20T16:31:08+09:00",
+   "close_at": "2026-10-25T23:59:00+09:00",
+   "budget": 165000000,
+   "method": "사전규격 의견등록",
+   "contact": "이지인",
+   "tel": "052-720-7019",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00287632&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "홍보물제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
+  },
+  {
+   "id": "pre-R26BD00287729",
+   "kind": "prespec",
+   "no": "R26BD00287729",
+   "title": "2027년 뉴콘텐츠아카데미 교육 및 홍보 위탁용역",
+   "org": "한국콘텐츠진흥원",
+   "demand_org": "한국콘텐츠진흥원",
+   "posted_at": "2026-10-20T17:26:26+09:00",
+   "close_at": "2026-10-25T23:59:00+09:00",
+   "budget": 1650000000,
+   "method": "사전규격 의견등록",
+   "contact": "조은지",
+   "tel": "061-900-6187",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00287729&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "홍보"
+   ],
+   "starred": true,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
+  },
+  {
+   "id": "pre-R26BD00287814",
+   "kind": "prespec",
+   "no": "R26BD00287814",
+   "title": "2026 ACCxGMAP AI 미디어아트 기획전 전시 홍보 및 운영 용역",
+   "org": "조달청 광주지방조달청",
+   "demand_org": "문화체육관광부 국립아시아문화전당",
+   "posted_at": "2026-10-20T19:11:44+09:00",
+   "close_at": "2026-10-25T23:59:00+09:00",
+   "budget": 111146000,
+   "method": "사전규격 의견등록",
+   "contact": "김해찬",
+   "tel": "070-4056-8267",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00287814&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "미디어아트",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
   },
   {
    "id": "bid-R26BK01767834-000",
@@ -17481,6 +17612,28 @@
    "first_seen": "2026-10-20T10:59:21.249835+09:00"
   },
   {
+   "id": "bid-R26BK01777611-000",
+   "kind": "bid",
+   "no": "R26BK01777611-000",
+   "title": "2026년 한국영화 첨단제작 집중지원 체리보이 영화제작 심층 편집 제작 용역",
+   "org": "주식회사 고포잇",
+   "demand_org": "주식회사 고포잇",
+   "posted_at": "2026-10-19T14:13:09+09:00",
+   "close_at": "2026-10-30T14:30:00+09:00",
+   "budget": 66000000,
+   "method": "제한경쟁",
+   "contact": "최재화",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01777611&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "제작",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
+  },
+  {
    "id": "bid-R26BK01777438-000",
    "kind": "bid",
    "no": "R26BK01777438-000",
@@ -17545,6 +17698,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-15T19:29:26.714889+09:00"
+  },
+  {
+   "id": "bid-R26BK01777754-000",
+   "kind": "bid",
+   "no": "R26BK01777754-000",
+   "title": "2026년 공연예술창작산실 올해의신작 영상 촬영 및 아카이빙 영상제작 용역",
+   "org": "한국문화예술위원회",
+   "demand_org": "한국문화예술위원회",
+   "posted_at": "2026-10-19T15:04:16+09:00",
+   "close_at": "2026-11-03T15:00:00+09:00",
+   "budget": 189888706,
+   "method": "제한경쟁",
+   "contact": "김정",
+   "tel": "061-900-2173",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01777754&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "영상촬영"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
   },
   {
    "id": "bid-R26BK01772143-000",
@@ -17764,6 +17939,27 @@
    ],
    "starred": false,
    "first_seen": "2026-10-13T12:42:00.141711+09:00"
+  },
+  {
+   "id": "bid-R26BK01776705-000",
+   "kind": "bid",
+   "no": "R26BK01776705-000",
+   "title": "2026년 한국영화 첨단제작 집중지원 영화 예토 AI 기반 영상 제작 용역",
+   "org": "주식회사 와우포인트",
+   "demand_org": "주식회사 와우포인트",
+   "posted_at": "2026-10-19T19:56:49+09:00",
+   "close_at": "2026-11-30T10:00:00+09:00",
+   "budget": 444884000,
+   "method": "일반경쟁",
+   "contact": "소원빈",
+   "tel": "02-2237-1020",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01776705&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-20T19:33:25.020665+09:00"
   }
  ]
 }
