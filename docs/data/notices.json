@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-22T10:41:26.039550+09:00",
- "total": 837,
+ "updated_at": "2026-10-22T19:47:18.920819+09:00",
+ "total": 842,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -17768,6 +17768,92 @@
    "first_seen": "2026-10-22T10:41:26.039550+09:00"
   },
   {
+   "id": "pre-R26BD00288710",
+   "kind": "prespec",
+   "no": "R26BD00288710",
+   "title": "2027년 안전한-TV 영상 제작 및 채널 운영 용역 계약 요청",
+   "org": "조달청",
+   "demand_org": "행정안전부",
+   "posted_at": "2026-10-22T10:49:00+09:00",
+   "close_at": "2026-10-27T23:59:00+09:00",
+   "budget": 272362000,
+   "method": "사전규격 의견등록",
+   "contact": "이동은",
+   "tel": "070-4056-6133",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00288710&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-22T19:47:18.920819+09:00"
+  },
+  {
+   "id": "pre-R26BD00288784",
+   "kind": "prespec",
+   "no": "R26BD00288784",
+   "title": "2027년 국가수준 학업성취도 평가 듣기평가 녹음 및 멀티미디어 제작 용역",
+   "org": "한국교육과정평가원",
+   "demand_org": "한국교육과정평가원",
+   "posted_at": "2026-10-22T13:05:58+09:00",
+   "close_at": "2026-10-27T23:59:00+09:00",
+   "budget": 77000000,
+   "method": "사전규격 의견등록",
+   "contact": "김다연",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00288784&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-22T19:47:18.920819+09:00"
+  },
+  {
+   "id": "pre-R26BD00288888",
+   "kind": "prespec",
+   "no": "R26BD00288888",
+   "title": "27년 3D수법영상촬영장비 유지관리",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "경찰청",
+   "posted_at": "2026-10-22T14:19:58+09:00",
+   "close_at": "2026-10-27T23:59:00+09:00",
+   "budget": 180670400,
+   "method": "사전규격 의견등록",
+   "contact": "이기노",
+   "tel": "02-590-8752",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00288888&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상촬영"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-22T19:47:18.920819+09:00"
+  },
+  {
+   "id": "pre-R26BD00288947",
+   "kind": "prespec",
+   "no": "R26BD00288947",
+   "title": "2026 아시아문화박물관 아시아문화 미디어상징물 영상 제작 설치",
+   "org": "조달청 광주지방조달청",
+   "demand_org": "문화체육관광부 국립아시아문화전당",
+   "posted_at": "2026-10-22T15:21:11+09:00",
+   "close_at": "2026-10-27T23:59:00+09:00",
+   "budget": 1861990000,
+   "method": "사전규격 의견등록",
+   "contact": "윤수영",
+   "tel": "070-4056-8286",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00288947&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "영상제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-22T19:47:18.920819+09:00"
+  },
+  {
    "id": "bid-R26BK01776085-000",
    "kind": "bid",
    "no": "R26BK01776085-000",
@@ -18140,6 +18226,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-20T19:33:25.020665+09:00"
+  },
+  {
+   "id": "bid-R26BK01773686-000",
+   "kind": "bid",
+   "no": "R26BK01773686-000",
+   "title": "2027년 국방일보 디지털소통 콘텐츠 제작 사업",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "국방부 국방홍보원",
+   "posted_at": "2026-10-21T16:15:44+09:00",
+   "close_at": "2026-11-04T10:00:00+09:00",
+   "budget": 218939040,
+   "method": "제한경쟁",
+   "contact": "손아롬",
+   "tel": "02-590-8877",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01773686&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-22T19:47:18.920819+09:00"
   },
   {
    "id": "bid-R26BK01772143-000",
