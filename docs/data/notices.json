@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21T19:46:18.002474+09:00",
- "total": 835,
+ "updated_at": "2026-10-22T10:41:26.039550+09:00",
+ "total": 837,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -17719,6 +17719,53 @@
    ],
    "starred": false,
    "first_seen": "2026-10-20T10:59:21.249835+09:00"
+  },
+  {
+   "id": "pre-R26BD00288586",
+   "kind": "prespec",
+   "no": "R26BD00288586",
+   "title": "2027년 이천시 뉴미디어 콘텐츠(유튜브) 제작 및 운영 용역",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "경기도 이천시",
+   "posted_at": "2026-10-22T08:29:03+09:00",
+   "close_at": "2026-10-27T23:59:00+09:00",
+   "budget": 151595000,
+   "method": "사전규격 의견등록",
+   "contact": "이은주",
+   "tel": "02-590-8804",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00288586&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "유튜브",
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-22T10:41:26.039550+09:00"
+  },
+  {
+   "id": "pre-R26BD00288685",
+   "kind": "prespec",
+   "no": "R26BD00288685",
+   "title": "2027년 재정경제부 유튜브 채널 운영 및 영상 콘텐츠 제작 용역",
+   "org": "조달청",
+   "demand_org": "재정경제부",
+   "posted_at": "2026-10-22T10:23:46+09:00",
+   "close_at": "2026-10-27T23:59:00+09:00",
+   "budget": 604870000,
+   "method": "사전규격 의견등록",
+   "contact": "장성주",
+   "tel": "070-4056-6131",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00288685&fileType=BFDTL&fileSeq=1",
+   "score": 7,
+   "hits": [
+    "영상콘텐츠",
+    "유튜브",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-22T10:41:26.039550+09:00"
   },
   {
    "id": "bid-R26BK01776085-000",
