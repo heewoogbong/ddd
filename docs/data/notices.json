@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-28T20:46:33.327099+09:00",
- "total": 900,
+ "updated_at": "2026-10-29T11:37:26.008527+09:00",
+ "total": 902,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -18819,6 +18819,28 @@
    "first_seen": "2026-10-28T20:46:33.327099+09:00"
   },
   {
+   "id": "pre-R26BD00291966",
+   "kind": "prespec",
+   "no": "R26BD00291966",
+   "title": "2027년 청와대  영상 콘텐츠 제작 용역",
+   "org": "대통령비서실",
+   "demand_org": "대통령비서실",
+   "posted_at": "2026-10-29T08:55:32+09:00",
+   "close_at": "2026-11-03T09:00:00+09:00",
+   "budget": 450000000,
+   "method": "사전규격 의견등록",
+   "contact": "강유진",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00291966&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "영상콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-29T11:37:26.008527+09:00"
+  },
+  {
    "id": "bid-R26BK01780498-000",
    "kind": "bid",
    "no": "R26BK01780498-000",
@@ -19299,6 +19321,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-27T20:13:10.820791+09:00"
+  },
+  {
+   "id": "pre-R26BD00292121",
+   "kind": "prespec",
+   "no": "R26BD00292121",
+   "title": "2027년 기획 쇼츠 영상 제작",
+   "org": "조달청",
+   "demand_org": "문화체육관광부",
+   "posted_at": "2026-10-29T11:23:43+09:00",
+   "close_at": "2026-11-06T23:59:00+09:00",
+   "budget": 473882000,
+   "method": "사전규격 의견등록",
+   "contact": "이동은",
+   "tel": "070-4056-6133",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292121&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "쇼츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-29T11:37:26.008527+09:00"
   },
   {
    "id": "bid-R26BK01793891-000",
