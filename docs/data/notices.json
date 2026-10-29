@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-29T11:37:26.008527+09:00",
- "total": 902,
+ "updated_at": "2026-10-29T20:55:30.004118+09:00",
+ "total": 907,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -19060,6 +19060,72 @@
    "first_seen": "2026-10-26T20:44:30.701476+09:00"
   },
   {
+   "id": "pre-R26BD00292234",
+   "kind": "prespec",
+   "no": "R26BD00292234",
+   "title": "한국 영화 IP「서편제」생성형 AI 기반 장편 애니메이션 제작 용역",
+   "org": "동서대학교산학협력단",
+   "demand_org": "동서대학교산학협력단",
+   "posted_at": "2026-10-29T14:20:49+09:00",
+   "close_at": "2026-11-03T23:59:00+09:00",
+   "budget": 81000000,
+   "method": "사전규격 의견등록",
+   "contact": "김병진",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292234&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "애니메이션제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-29T20:55:30.004118+09:00"
+  },
+  {
+   "id": "pre-R26BD00292344",
+   "kind": "prespec",
+   "no": "R26BD00292344",
+   "title": "[울산대학교 앵커사업단] 2차년도 앵커사업단 성과 영상 제작",
+   "org": "울산대학교 산학협력단",
+   "demand_org": "울산대학교 산학협력단",
+   "posted_at": "2026-10-29T15:41:50+09:00",
+   "close_at": "2026-11-03T23:59:00+09:00",
+   "budget": 42900000,
+   "method": "사전규격 의견등록",
+   "contact": "김현아",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292344&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "성과영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-29T20:55:30.004118+09:00"
+  },
+  {
+   "id": "pre-R26BD00292498",
+   "kind": "prespec",
+   "no": "R26BD00292498",
+   "title": "박물관교육 영상제작 및 스튜디오 운영·관리 용역",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "문화체육관광부 국립중앙박물관",
+   "posted_at": "2026-10-29T17:45:23+09:00",
+   "close_at": "2026-11-03T23:59:00+09:00",
+   "budget": 320726800,
+   "method": "사전규격 의견등록",
+   "contact": "이은주",
+   "tel": "02-590-8804",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292498&fileType=BFDTL&fileSeq=1",
+   "score": 9,
+   "hits": [
+    "영상제작",
+    "교육영상",
+    "교육영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-29T20:55:30.004118+09:00"
+  },
+  {
    "id": "bid-R26BK01773686-000",
    "kind": "bid",
    "no": "R26BK01773686-000",
@@ -19124,6 +19190,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-26T20:44:30.701476+09:00"
+  },
+  {
+   "id": "pre-R26BD00292464",
+   "kind": "prespec",
+   "no": "R26BD00292464",
+   "title": "2027년 온라인 홍보용역(유튜브) 관련 조달계약",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "국세청",
+   "posted_at": "2026-10-29T17:22:13+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 157495600,
+   "method": "사전규격 의견등록",
+   "contact": "곽중훈",
+   "tel": "070-4056-8391",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292464&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "유튜브",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-29T20:55:30.004118+09:00"
   },
   {
    "id": "bid-R26BK01789061-000",
@@ -19827,6 +19915,27 @@
    ],
    "starred": true,
    "first_seen": "2026-10-27T11:13:34.487418+09:00"
+  },
+  {
+   "id": "bid-R26BK01786133-000",
+   "kind": "bid",
+   "no": "R26BK01786133-000",
+   "title": "2027년 안전한-TV 영상 제작 및 채널 운영 용역 계약 요청",
+   "org": "조달청",
+   "demand_org": "행정안전부",
+   "posted_at": "2026-10-28T14:38:15+09:00",
+   "close_at": "2026-12-08T10:00:00+09:00",
+   "budget": 272362000,
+   "method": "제한경쟁",
+   "contact": "이동은",
+   "tel": "070-4056-6133",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01786133&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-29T20:55:30.004118+09:00"
   }
  ]
 }
