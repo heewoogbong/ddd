@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-29T20:55:30.004118+09:00",
- "total": 907,
+ "updated_at": "2026-10-30T11:45:38.084458+09:00",
+ "total": 915,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -18315,6 +18315,49 @@
    "first_seen": "2026-10-28T20:46:33.327099+09:00"
   },
   {
+   "id": "bid-R26BK01796612-000",
+   "kind": "bid",
+   "no": "R26BK01796612-000",
+   "title": "2026년 은평구 긴급구조종합훈련 영상촬영 및 송출 용역",
+   "org": "서울특별시 은평소방서",
+   "demand_org": "서울특별시 은평소방서",
+   "posted_at": "2026-10-28T15:46:00+09:00",
+   "close_at": "2026-10-29T11:00:00+09:00",
+   "budget": 7492000,
+   "method": "수의계약",
+   "contact": "유양수",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01796612&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상촬영"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
+  },
+  {
+   "id": "bid-R26BK01796773-000",
+   "kind": "bid",
+   "no": "R26BK01796773-000",
+   "title": "국립무형유산원 홍보 애니메이션 제작 용역",
+   "org": "국가유산청 국립무형유산원",
+   "demand_org": "국가유산청 국립무형유산원",
+   "posted_at": "2026-10-28T17:01:37+09:00",
+   "close_at": "2026-10-29T11:00:00+09:00",
+   "budget": 21000000,
+   "method": "수의계약",
+   "contact": "장재호",
+   "tel": "063-280-1413",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01796773&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "애니메이션제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
+  },
+  {
    "id": "bid-R26BK01774718-000",
    "kind": "bid",
    "no": "R26BK01774718-000",
@@ -18995,6 +19038,27 @@
    "first_seen": "2026-10-21T10:45:48.506547+09:00"
   },
   {
+   "id": "bid-R26BK01796761-000",
+   "kind": "bid",
+   "no": "R26BK01796761-000",
+   "title": "2026년 초등학생 응급의료 교육자료 제작 및 배포사업",
+   "org": "국립중앙의료원",
+   "demand_org": "국립중앙의료원",
+   "posted_at": "2026-10-28T15:42:30+09:00",
+   "close_at": "2026-11-03T14:00:00+09:00",
+   "budget": 70000000,
+   "method": "수의계약",
+   "contact": "이대성",
+   "tel": "02-6362-3564",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01796761&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "교육자료제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
+  },
+  {
    "id": "bid-R26BK01772014-000",
    "kind": "bid",
    "no": "R26BK01772014-000",
@@ -19212,6 +19276,70 @@
    ],
    "starred": false,
    "first_seen": "2026-10-29T20:55:30.004118+09:00"
+  },
+  {
+   "id": "pre-R26BD00292666",
+   "kind": "prespec",
+   "no": "R26BD00292666",
+   "title": "2027년 발달장애인지원사업 종사자 통합교육과정(이러닝센터) 운영",
+   "org": "한국장애인개발원",
+   "demand_org": "한국장애인개발원",
+   "posted_at": "2026-10-30T09:36:38+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 200000000,
+   "method": "사전규격 의견등록",
+   "contact": "권성준",
+   "tel": "02-3433-0699",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292666&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "이러닝"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
+  },
+  {
+   "id": "pre-R26BD00292720",
+   "kind": "prespec",
+   "no": "R26BD00292720",
+   "title": "2027년 서울시복지재단 유튜브 홍보 용역",
+   "org": "재단법인 서울시복지재단",
+   "demand_org": "재단법인 서울시복지재단",
+   "posted_at": "2026-10-30T10:20:13+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 110000000,
+   "method": "사전규격 의견등록",
+   "contact": "정상익",
+   "tel": "02-6353-0255",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292720&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "유튜브",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
+  },
+  {
+   "id": "pre-R26BD00292790",
+   "kind": "prespec",
+   "no": "R26BD00292790",
+   "title": "2027년 온라인지식서비스(평화통일창) 영상 제작 용역",
+   "org": "민주평화통일자문회의사무처",
+   "demand_org": "민주평화통일자문회의사무처",
+   "posted_at": "2026-10-30T11:27:27+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 106000000,
+   "method": "사전규격 의견등록",
+   "contact": "이서정",
+   "tel": "02-3668-1355",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00292790&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
   },
   {
    "id": "bid-R26BK01789061-000",
@@ -19674,6 +19802,28 @@
    "first_seen": "2026-10-14T19:47:55.326722+09:00"
   },
   {
+   "id": "bid-R26BK01796954-000",
+   "kind": "bid",
+   "no": "R26BK01796954-000",
+   "title": "2027~2028년 이러닝 교육 위탁운영 및 콘텐츠 개발",
+   "org": "새마을금고중앙회",
+   "demand_org": "새마을금고중앙회",
+   "posted_at": "2026-10-28T16:39:08+09:00",
+   "close_at": "2026-11-12T16:00:00+09:00",
+   "budget": 0,
+   "method": "일반경쟁",
+   "contact": "장재웅",
+   "tel": "02-2145-9063",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01796954&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "이러닝",
+    "콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
+  },
+  {
    "id": "bid-R26BK01791794-000",
    "kind": "bid",
    "no": "R26BK01791794-000",
@@ -19828,6 +19978,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-08T21:23:29.439764+09:00"
+  },
+  {
+   "id": "bid-R26BK01795626-000",
+   "kind": "bid",
+   "no": "R26BK01795626-000",
+   "title": "2027년 중소벤처기업부 유튜브 채널 영상 제작 및 운영 지원",
+   "org": "조달청",
+   "demand_org": "중소벤처기업부",
+   "posted_at": "2026-10-28T17:23:18+09:00",
+   "close_at": "2026-11-19T10:00:00+09:00",
+   "budget": 403350000,
+   "method": "제한경쟁",
+   "contact": "박소연",
+   "tel": "070-4056-7360",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01795626&bidPbancOrd=000",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "유튜브"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-30T11:45:38.084458+09:00"
   },
   {
    "id": "bid-R26BK01791455-000",
