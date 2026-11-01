@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T11:45:38.084458+09:00",
- "total": 915,
+ "updated_at": "2026-11-01T21:13:14.435003+09:00",
+ "total": 925,
  "notices": [
   {
    "id": "bid-R26BK01653520-002",
@@ -18774,29 +18774,6 @@
    "first_seen": "2026-10-26T20:44:30.701476+09:00"
   },
   {
-   "id": "pre-R26BD00291334",
-   "kind": "prespec",
-   "no": "R26BD00291334",
-   "title": "2027년 대한민국정부 유튜브 콘텐츠 제작",
-   "org": "조달청",
-   "demand_org": "문화체육관광부",
-   "posted_at": "2026-10-28T08:57:41+09:00",
-   "close_at": "2026-11-02T23:59:00+09:00",
-   "budget": 352970000,
-   "method": "사전규격 의견등록",
-   "contact": "박소연",
-   "tel": "070-4056-7360",
-   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00291334&fileType=BFDTL&fileSeq=1",
-   "score": 5,
-   "hits": [
-    "유튜브",
-    "콘텐츠",
-    "제작"
-   ],
-   "starred": false,
-   "first_seen": "2026-10-28T11:28:42.792913+09:00"
-  },
-  {
    "id": "pre-R26BD00291354",
    "kind": "prespec",
    "no": "R26BD00291354",
@@ -19256,6 +19233,51 @@
    "first_seen": "2026-10-26T20:44:30.701476+09:00"
   },
   {
+   "id": "bid-R26BK01797357-000",
+   "kind": "bid",
+   "no": "R26BK01797357-000",
+   "title": "홍보사업-(광고) 화훼자조금 역량강화 영상 제작 및 광고 홍보사업",
+   "org": "(사)한국화훼자조금협의회",
+   "demand_org": "(사)한국화훼자조금협의회",
+   "posted_at": "2026-10-28T17:57:02+09:00",
+   "close_at": "2026-11-04T17:00:00+09:00",
+   "budget": 20000000,
+   "method": "수의계약",
+   "contact": "김애연",
+   "tel": "02-2058-2754",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797357&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "영상제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
+   "id": "pre-R26BD00291822",
+   "kind": "prespec",
+   "no": "R26BD00291822",
+   "title": "2026 광주비엔날레 미디어파사드 「자체 콘텐츠 제작 및 운영」용역(협상에 의한 계약)",
+   "org": "전남광주통합특별시북구시설관리공단",
+   "demand_org": "전남광주통합특별시북구시설관리공단",
+   "posted_at": "2026-10-28T17:17:10+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 80000000,
+   "method": "사전규격 의견등록",
+   "contact": "천준경",
+   "tel": "062-524-0743",
+   "url": "",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
    "id": "pre-R26BD00292464",
    "kind": "prespec",
    "no": "R26BD00292464",
@@ -19342,6 +19364,72 @@
    "first_seen": "2026-10-30T11:45:38.084458+09:00"
   },
   {
+   "id": "pre-R26BD00293114",
+   "kind": "prespec",
+   "no": "R26BD00293114",
+   "title": "2026년 OTT 특화 콘텐츠 제작지원 (국내 플랫폼 연계형) 사업 쓰리세컨즈 CG 및 타이틀 제작",
+   "org": "주식회사 스튜디오셰퍼드",
+   "demand_org": "주식회사 스튜디오셰퍼드",
+   "posted_at": "2026-10-30T17:09:47+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 440000000,
+   "method": "사전규격 의견등록",
+   "contact": "한동헌",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00293114&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
+   "id": "pre-R26BD00293135",
+   "kind": "prespec",
+   "no": "R26BD00293135",
+   "title": "2027년 평택시 유튜브 영상제작 및 운영 용역(협상에의한계약)",
+   "org": "경기도 평택시",
+   "demand_org": "경기도 평택시",
+   "posted_at": "2026-10-30T17:19:15+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 342000000,
+   "method": "사전규격 의견등록",
+   "contact": "박한나",
+   "tel": "031-8024-3982",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00293135&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "유튜브"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
+   "id": "pre-R26BD00293175",
+   "kind": "prespec",
+   "no": "R26BD00293175",
+   "title": "2027년 의정활동 보도영상물 제작지원 용역",
+   "org": "조달청 대구지방조달청",
+   "demand_org": "경상북도 의회사무처",
+   "posted_at": "2026-10-30T17:55:01+09:00",
+   "close_at": "2026-11-04T23:59:00+09:00",
+   "budget": 161138110,
+   "method": "사전규격 의견등록",
+   "contact": "한성연",
+   "tel": "070-4056-7969",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00293175&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "영상물",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
    "id": "bid-R26BK01789061-000",
    "kind": "bid",
    "no": "R26BK01789061-000",
@@ -19399,6 +19487,29 @@
    "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00291332&fileType=BFDTL&fileSeq=1",
    "score": 2,
    "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-10-28T11:28:42.792913+09:00"
+  },
+  {
+   "id": "pre-R26BD00291334",
+   "kind": "prespec",
+   "no": "R26BD00291334",
+   "title": "2027년 대한민국정부 유튜브 콘텐츠 제작",
+   "org": "조달청",
+   "demand_org": "문화체육관광부",
+   "posted_at": "2026-10-28T08:57:41+09:00",
+   "close_at": "2026-11-05T23:59:00+09:00",
+   "budget": 352970000,
+   "method": "사전규격 의견등록",
+   "contact": "박소연",
+   "tel": "070-4056-7360",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00291334&fileType=BFDTL&fileSeq=1",
+   "score": 5,
+   "hits": [
+    "유튜브",
     "콘텐츠",
     "제작"
    ],
@@ -19583,6 +19694,52 @@
    "first_seen": "2026-10-28T20:46:33.327099+09:00"
   },
   {
+   "id": "bid-R26BK01797822-000",
+   "kind": "bid",
+   "no": "R26BK01797822-000",
+   "title": "2026년도 수련환경 혁신지원 사업 전공의 교육영상 제작 용역",
+   "org": "인하대학교 의과대학 부속병원",
+   "demand_org": "인하대학교 의과대학 부속병원",
+   "posted_at": "2026-10-29T09:30:32+09:00",
+   "close_at": "2026-11-09T10:00:00+09:00",
+   "budget": 200000000,
+   "method": "일반경쟁",
+   "contact": "양창우",
+   "tel": "032-890-2965",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797822&bidPbancOrd=000",
+   "score": 9,
+   "hits": [
+    "영상제작",
+    "교육영상",
+    "교육영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
+   "id": "bid-R26BK01797822-001",
+   "kind": "bid",
+   "no": "R26BK01797822-001",
+   "title": "2026년도 수련환경 혁신지원 사업 전공의 교육영상 제작 용역",
+   "org": "인하대학교 의과대학 부속병원",
+   "demand_org": "인하대학교 의과대학 부속병원",
+   "posted_at": "2026-10-29T10:14:06+09:00",
+   "close_at": "2026-11-09T10:00:00+09:00",
+   "budget": 200000000,
+   "method": "일반경쟁",
+   "contact": "양창우",
+   "tel": "032-890-2965",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797822&bidPbancOrd=001",
+   "score": 9,
+   "hits": [
+    "영상제작",
+    "교육영상",
+    "교육영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
    "id": "bid-R26BK01789210-000",
    "kind": "bid",
    "no": "R26BK01789210-000",
@@ -19756,6 +19913,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-27T20:13:10.820791+09:00"
+  },
+  {
+   "id": "bid-R26BK01794307-000",
+   "kind": "bid",
+   "no": "R26BK01794307-000",
+   "title": "2027년 서울역사박물관 전시홍보영상 및 멀티미디어장비 유지보수 용역",
+   "org": "서울특별시",
+   "demand_org": "서울특별시 서울역사박물관",
+   "posted_at": "2026-10-29T09:09:48+09:00",
+   "close_at": "2026-11-10T16:00:00+09:00",
+   "budget": 360434000,
+   "method": "제한경쟁",
+   "contact": "김소이",
+   "tel": "02-2133-3242",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794307&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "홍보영상",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
   },
   {
    "id": "bid-R26BK01786731-000",
@@ -20000,6 +20179,49 @@
    ],
    "starred": false,
    "first_seen": "2026-10-30T11:45:38.084458+09:00"
+  },
+  {
+   "id": "bid-R26BK01797792-000",
+   "kind": "bid",
+   "no": "R26BK01797792-000",
+   "title": "2027년 교육부 유튜브 특화 운영 사업  계약",
+   "org": "조달청",
+   "demand_org": "교육부",
+   "posted_at": "2026-10-29T10:55:20+09:00",
+   "close_at": "2026-11-19T10:00:00+09:00",
+   "budget": 403350000,
+   "method": "제한경쟁",
+   "contact": "박소연",
+   "tel": "070-4056-7360",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797792&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "유튜브"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
+  },
+  {
+   "id": "bid-R26BK01794321-000",
+   "kind": "bid",
+   "no": "R26BK01794321-000",
+   "title": "2027년 보건복지부 디지털소통 콘텐츠 제작 및 관리 사업",
+   "org": "조달청",
+   "demand_org": "보건복지부",
+   "posted_at": "2026-10-29T11:08:48+09:00",
+   "close_at": "2026-11-19T10:00:00+09:00",
+   "budget": 574642000,
+   "method": "제한경쟁",
+   "contact": "이동은",
+   "tel": "070-4056-6133",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01794321&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-01T21:13:14.435003+09:00"
   },
   {
    "id": "bid-R26BK01791455-000",
