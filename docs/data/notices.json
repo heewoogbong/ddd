@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-03T12:59:24.366844+09:00",
- "total": 960,
+ "updated_at": "2026-11-03T22:13:25.305895+09:00",
+ "total": 975,
  "notices": [
   {
    "id": "bid-R26BK01573703-001",
@@ -20012,7 +20012,7 @@
    "method": "사전규격 의견등록",
    "contact": "최선옥",
    "tel": "02-880-5506",
-   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294028&fileType=BFDTL&fileSeq=2",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294028&fileType=BFDTL&fileSeq=1",
    "score": 4,
    "hits": [
     "교육콘텐츠",
@@ -20020,6 +20020,158 @@
    ],
    "starred": false,
    "first_seen": "2026-11-03T12:59:24.366844+09:00"
+  },
+  {
+   "id": "pre-R26BD00294167",
+   "kind": "prespec",
+   "no": "R26BD00294167",
+   "title": "2027년 문학상주작가 지원사업 온라인 채용박람회 디자인 및 영상제작",
+   "org": "한국문화예술위원회",
+   "demand_org": "한국문화예술위원회",
+   "posted_at": "2026-11-03T14:13:52+09:00",
+   "close_at": "2026-11-08T23:59:00+09:00",
+   "budget": 75000000,
+   "method": "사전규격 의견등록",
+   "contact": "김정",
+   "tel": "061-900-2173",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294167&fileType=BFDTL&fileSeq=2",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "pre-R26BD00294168",
+   "kind": "prespec",
+   "no": "R26BD00294168",
+   "title": "2027년 한국산업인력공단 월간 사보 제작 및 온라인 홍보 용역",
+   "org": "조달청 부산지방조달청",
+   "demand_org": "한국산업인력공단",
+   "posted_at": "2026-11-03T14:14:51+09:00",
+   "close_at": "2026-11-08T23:59:00+09:00",
+   "budget": 151450000,
+   "method": "사전규격 의견등록",
+   "contact": "김태헌",
+   "tel": "051-330-6547",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294168&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "제작",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "pre-R26BD00294208",
+   "kind": "prespec",
+   "no": "R26BD00294208",
+   "title": "2027년 과기정통부 정책 소통 영상 제작",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "과학기술정보통신부",
+   "posted_at": "2026-11-03T14:47:42+09:00",
+   "close_at": "2026-11-08T23:59:00+09:00",
+   "budget": 201830000,
+   "method": "사전규격 의견등록",
+   "contact": "김고은",
+   "tel": "070-4056-8337",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294208&fileType=BFDTL&fileSeq=2",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "pre-R26BD00294306",
+   "kind": "prespec",
+   "no": "R26BD00294306",
+   "title": "울산대학교 의과대학 홍보영상 제작 용역",
+   "org": "울산대학교",
+   "demand_org": "울산대학교",
+   "posted_at": "2026-11-03T15:49:16+09:00",
+   "close_at": "2026-11-08T23:59:00+09:00",
+   "budget": 44000000,
+   "method": "사전규격 의견등록",
+   "contact": "정민수",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294306&fileType=BFDTL&fileSeq=1",
+   "score": 6,
+   "hits": [
+    "영상제작",
+    "홍보영상"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "pre-R26BD00294512",
+   "kind": "prespec",
+   "no": "R26BD00294512",
+   "title": "2027년 행정안전부 디지털콘텐츠 제작 및 확산 사업",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "행정안전부",
+   "posted_at": "2026-11-03T18:14:29+09:00",
+   "close_at": "2026-11-08T23:59:00+09:00",
+   "budget": 161526000,
+   "method": "사전규격 의견등록",
+   "contact": "정재민",
+   "tel": "070-4056-8385",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294512&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "pre-R26BD00294516",
+   "kind": "prespec",
+   "no": "R26BD00294516",
+   "title": "2027년 보령시 SNS  동영상 콘텐츠 제작",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "충청남도 보령시",
+   "posted_at": "2026-11-03T18:18:56+09:00",
+   "close_at": "2026-11-08T23:59:00+09:00",
+   "budget": 202013000,
+   "method": "사전규격 의견등록",
+   "contact": "정재민",
+   "tel": "070-4056-8385",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294516&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "영상콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "pre-R26BD00294523",
+   "kind": "prespec",
+   "no": "R26BD00294523",
+   "title": "2027년 정부혁신 뉴미디어 정책홍보 활성화 사업",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "행정안전부",
+   "posted_at": "2026-11-03T18:22:18+09:00",
+   "close_at": "2026-11-08T23:59:00+09:00",
+   "budget": 136336000,
+   "method": "사전규격 의견등록",
+   "contact": "정재민",
+   "tel": "070-4056-8385",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294523&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "홍보",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
   },
   {
    "id": "bid-R26BK01793891-000",
@@ -20153,6 +20305,28 @@
    ],
    "starred": false,
    "first_seen": "2026-11-02T11:38:52.746732+09:00"
+  },
+  {
+   "id": "bid-R26BK01798284-001",
+   "kind": "bid",
+   "no": "R26BK01798284-001",
+   "title": "2026년 경상남도교육청 과학교육원 실감영상콘텐츠 제작사업(취소공고)",
+   "org": "경상남도교육청 경상남도교육청과학교육원",
+   "demand_org": "경상남도교육청 경상남도교육청과학교육원",
+   "posted_at": "2026-11-02T14:22:09+09:00",
+   "close_at": "2026-11-09T11:00:00+09:00",
+   "budget": 100000000,
+   "method": "제한경쟁",
+   "contact": "문원숙",
+   "tel": "055-760-8134",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01798284&bidPbancOrd=001",
+   "score": 4,
+   "hits": [
+    "영상콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
   },
   {
    "id": "bid-R26BK01745714-000",
@@ -20349,6 +20523,27 @@
    ],
    "starred": false,
    "first_seen": "2026-11-02T23:02:39.936380+09:00"
+  },
+  {
+   "id": "bid-R26BK01802217-000",
+   "kind": "bid",
+   "no": "R26BK01802217-000",
+   "title": "2027년 이천병원 DR장비(디지털 영상 촬영장치/삼성) 유지보수 용역 계약 견적제출 공고",
+   "org": "경기도의료원 이천병원",
+   "demand_org": "경기도의료원 이천병원",
+   "posted_at": "2026-11-02T08:37:54+09:00",
+   "close_at": "2026-11-10T15:00:00+09:00",
+   "budget": 43080000,
+   "method": "수의계약",
+   "contact": "강경문",
+   "tel": "031-630-4410",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01802217&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상촬영"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
   },
   {
    "id": "bid-R26BK01801716-000",
@@ -20642,6 +20837,96 @@
    "first_seen": "2026-11-02T23:02:39.936380+09:00"
   },
   {
+   "id": "bid-R26BK01803069-000",
+   "kind": "bid",
+   "no": "R26BK01803069-000",
+   "title": "2026년 동산문화유산 실물콘텐츠 제작 사업  보고서 편집 및 인쇄",
+   "org": "재단법인불교문화유산연구소",
+   "demand_org": "재단법인불교문화유산연구소",
+   "posted_at": "2026-11-02T11:19:53+09:00",
+   "close_at": "2026-11-13T10:00:00+09:00",
+   "budget": 44000000,
+   "method": "제한경쟁",
+   "contact": "이미소",
+   "tel": "031-513-1903",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803069&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "bid-R26BK01803322-000",
+   "kind": "bid",
+   "no": "R26BK01803322-000",
+   "title": "2026년 OTT특화 콘텐츠 제작지원(IP확보형) 사업 「저승사자 생명연장 프로젝트」AI·CG 제작 및 포맷별 최종편집",
+   "org": "주식회사 테이크원컴퍼니",
+   "demand_org": "주식회사 테이크원컴퍼니",
+   "posted_at": "2026-11-02T14:01:49+09:00",
+   "close_at": "2026-11-13T10:00:00+09:00",
+   "budget": 176000000,
+   "method": "제한경쟁",
+   "contact": "한윤규",
+   "tel": "02-6959-6108",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803322&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "bid-R26BK01801716-001",
+   "kind": "bid",
+   "no": "R26BK01801716-001",
+   "title": "2026년 한국영화 첨단제작 집중지원 체리보이 영화제작 심층 편집 제작 용역",
+   "org": "주식회사 고포잇",
+   "demand_org": "주식회사 고포잇",
+   "posted_at": "2026-11-02T10:50:37+09:00",
+   "close_at": "2026-11-13T11:00:00+09:00",
+   "budget": 66000000,
+   "method": "제한경쟁",
+   "contact": "최재화",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01801716&bidPbancOrd=001",
+   "score": 2,
+   "hits": [
+    "제작",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "bid-R26BK01801716-002",
+   "kind": "bid",
+   "no": "R26BK01801716-002",
+   "title": "2026년 한국영화 첨단제작 집중지원 체리보이 영화제작 심층 편집 제작 용역",
+   "org": "주식회사 고포잇",
+   "demand_org": "주식회사 고포잇",
+   "posted_at": "2026-11-02T10:58:04+09:00",
+   "close_at": "2026-11-13T11:00:00+09:00",
+   "budget": 38500000,
+   "method": "제한경쟁",
+   "contact": "최재화",
+   "tel": "***********",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01801716&bidPbancOrd=002",
+   "score": 2,
+   "hits": [
+    "제작",
+    "편집"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
    "id": "bid-R26BK01791794-000",
    "kind": "bid",
    "no": "R26BK01791794-000",
@@ -20753,6 +21038,27 @@
    "first_seen": "2026-10-28T20:46:33.327099+09:00"
   },
   {
+   "id": "bid-R26BK01802953-000",
+   "kind": "bid",
+   "no": "R26BK01802953-000",
+   "title": "27년 3D수법영상 촬영장비 유지관리",
+   "org": "조달청 서울지방조달청",
+   "demand_org": "경찰청",
+   "posted_at": "2026-11-02T14:20:09+09:00",
+   "close_at": "2026-11-17T10:00:00+09:00",
+   "budget": 180670400,
+   "method": "제한경쟁",
+   "contact": "이기노",
+   "tel": "02-590-8752",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01802953&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상촬영"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
    "id": "bid-R26BK01753172-000",
    "kind": "bid",
    "no": "R26BK01753172-000",
@@ -20774,6 +21080,27 @@
    ],
    "starred": false,
    "first_seen": "2026-10-01T20:58:34.758499+09:00"
+  },
+  {
+   "id": "bid-R26BK01784475-000",
+   "kind": "bid",
+   "no": "R26BK01784475-000",
+   "title": "2027년 행정안전부 디지털 영상 제작 및 운영지원사업",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "행정안전부",
+   "posted_at": "2026-11-02T11:00:49+09:00",
+   "close_at": "2026-11-18T10:00:00+09:00",
+   "budget": 191754000,
+   "method": "제한경쟁",
+   "contact": "곽중훈",
+   "tel": "070-4056-8391",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01784475&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-03T22:13:25.305895+09:00"
   },
   {
    "id": "bid-R26BK01763653-000",
