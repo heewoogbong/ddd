@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-03T22:13:25.305895+09:00",
- "total": 975,
+ "updated_at": "2026-11-04T12:07:33.295509+09:00",
+ "total": 983,
  "notices": [
   {
    "id": "bid-R26BK01573703-001",
@@ -20439,6 +20439,96 @@
    "first_seen": "2026-11-03T12:59:24.366844+09:00"
   },
   {
+   "id": "pre-R26BD00294609",
+   "kind": "prespec",
+   "no": "R26BD00294609",
+   "title": "소수서원 국가유산 야행 멀티미디어 콘텐츠 제작 용역",
+   "org": "조달청 대구지방조달청",
+   "demand_org": "경상북도 영주시",
+   "posted_at": "2026-11-04T09:00:56+09:00",
+   "close_at": "2026-11-09T23:59:00+09:00",
+   "budget": 252431000,
+   "method": "사전규격 의견등록",
+   "contact": "박다윤",
+   "tel": "070-4056-7967",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294609&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
+  },
+  {
+   "id": "pre-R26BD00294639",
+   "kind": "prespec",
+   "no": "R26BD00294639",
+   "title": "2027 용인문화재단 미디어 콘텐츠 제작 및 SNS 운영 용역",
+   "org": "재단법인 용인문화재단",
+   "demand_org": "재단법인 용인문화재단",
+   "posted_at": "2026-11-04T09:37:46+09:00",
+   "close_at": "2026-11-09T23:59:00+09:00",
+   "budget": 98000000,
+   "method": "사전규격 의견등록",
+   "contact": "류덕례",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294639&fileType=BFDTL&fileSeq=1",
+   "score": 3,
+   "hits": [
+    "콘텐츠",
+    "제작",
+    "미디어"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
+  },
+  {
+   "id": "pre-R26BD00294656",
+   "kind": "prespec",
+   "no": "R26BD00294656",
+   "title": "2026년도 2학기 대전대학교 사물인터넷 혁신융합대학 온라인 강의 콘텐츠 제작",
+   "org": "대전대학교산학협력단",
+   "demand_org": "대전대학교산학협력단",
+   "posted_at": "2026-11-04T09:54:02+09:00",
+   "close_at": "2026-11-09T23:59:00+09:00",
+   "budget": 120000000,
+   "method": "사전규격 의견등록",
+   "contact": "박정수",
+   "tel": "",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294656&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
+  },
+  {
+   "id": "pre-R26BD00294673",
+   "kind": "prespec",
+   "no": "R26BD00294673",
+   "title": "국민건강보험공단 2027년 이러닝 콘텐츠 개발",
+   "org": "국민건강보험공단 본부 국민건강보험공단인재개발원",
+   "demand_org": "국민건강보험공단 본부 국민건강보험공단인재개발원",
+   "posted_at": "2026-11-04T10:13:45+09:00",
+   "close_at": "2026-11-09T23:59:00+09:00",
+   "budget": 729000000,
+   "method": "사전규격 의견등록",
+   "contact": "홍성수",
+   "tel": "033-736-2965",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00294673&fileType=BFDTL&fileSeq=1",
+   "score": 4,
+   "hits": [
+    "이러닝",
+    "콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
+  },
+  {
    "id": "bid-R26BK01780275-000",
    "kind": "bid",
    "no": "R26BK01780275-000",
@@ -20881,6 +20971,72 @@
    ],
    "starred": false,
    "first_seen": "2026-11-03T22:13:25.305895+09:00"
+  },
+  {
+   "id": "bid-R26BK01804027-000",
+   "kind": "bid",
+   "no": "R26BK01804027-000",
+   "title": "2026년 경상남도교육청 과학교육원 실감영상콘텐츠 제작사업",
+   "org": "경상남도교육청 경상남도교육청과학교육원",
+   "demand_org": "경상남도교육청 경상남도교육청과학교육원",
+   "posted_at": "2026-11-02T14:54:27+09:00",
+   "close_at": "2026-11-13T10:00:00+09:00",
+   "budget": 100000000,
+   "method": "제한경쟁",
+   "contact": "문원숙",
+   "tel": "055-760-8134",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804027&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "영상콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
+  },
+  {
+   "id": "bid-R26BK01804314-000",
+   "kind": "bid",
+   "no": "R26BK01804314-000",
+   "title": "2027년 대한민국정부 디지털콘텐츠 수어통역 영상 제작",
+   "org": "문화체육관광부",
+   "demand_org": "문화체육관광부",
+   "posted_at": "2026-11-02T15:33:13+09:00",
+   "close_at": "2026-11-13T10:00:00+09:00",
+   "budget": 100000000,
+   "method": "제한경쟁",
+   "contact": "김가현",
+   "tel": "044-203-2145",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804314&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "영상제작",
+    "콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
+  },
+  {
+   "id": "bid-R26BK01804360-000",
+   "kind": "bid",
+   "no": "R26BK01804360-000",
+   "title": "2027년 대한민국정부 디지털콘텐츠 화면해설 영상 제작",
+   "org": "문화체육관광부",
+   "demand_org": "문화체육관광부",
+   "posted_at": "2026-11-02T15:44:42+09:00",
+   "close_at": "2026-11-13T10:00:00+09:00",
+   "budget": 90000000,
+   "method": "제한경쟁",
+   "contact": "김가현",
+   "tel": "044-203-2145",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804360&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "영상제작",
+    "콘텐츠"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
   },
   {
    "id": "bid-R26BK01801716-001",
@@ -21425,6 +21581,28 @@
    ],
    "starred": false,
    "first_seen": "2026-11-02T11:38:52.746732+09:00"
+  },
+  {
+   "id": "bid-R26BK01804270-000",
+   "kind": "bid",
+   "no": "R26BK01804270-000",
+   "title": "세계명견 아트뮤지엄 콘텐츠 구축 및 제작, 설치 용역 입찰공고(협상에 의한 계약)",
+   "org": "전북특별자치도 임실군",
+   "demand_org": "전북특별자치도 임실군",
+   "posted_at": "2026-11-02T15:49:07+09:00",
+   "close_at": "2026-12-14T18:00:00+09:00",
+   "budget": 2500000000,
+   "method": "일반경쟁",
+   "contact": "정혜인",
+   "tel": "063-640-2194",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804270&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-04T12:07:33.295509+09:00"
   }
  ]
 }
