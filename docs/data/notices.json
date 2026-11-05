@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-04T22:25:43.164059+09:00",
- "total": 994,
+ "updated_at": "2026-11-05T12:37:22.262955+09:00",
+ "total": 997,
  "notices": [
   {
    "id": "bid-R26BK01573703-001",
@@ -20661,6 +20661,28 @@
    "first_seen": "2026-11-04T22:25:43.164059+09:00"
   },
   {
+   "id": "pre-R26BD00295322",
+   "kind": "prespec",
+   "no": "R26BD00295322",
+   "title": "(혁신) 산학협력형 콘텐츠 제작 위탁 용역",
+   "org": "동아방송예술대학교",
+   "demand_org": "동아방송예술대학교",
+   "posted_at": "2026-11-05T10:20:51+09:00",
+   "close_at": "2026-11-10T09:00:00+09:00",
+   "budget": 46200000,
+   "method": "사전규격 의견등록",
+   "contact": "임정빈",
+   "tel": "031-670-6870",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00295322&fileType=BFDTL&fileSeq=1",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-05T12:37:22.262955+09:00"
+  },
+  {
    "id": "bid-R26BK01780275-000",
    "kind": "bid",
    "no": "R26BK01780275-000",
@@ -21011,6 +21033,28 @@
    ],
    "starred": false,
    "first_seen": "2026-10-14T19:47:55.326722+09:00"
+  },
+  {
+   "id": "bid-R26BK01806813-000",
+   "kind": "bid",
+   "no": "R26BK01806813-000",
+   "title": "웹툰영상애니메이션학부 2026학년도 문화산업 해외 견학 및 탐방 진행 용역",
+   "org": "대구대학교",
+   "demand_org": "대구대학교",
+   "posted_at": "2026-11-03T14:09:49+09:00",
+   "close_at": "2026-11-12T11:00:00+09:00",
+   "budget": 32388000,
+   "method": "일반경쟁",
+   "contact": "김도균",
+   "tel": "053-850-5343",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01806813&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "영상",
+    "애니메이션"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-05T12:37:22.262955+09:00"
   },
   {
    "id": "bid-R26BK01796954-000",
@@ -21608,6 +21652,29 @@
    ],
    "starred": false,
    "first_seen": "2026-10-13T12:42:00.141711+09:00"
+  },
+  {
+   "id": "bid-R26BK01805671-000",
+   "kind": "bid",
+   "no": "R26BK01805671-000",
+   "title": "2027년 재정경제부 유튜브 채널 운영 및 영상 콘텐츠 제작 용역",
+   "org": "조달청",
+   "demand_org": "재정경제부",
+   "posted_at": "2026-11-03T13:12:28+09:00",
+   "close_at": "2026-11-24T10:00:00+09:00",
+   "budget": 604870000,
+   "method": "제한경쟁",
+   "contact": "장성주",
+   "tel": "070-4056-6131",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805671&bidPbancOrd=000",
+   "score": 7,
+   "hits": [
+    "영상콘텐츠",
+    "유튜브",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-05T12:37:22.262955+09:00"
   },
   {
    "id": "bid-R26BK01776705-000",
