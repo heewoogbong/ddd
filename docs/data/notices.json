@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-08T21:21:39.722020+09:00",
- "total": 1027,
+ "updated_at": "2026-11-09T11:49:21.410295+09:00",
+ "total": 1029,
  "notices": [
   {
    "id": "bid-R26BK01573703-001",
@@ -21675,6 +21675,29 @@
    "first_seen": "2026-11-04T22:25:43.164059+09:00"
   },
   {
+   "id": "pre-R26BD00296783",
+   "kind": "prespec",
+   "no": "R26BD00296783",
+   "title": "울산대학교병원 전공의 술기 교육영상 제작",
+   "org": "울산공업학원 울산대학교병원",
+   "demand_org": "울산공업학원 울산대학교병원",
+   "posted_at": "2026-11-09T11:29:34+09:00",
+   "close_at": "2026-11-14T23:59:00+09:00",
+   "budget": 200000000,
+   "method": "사전규격 의견등록",
+   "contact": "정상교",
+   "tel": "052-250-7935",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00296783&fileType=BFDTL&fileSeq=1",
+   "score": 9,
+   "hits": [
+    "영상제작",
+    "교육영상",
+    "교육영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-09T11:49:21.410295+09:00"
+  },
+  {
    "id": "bid-R26BK01811224-000",
    "kind": "bid",
    "no": "R26BK01811224-000",
@@ -22152,6 +22175,28 @@
    ],
    "starred": false,
    "first_seen": "2026-11-05T22:42:09.028318+09:00"
+  },
+  {
+   "id": "bid-R26BK01811270-000",
+   "kind": "bid",
+   "no": "R26BK01811270-000",
+   "title": "2027년 온라인 홍보용역(유튜브) 관련 조달계약",
+   "org": "조달청 대전지방조달청",
+   "demand_org": "국세청",
+   "posted_at": "2026-11-05T11:05:27+09:00",
+   "close_at": "2026-11-20T10:00:00+09:00",
+   "budget": 157495600,
+   "method": "제한경쟁",
+   "contact": "곽중훈",
+   "tel": "070-4056-8391",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01811270&bidPbancOrd=000",
+   "score": 4,
+   "hits": [
+    "유튜브",
+    "홍보"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-09T11:49:21.410295+09:00"
   },
   {
    "id": "bid-R26BK01791455-000",
