@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-09T23:35:38.727184+09:00",
- "total": 964,
+ "updated_at": "2026-11-10T13:45:28.053447+09:00",
+ "total": 967,
  "notices": [
   {
    "id": "bid-R26BK01573703-001",
@@ -18573,6 +18573,27 @@
    "first_seen": "2026-11-09T23:35:38.727184+09:00"
   },
   {
+   "id": "bid-R26BK01814976-000",
+   "kind": "bid",
+   "no": "R26BK01814976-000",
+   "title": "2026년도 국가무형유산 불화장 보유자 인정조사 영상 제작",
+   "org": "국가유산청",
+   "demand_org": "국가유산청",
+   "posted_at": "2026-11-06T13:45:28+09:00",
+   "close_at": "2026-11-09T15:20:00+09:00",
+   "budget": 13000000,
+   "method": "수의계약",
+   "contact": "김지수",
+   "tel": "042-481-4749",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01814976&bidPbancOrd=000",
+   "score": 3,
+   "hits": [
+    "영상제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-10T13:45:28.053447+09:00"
+  },
+  {
    "id": "bid-R26BK01777478-000",
    "kind": "bid",
    "no": "R26BK01777478-000",
@@ -20058,6 +20079,29 @@
    "first_seen": "2026-11-09T23:35:38.727184+09:00"
   },
   {
+   "id": "pre-R26BD00297455",
+   "kind": "prespec",
+   "no": "R26BD00297455",
+   "title": "2027년 국립중앙의료원 유튜브 영상 콘텐츠 제작 용역",
+   "org": "국립중앙의료원",
+   "demand_org": "국립중앙의료원",
+   "posted_at": "2026-11-10T09:42:07+09:00",
+   "close_at": "2026-11-15T23:59:00+09:00",
+   "budget": 50000000,
+   "method": "사전규격 의견등록",
+   "contact": "김아영",
+   "tel": "02-2276-2041",
+   "url": "https://www.g2b.go.kr/pn/pnz/pnza/UntyAtchFile/downloadFile.do?bfSpecRegNo=R26BD00297455&fileType=BFDTL&fileSeq=1",
+   "score": 7,
+   "hits": [
+    "영상콘텐츠",
+    "유튜브",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-10T13:45:28.053447+09:00"
+  },
+  {
    "id": "pre-R26BD00296879",
    "kind": "prespec",
    "no": "R26BD00296879",
@@ -20361,6 +20405,28 @@
    ],
    "starred": false,
    "first_seen": "2026-11-05T22:42:09.028318+09:00"
+  },
+  {
+   "id": "bid-R26BK01815230-000",
+   "kind": "bid",
+   "no": "R26BK01815230-000",
+   "title": "통영 특화 이순신 디지털 콘텐츠 제작 용역",
+   "org": "경상남도 통영시",
+   "demand_org": "경상남도 통영시",
+   "posted_at": "2026-11-06T15:31:47+09:00",
+   "close_at": "2026-11-17T17:00:00+09:00",
+   "budget": 600000000,
+   "method": "제한경쟁",
+   "contact": "유혜경",
+   "tel": "055-650-4422",
+   "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01815230&bidPbancOrd=000",
+   "score": 2,
+   "hits": [
+    "콘텐츠",
+    "제작"
+   ],
+   "starred": false,
+   "first_seen": "2026-11-10T13:45:28.053447+09:00"
   },
   {
    "id": "bid-R26BK01753172-000",
